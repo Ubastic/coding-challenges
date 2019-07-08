@@ -1,2 +1,3 @@
 # 5 Kyu
 * [Tricky Kotlin #6: Reified generic argument for classes](/solutions/kotlin/5%20kyu/Tricky%20Kotlin%206%20Reified%20generic%20argument%20for%20classes) - [CodeWard](https://www.codewars.com/kata/5a50a20fd39ec527b2000011)
+* [Tricky Kotlin #7: Do multiple replacement](/solutions/kotlin/5%20kyu/Tricky%20Kotlin%207%20Do%20multiple%20replacement) - [CodeWard](https://www.codewars.com/kata/5a537ad4145c4615350000ff)

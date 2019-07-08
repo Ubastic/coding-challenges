@@ -1,0 +1,1 @@
+# [Tricky Kotlin #7: Do multiple replacement](https://www.codewars.com/kata/5a537ad4145c4615350000ff)
