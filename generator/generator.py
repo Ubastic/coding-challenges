@@ -8,6 +8,7 @@ from typing import (
     Iterable,
     List,
     Dict,
+    Any,
 )
 from urllib.parse import quote
 
@@ -134,6 +135,21 @@ def write_katas_by_language(language: str, katas: Dict[str, List[Kata]]) -> None
 
     for kuy, kuy_katas in katas.items():
         write_kuy(language, kuy, kuy_katas, language_dir)
+
+
+def write_global_readme(information: Dict[str, Any]) -> None:
+    """
+    Create global README.md with statistic about katas
+    """
+    readme_template = Path.cwd() / 'README_template.md'
+
+    with readme_template.open() as f:
+        template = f.read()
+
+    readme = Path.cwd() / 'README.md'
+
+    with readme.open(mode='w') as f:
+        f.write(template.format(**information))
 
 
 def kata_generator(s: Session, auth_token: str, username: str) -> Iterable[Kata]:
@@ -267,6 +283,30 @@ def main() -> None:
         #
         for language, lang_katas in katas.items():
             write_katas_by_language(language, lang_katas)
+
+        r = s.get(
+            f'{BASE_URL}/users/{args.username}',
+            headers=BASE_HEADERS,
+        )
+        assert r.status_code == codes.ok
+
+        root = from_response(r)
+        # Fetch info about every language kuy
+        data = {
+            honor.contents[0].text.split(':')[0].lower() + '-kuy': honor.contents[-1]
+            for honor in root.select('.honor')
+        }
+
+        total_katas = root.select_one('.nmtm .stat-box:nth-of-type(1) div:last-child')
+        data['overall-katas'] = total_katas.contents[-1]
+
+        # Add information about completed katas
+        data.update({
+            f'{language}-katas': sum(map(len, all_katas.values()))
+            for language, all_katas in katas.items()
+        })
+
+        write_global_readme(data)
 
 
 if __name__ == '__main__':
