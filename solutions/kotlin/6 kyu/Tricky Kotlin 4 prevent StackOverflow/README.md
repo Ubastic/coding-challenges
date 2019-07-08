@@ -1,0 +1,1 @@
+# [Tricky Kotlin #4: prevent StackOverflow](https://www.codewars.com/kata/59eb80eea95427d81a0000fc)
