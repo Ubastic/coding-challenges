@@ -1,0 +1,1 @@
+# [Numbers with d occurences of digit d](https://www.codewars.com/kata/5a40fc7ce1ce0e34440000a3)

@@ -1,0 +1,1 @@
+# [Prime Streaming (NC-17)](https://www.codewars.com/kata/59122604e5bc240817000016)

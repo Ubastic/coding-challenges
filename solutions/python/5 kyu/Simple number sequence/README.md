@@ -1,0 +1,1 @@
+# [Simple number sequence](https://www.codewars.com/kata/5a28cf591f7f7019a80000de)

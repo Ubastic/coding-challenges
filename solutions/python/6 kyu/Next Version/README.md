@@ -1,0 +1,1 @@
+# [Next Version](https://www.codewars.com/kata/56c0ca8c6d88fdb61b000f06)

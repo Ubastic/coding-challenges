@@ -1,0 +1,1 @@
+# [Unique digit sequence II - Optimization problem](https://www.codewars.com/kata/599846fbc2bd3a62a4000031)

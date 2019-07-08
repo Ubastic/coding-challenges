@@ -1,0 +1,1 @@
+# [Context manager decorator](https://www.codewars.com/kata/54e0816286522e95990007de)

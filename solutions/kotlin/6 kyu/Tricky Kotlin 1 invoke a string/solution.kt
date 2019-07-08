@@ -1,0 +1,1 @@
+operator fun <T> String.invoke(a: T): T = a

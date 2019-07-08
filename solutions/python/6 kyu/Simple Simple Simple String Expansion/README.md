@@ -1,0 +1,1 @@
+# [Simple Simple Simple String Expansion](https://www.codewars.com/kata/5ae326342f8cbc72220000d2)

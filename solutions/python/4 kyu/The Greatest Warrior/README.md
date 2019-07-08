@@ -1,0 +1,1 @@
+# [The Greatest Warrior](https://www.codewars.com/kata/5941c545f5c394fef900000c)

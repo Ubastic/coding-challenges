@@ -1,0 +1,1 @@
+# [The takeWhile Function](https://www.codewars.com/kata/54f9173aa58bce9031001548)

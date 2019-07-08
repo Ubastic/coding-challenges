@@ -1,0 +1,1 @@
+# [ES5 Generators(i)](https://www.codewars.com/kata/53c29a6abb5187180d000b65)

@@ -1,0 +1,1 @@
+# [Only-Readable-Once list](https://www.codewars.com/kata/53f17f5b59c3fcd589000390)

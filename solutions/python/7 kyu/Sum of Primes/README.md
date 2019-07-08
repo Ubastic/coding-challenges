@@ -1,0 +1,1 @@
+# [Sum of Primes](https://www.codewars.com/kata/5902ea9b378a92a990000016)

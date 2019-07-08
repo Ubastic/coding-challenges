@@ -1,0 +1,1 @@
+# [One-Semicolon Cartesian Product](https://www.codewars.com/kata/59f7679d3640cef20e0000a0)

@@ -1,0 +1,1 @@
+# [Throwing Darts](https://www.codewars.com/kata/525dfedb5b62f6954d000006)

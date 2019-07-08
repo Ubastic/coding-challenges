@@ -1,0 +1,1 @@
+# [Regex for a decimal number divisible by 4](https://www.codewars.com/kata/5bf6bd7a3efceeda4700011f)
