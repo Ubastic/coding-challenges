@@ -1,0 +1,1 @@
+# [Prime Ant - Performance Version](https://www.codewars.com/kata/5a2e96f1c5e2849eef00014a)

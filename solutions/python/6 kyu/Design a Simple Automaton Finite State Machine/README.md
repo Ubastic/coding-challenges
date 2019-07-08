@@ -1,0 +1,1 @@
+# [Design a Simple Automaton (Finite State Machine)](https://www.codewars.com/kata/5268acac0d3f019add000203)

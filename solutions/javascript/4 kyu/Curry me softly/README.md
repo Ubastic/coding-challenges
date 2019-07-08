@@ -1,0 +1,1 @@
+# [Curry me softly](https://www.codewars.com/kata/55ba24f1cb367c48ac0000a2)

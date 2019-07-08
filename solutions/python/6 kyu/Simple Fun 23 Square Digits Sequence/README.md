@@ -1,0 +1,1 @@
+# [Simple Fun #23: Square Digits Sequence](https://www.codewars.com/kata/5886d65e427c27afeb0000c1)

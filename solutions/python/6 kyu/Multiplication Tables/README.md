@@ -1,0 +1,1 @@
+# [Multiplication Tables](https://www.codewars.com/kata/5432fd1c913a65b28f000342)

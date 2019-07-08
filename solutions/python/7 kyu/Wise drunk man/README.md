@@ -1,0 +1,1 @@
+# [Wise drunk man](https://www.codewars.com/kata/58e953ace87e856a97000046)

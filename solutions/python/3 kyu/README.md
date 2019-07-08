@@ -1,0 +1,12 @@
+# 3 Kyu
+* [Battleship field validator](/solutions/python/3%20kyu/Battleship%20field%20validator) - [CodeWard](https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7)
+* [Binomial Expansion](/solutions/python/3%20kyu/Binomial%20Expansion) - [CodeWard](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b)
+* [Calculator](/solutions/python/3%20kyu/Calculator) - [CodeWard](https://www.codewars.com/kata/5235c913397cbf2508000048)
+* [Last digit of a huge number](/solutions/python/3%20kyu/Last%20digit%20of%20a%20huge%20number) - [CodeWard](https://www.codewars.com/kata/5518a860a73e708c0a000027)
+* [Make a spiral](/solutions/python/3%20kyu/Make%20a%20spiral) - [CodeWard](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6)
+* [Rail Fence Cipher: Encoding and Decoding ](/solutions/python/3%20kyu/Rail%20Fence%20Cipher%20Encoding%20and%20Decoding) - [CodeWard](https://www.codewars.com/kata/58c5577d61aefcf3ff000081)
+* [Sudoku Solver](/solutions/python/3%20kyu/Sudoku%20Solver) - [CodeWard](https://www.codewars.com/kata/5296bc77afba8baa690002d7)
+* [The Millionth Fibonacci Kata](/solutions/python/3%20kyu/The%20Millionth%20Fibonacci%20Kata) - [CodeWard](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26)
+* [The builder of things](/solutions/python/3%20kyu/The%20builder%20of%20things) - [CodeWard](https://www.codewars.com/kata/5571d9fc11526780a000011a)
+* [Type Transpiler](/solutions/python/3%20kyu/Type%20Transpiler) - [CodeWard](https://www.codewars.com/kata/59a6949d398b5d6aec000007)
+* [Unique digit sequence II - Optimization problem](/solutions/python/3%20kyu/Unique%20digit%20sequence%20II%20%20Optimization%20problem) - [CodeWard](https://www.codewars.com/kata/599846fbc2bd3a62a4000031)

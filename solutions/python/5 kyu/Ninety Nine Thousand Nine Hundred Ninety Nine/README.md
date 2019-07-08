@@ -1,0 +1,1 @@
+# [Ninety Nine Thousand Nine Hundred Ninety Nine](https://www.codewars.com/kata/5463c8db865001c1710003b2)

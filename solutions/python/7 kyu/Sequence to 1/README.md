@@ -1,0 +1,1 @@
+# [Sequence to 1](https://www.codewars.com/kata/5a05fe8a06d5b6208e00010b)

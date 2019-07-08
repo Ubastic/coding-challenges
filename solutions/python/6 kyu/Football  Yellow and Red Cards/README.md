@@ -1,0 +1,1 @@
+# [Football - Yellow and Red Cards](https://www.codewars.com/kata/5cde4e3f52910d00130dc92c)

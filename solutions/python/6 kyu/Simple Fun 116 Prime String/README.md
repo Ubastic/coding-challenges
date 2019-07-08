@@ -1,0 +1,1 @@
+# [Simple Fun #116: Prime String](https://www.codewars.com/kata/589d36bbb6c071f7c20000f7)

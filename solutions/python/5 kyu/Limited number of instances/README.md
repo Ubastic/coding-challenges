@@ -1,0 +1,1 @@
+# [Limited number of instances](https://www.codewars.com/kata/5bd36d5e03c3c4a37f0004f4)

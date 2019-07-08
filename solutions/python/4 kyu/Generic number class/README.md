@@ -1,0 +1,1 @@
+# [Generic number class](https://www.codewars.com/kata/54baad292c471514820000a3)

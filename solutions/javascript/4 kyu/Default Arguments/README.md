@@ -1,0 +1,1 @@
+# [Default Arguments](https://www.codewars.com/kata/52605419be184942d400003d)

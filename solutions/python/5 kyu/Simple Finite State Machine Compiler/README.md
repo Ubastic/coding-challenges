@@ -1,0 +1,1 @@
+# [Simple Finite State Machine Compiler](https://www.codewars.com/kata/59923f1301726f5430000059)

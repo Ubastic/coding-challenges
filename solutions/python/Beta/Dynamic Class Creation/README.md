@@ -1,0 +1,1 @@
+# [Dynamic Class Creation](https://www.codewars.com/kata/57fab8a32b531416560005a5)

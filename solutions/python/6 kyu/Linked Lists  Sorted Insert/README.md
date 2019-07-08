@@ -1,0 +1,1 @@
+# [Linked Lists - Sorted Insert](https://www.codewars.com/kata/55cc33e97259667a08000044)

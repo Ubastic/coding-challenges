@@ -1,0 +1,1 @@
+# [Metaclasses - Simple Django Models](https://www.codewars.com/kata/54b26b130786c9f7ed000555)

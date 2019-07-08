@@ -1,0 +1,1 @@
+# [Multiple remainder of the division](https://www.codewars.com/kata/5a2f83daee1aae4f1c00007e)

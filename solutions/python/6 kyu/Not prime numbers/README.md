@@ -1,0 +1,1 @@
+# [Not prime numbers](https://www.codewars.com/kata/5a9a70cf5084d74ff90000f7)
