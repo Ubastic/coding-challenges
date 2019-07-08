@@ -1,0 +1,1 @@
+# [Tricky Kotlin #2: three fundamental functions](https://www.codewars.com/kata/59b33fb95227ddcb5f0000d4)

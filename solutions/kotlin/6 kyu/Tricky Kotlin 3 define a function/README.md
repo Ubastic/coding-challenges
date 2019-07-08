@@ -1,0 +1,1 @@
+# [Tricky Kotlin #3: define a function](https://www.codewars.com/kata/59b3d479623654e11000006f)
