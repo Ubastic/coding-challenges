@@ -1,0 +1,1 @@
+# [Tricky Kotlin #0: extension constructor](https://www.codewars.com/kata/59b336de5fb1334711000067)
