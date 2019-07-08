@@ -1,0 +1,1 @@
+# [Tricky Kotlin #5: go into a class](https://www.codewars.com/kata/59eb8739fc3c49b67a00007d)

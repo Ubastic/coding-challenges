@@ -1,0 +1,1 @@
+operator fun <T> Box.invoke(block: Box.() -> T) = with(this, block)
