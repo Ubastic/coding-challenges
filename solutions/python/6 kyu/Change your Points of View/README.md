@@ -1,0 +1,1 @@
+# [Change your Points of View](https://www.codewars.com/kata/5ca3ae9bb7de3a0025c5c740)

@@ -9,6 +9,7 @@
 * [Build Tower](/solutions/python/6%20kyu/Build%20Tower) - [CodeWard](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
 * [Build a pile of Cubes](/solutions/python/6%20kyu/Build%20a%20pile%20of%20Cubes) - [CodeWard](https://www.codewars.com/kata/5592e3bd57b64d00f3000047)
 * [CamelCase Method](/solutions/python/6%20kyu/CamelCase%20Method) - [CodeWard](https://www.codewars.com/kata/587731fda577b3d1b0001196)
+* [Change your Points of View](/solutions/python/6%20kyu/Change%20your%20Points%20of%20View) - [CodeWard](https://www.codewars.com/kata/5ca3ae9bb7de3a0025c5c740)
 * [Clone Graph](/solutions/python/6%20kyu/Clone%20Graph) - [CodeWard](https://www.codewars.com/kata/5c9a6e225ae9822e70abc7c1)
 * [Closest Sum](/solutions/python/6%20kyu/Closest%20Sum) - [CodeWard](https://www.codewars.com/kata/577e694af5db624cf30002d0)
 * [Convert string to camel case](/solutions/python/6%20kyu/Convert%20string%20to%20camel%20case) - [CodeWard](https://www.codewars.com/kata/517abf86da9663f1d2000003)
