@@ -1,0 +1,1 @@
+# [Parity bit - Error detecting code](https://www.codewars.com/kata/58409435258e102ae900030f)
