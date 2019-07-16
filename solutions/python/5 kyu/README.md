@@ -3,6 +3,7 @@
 * [Calculating with Functions](/solutions/python/5%20kyu/Calculating%20with%20Functions) - [CodeWard](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 * [Can you get the loop ?](/solutions/python/5%20kyu/Can%20you%20get%20the%20loop) - [CodeWard](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863)
 * [Common Denominators](/solutions/python/5%20kyu/Common%20Denominators) - [CodeWard](https://www.codewars.com/kata/54d7660d2daf68c619000d95)
+* [Complete Binary Tree](/solutions/python/5%20kyu/Complete%20Binary%20Tree) - [CodeWard](https://www.codewars.com/kata/5c80b55e95eba7650dc671ea)
 * [Did I Finish my Sudoku?](/solutions/python/5%20kyu/Did%20I%20Finish%20my%20Sudoku) - [CodeWard](https://www.codewars.com/kata/53db96041f1a7d32dc0004d2)
 * [Extract the domain name from a URL](/solutions/python/5%20kyu/Extract%20the%20domain%20name%20from%20a%20URL) - [CodeWard](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 * [Factorial decomposition](/solutions/python/5%20kyu/Factorial%20decomposition) - [CodeWard](https://www.codewars.com/kata/5a045fee46d843effa000070)
