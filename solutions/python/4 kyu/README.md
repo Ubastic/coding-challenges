@@ -35,6 +35,7 @@
 * [Snail](/solutions/python/4%20kyu/Snail) - [CodeWard](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
 * [Sort binary tree by levels](/solutions/python/4%20kyu/Sort%20binary%20tree%20by%20levels) - [CodeWard](https://www.codewars.com/kata/52bef5e3588c56132c0003bc)
 * [Square and Cube of a Number Become Prime When Reversed](/solutions/python/4%20kyu/Square%20and%20Cube%20of%20a%20Number%20Become%20Prime%20When%20Reversed) - [CodeWard](https://www.codewars.com/kata/5644a69f7849c9c097000073)
+* [Stack Arithmetic Machine](/solutions/python/4%20kyu/Stack%20Arithmetic%20Machine) - [CodeWard](https://www.codewars.com/kata/54c1bf903f0696f04600068b)
 * [Strings Mix](/solutions/python/4%20kyu/Strings%20Mix) - [CodeWard](https://www.codewars.com/kata/5629db57620258aa9d000014)
 * [Strip Comments](/solutions/python/4%20kyu/Strip%20Comments) - [CodeWard](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
 * [Sudoku Solution Validator](/solutions/python/4%20kyu/Sudoku%20Solution%20Validator) - [CodeWard](https://www.codewars.com/kata/529bf0e9bdf7657179000008)

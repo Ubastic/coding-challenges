@@ -1,0 +1,1 @@
+# [Stack Arithmetic Machine](https://www.codewars.com/kata/54c1bf903f0696f04600068b)
