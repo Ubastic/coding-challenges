@@ -9,6 +9,7 @@
 * [Connect Four](/solutions/python/4%20kyu/Connect%20Four) - [CodeWard](https://www.codewars.com/kata/56882731514ec3ec3d000009)
 * [Counting Change Combinations](/solutions/python/4%20kyu/Counting%20Change%20Combinations) - [CodeWard](https://www.codewars.com/kata/541af676b589989aed0009e7)
 * [Counting String Subsequences](/solutions/python/4%20kyu/Counting%20String%20Subsequences) - [CodeWard](https://www.codewars.com/kata/52f7892a747862fc9a0009a6)
+* [Counting inner calls in an unknown function.](/solutions/python/4%20kyu/Counting%20inner%20calls%20in%20an%20unknown%20function) - [CodeWard](https://www.codewars.com/kata/53efc28911c36ff01e00012c)
 * [Currying vs. Partial Application](/solutions/python/4%20kyu/Currying%20vs%20Partial%20Application) - [CodeWard](https://www.codewars.com/kata/53cf7e37e9876c35a60002c9)
 * [Decode the Morse code, advanced](/solutions/python/4%20kyu/Decode%20the%20Morse%20code%20advanced) - [CodeWard](https://www.codewars.com/kata/54b72c16cd7f5154e9000457)
 * [Differentiate a polynomial](/solutions/python/4%20kyu/Differentiate%20a%20polynomial) - [CodeWard](https://www.codewars.com/kata/566584e3309db1b17d000027)
