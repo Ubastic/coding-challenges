@@ -14,6 +14,7 @@
 * [Decode the Morse code, advanced](/solutions/python/4%20kyu/Decode%20the%20Morse%20code%20advanced) - [CodeWard](https://www.codewars.com/kata/54b72c16cd7f5154e9000457)
 * [Differentiate a polynomial](/solutions/python/4%20kyu/Differentiate%20a%20polynomial) - [CodeWard](https://www.codewars.com/kata/566584e3309db1b17d000027)
 * [Explosive Sum](/solutions/python/4%20kyu/Explosive%20Sum) - [CodeWard](https://www.codewars.com/kata/52ec24228a515e620b0005ef)
+* [Find all possible number combos that sum to a number](/solutions/python/4%20kyu/Find%20all%20possible%20number%20combos%20that%20sum%20to%20a%20number) - [CodeWard](https://www.codewars.com/kata/555b1890a75b930e63000023)
 * [Find the unknown digit](/solutions/python/4%20kyu/Find%20the%20unknown%20digit) - [CodeWard](https://www.codewars.com/kata/546d15cebed2e10334000ed9)
 * [Generic number class](/solutions/python/4%20kyu/Generic%20number%20class) - [CodeWard](https://www.codewars.com/kata/54baad292c471514820000a3)
 * [Human readable duration format](/solutions/python/4%20kyu/Human%20readable%20duration%20format) - [CodeWard](https://www.codewars.com/kata/52742f58faf5485cae000b9a)

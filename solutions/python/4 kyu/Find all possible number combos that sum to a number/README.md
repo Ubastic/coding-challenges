@@ -1,0 +1,1 @@
+# [Find all possible number combos that sum to a number](https://www.codewars.com/kata/555b1890a75b930e63000023)
