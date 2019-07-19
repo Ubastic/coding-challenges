@@ -1,0 +1,1 @@
+# [2D array inner join](https://www.codewars.com/kata/56b7a75cbd06e6237000138b)

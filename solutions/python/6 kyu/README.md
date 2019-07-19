@@ -1,4 +1,5 @@
 # 6 Kyu
+* [2D array inner join](/solutions/python/6%20kyu/2D%20array%20inner%20join) - [CodeWard](https://www.codewars.com/kata/56b7a75cbd06e6237000138b)
 * [Ackermann Function ](/solutions/python/6%20kyu/Ackermann%20Function) - [CodeWard](https://www.codewars.com/kata/53ad69892a27079b34000bd9)
 * [Add commas to a number](/solutions/python/6%20kyu/Add%20commas%20to%20a%20number) - [CodeWard](https://www.codewars.com/kata/56a115cadb39a2faa000001e)
 * [Alphabetized](/solutions/python/6%20kyu/Alphabetized) - [CodeWard](https://www.codewars.com/kata/5970df092ef474680a0000c9)
