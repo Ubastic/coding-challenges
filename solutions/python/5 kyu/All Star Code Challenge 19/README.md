@@ -1,0 +1,1 @@
+# [All Star Code Challenge #19](https://www.codewars.com/kata/5865a407b359c45982000036)
