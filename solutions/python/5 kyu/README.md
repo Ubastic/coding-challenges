@@ -28,6 +28,7 @@
 * [Pete, the baker](/solutions/python/5%20kyu/Pete%20the%20baker) - [CodeWard](https://www.codewars.com/kata/525c65e51bf619685c000059)
 * [Pick peaks](/solutions/python/5%20kyu/Pick%20peaks) - [CodeWard](https://www.codewars.com/kata/5279f6fe5ab7f447890006a7)
 * [Prime Ant - Performance Version](/solutions/python/5%20kyu/Prime%20Ant%20%20Performance%20Version) - [CodeWard](https://www.codewars.com/kata/5a2e96f1c5e2849eef00014a)
+* [Primes in numbers](/solutions/python/5%20kyu/Primes%20in%20numbers) - [CodeWard](https://www.codewars.com/kata/54d512e62a5e54c96200019e)
 * [Product of consecutive Fib numbers](/solutions/python/5%20kyu/Product%20of%20consecutive%20Fib%20numbers) - [CodeWard](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
 * [Python Reflection: Disassembling the secret](/solutions/python/5%20kyu/Python%20Reflection%20Disassembling%20the%20secret) - [CodeWard](https://www.codewars.com/kata/59b5896322f6bbe260002aa0)
 * [RGB To Hex Conversion](/solutions/python/5%20kyu/RGB%20To%20Hex%20Conversion) - [CodeWard](https://www.codewars.com/kata/513e08acc600c94f01000001)
