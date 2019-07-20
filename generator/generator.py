@@ -152,11 +152,13 @@ def write_global_readme(information: Dict[str, Any]) -> None:
         f.write(template.format(**information))
 
 
-def kata_generator(s: Session, auth_token: str, username: str) -> Iterable[Kata]:
+def kata_generator(s: Session, auth_token: str, username: str, number: int = None) -> Iterable[Kata]:
     """
     Create generator that yield all kata solutions for user
     """
-    for i in count():
+    numbers = count() if number is None else range(number)
+
+    for i in numbers:
         r = s.get(
             f'{BASE_URL}/users/{username}/completed_solutions',
             headers={
@@ -213,6 +215,7 @@ def from_response(r: Response) -> BeautifulSoup:
 
 
 def main() -> None:
+    # TODO: use `click` instead argparser
     parser = ArgumentParser()
 
     parser.add_argument(
@@ -232,6 +235,15 @@ def main() -> None:
         '--password',
         action='store',
         dest='password',
+    )
+    parser.add_argument(
+        '-n',
+        '--number',
+        action='store',
+        dest='number',
+        type=int,
+        required=False,
+        default=None,
     )
 
     args = parser.parse_args()
@@ -260,7 +272,7 @@ def main() -> None:
         # Group all katas by language and kuy
         katas: Dict[str, Dict[str, List[Kata]]] = defaultdict(lambda: defaultdict(list))
 
-        for kata in kata_generator(s, auth_token, args.username):
+        for kata in kata_generator(s, auth_token, args.username, args.number):
             for language in kata.solutions:
                 katas[language][kata.kuy].append(kata)
 
