@@ -25,6 +25,7 @@
 * [Decode the Morse code ](/solutions/python/6%20kyu/Decode%20the%20Morse%20code) - [CodeWard](https://www.codewars.com/kata/54b724efac3d5402db00065e)
 * [Delete occurrences of an element if it occurs more than n times](/solutions/python/6%20kyu/Delete%20occurrences%20of%20an%20element%20if%20it%20occurs%20more%20than%20n%20times) - [CodeWard](https://www.codewars.com/kata/554ca54ffa7d91b236000023)
 * [Design a Simple Automaton (Finite State Machine)](/solutions/python/6%20kyu/Design%20a%20Simple%20Automaton%20Finite%20State%20Machine) - [CodeWard](https://www.codewars.com/kata/5268acac0d3f019add000203)
+* [Detect Pangram](/solutions/python/6%20kyu/Detect%20Pangram) - [CodeWard](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
 * [Does my number look big in this?](/solutions/python/6%20kyu/Does%20my%20number%20look%20big%20in%20this) - [CodeWard](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
 * [Don't rely on luck.](/solutions/python/6%20kyu/Dont%20rely%20on%20luck) - [CodeWard](https://www.codewars.com/kata/5268af3872b786f006000228)
 * [Dubstep](/solutions/python/6%20kyu/Dubstep) - [CodeWard](https://www.codewars.com/kata/551dc350bf4e526099000ae5)
