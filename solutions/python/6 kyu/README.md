@@ -14,6 +14,7 @@
 * [Change your Points of View](/solutions/python/6%20kyu/Change%20your%20Points%20of%20View) - [CodeWard](https://www.codewars.com/kata/5ca3ae9bb7de3a0025c5c740)
 * [Clone Graph](/solutions/python/6%20kyu/Clone%20Graph) - [CodeWard](https://www.codewars.com/kata/5c9a6e225ae9822e70abc7c1)
 * [Closest Sum](/solutions/python/6%20kyu/Closest%20Sum) - [CodeWard](https://www.codewars.com/kata/577e694af5db624cf30002d0)
+* [Consecutive strings](/solutions/python/6%20kyu/Consecutive%20strings) - [CodeWard](https://www.codewars.com/kata/56a5d994ac971f1ac500003e)
 * [Convert string to camel case](/solutions/python/6%20kyu/Convert%20string%20to%20camel%20case) - [CodeWard](https://www.codewars.com/kata/517abf86da9663f1d2000003)
 * [Count characters in your string](/solutions/python/6%20kyu/Count%20characters%20in%20your%20string) - [CodeWard](https://www.codewars.com/kata/52efefcbcdf57161d4000091)
 * [Count the smiley faces!](/solutions/python/6%20kyu/Count%20the%20smiley%20faces) - [CodeWard](https://www.codewars.com/kata/583203e6eb35d7980400002a)
