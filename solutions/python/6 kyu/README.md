@@ -73,6 +73,7 @@
 * [Pascal's Triangle](/solutions/python/6%20kyu/Pascals%20Triangle) - [CodeWard](https://www.codewars.com/kata/5226eb40316b56c8d500030f)
 * [Persistent Bugger.](/solutions/python/6%20kyu/Persistent%20Bugger) - [CodeWard](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
 * [Playing with digits](/solutions/python/6%20kyu/Playing%20with%20digits) - [CodeWard](https://www.codewars.com/kata/5552101f47fc5178b1000050)
+* [Prefill an Array](/solutions/python/6%20kyu/Prefill%20an%20Array) - [CodeWard](https://www.codewars.com/kata/54129112fb7c188740000162)
 * [Prime ant](/solutions/python/6%20kyu/Prime%20ant) - [CodeWard](https://www.codewars.com/kata/5a2c084ab6cfd7f0840000e4)
 * [Proof Read ](/solutions/python/6%20kyu/Proof%20Read) - [CodeWard](https://www.codewars.com/kata/583710f6b468c07ba1000017)
 * [Rectangle into Squares](/solutions/python/6%20kyu/Rectangle%20into%20Squares) - [CodeWard](https://www.codewars.com/kata/55466989aeecab5aac00003e)
