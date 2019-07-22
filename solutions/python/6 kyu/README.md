@@ -44,6 +44,7 @@
 * [Give me a Diamond](/solutions/python/6%20kyu/Give%20me%20a%20Diamond) - [CodeWard](https://www.codewars.com/kata/5503013e34137eeeaa001648)
 * [Grouped by commas](/solutions/python/6%20kyu/Grouped%20by%20commas) - [CodeWard](https://www.codewars.com/kata/5274e122fc75c0943d000148)
 * [Highest Rank Number in an Array](/solutions/python/6%20kyu/Highest%20Rank%20Number%20in%20an%20Array) - [CodeWard](https://www.codewars.com/kata/5420fc9bb5b2c7fd57000004)
+* [Highest Scoring Word](/solutions/python/6%20kyu/Highest%20Scoring%20Word) - [CodeWard](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
 * [How many feelings?](/solutions/python/6%20kyu/How%20many%20feelings) - [CodeWard](https://www.codewars.com/kata/5a33ec23ee1aaebecf000130)
 * [IP Validation](/solutions/python/6%20kyu/IP%20Validation) - [CodeWard](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)
 * [IPv4 to int32](/solutions/python/6%20kyu/IPv4%20to%20int32) - [CodeWard](https://www.codewars.com/kata/52ea928a1ef5cfec800003ee)
