@@ -153,13 +153,12 @@ def write_global_readme(information: Dict[str, Any]) -> None:
         f.write(template.format(**information))
 
 
-def kata_generator(s: Session, auth_token: str, username: str, number: int = None) -> Iterable[Kata]:
+def kata_generator(s: Session, auth_token: str, username: str) -> Iterable[Kata]:
     """
     Create generator that yield all kata solutions for user
     """
-    numbers = count() if number is None else range(number)
 
-    for i in numbers:
+    for i in count():
         r = s.get(
             f'{BASE_URL}/users/{username}/completed_solutions',
             headers={
@@ -230,12 +229,7 @@ def from_response(r: Response) -> BeautifulSoup:
     '-e', '--email',
     type=str,
 )
-@click.option(
-    '-n', '--number',
-    type=int,
-    default=None,
-)
-def main(username: str, password: str, email: str, number: int) -> None:
+def main(username: str, password: str, email: str) -> None:
     with Session() as s:
         r = s.get(f'{BASE_URL}/users/sign_in')
         assert r.status_code == codes.ok
@@ -260,7 +254,7 @@ def main(username: str, password: str, email: str, number: int) -> None:
         # Group all katas by language and kuy
         katas: Dict[str, Dict[str, List[Kata]]] = defaultdict(lambda: defaultdict(list))
 
-        for kata in kata_generator(s, auth_token, username, number):
+        for kata in kata_generator(s, auth_token, username):
             for language in kata.solutions:
                 katas[language][kata.kuy].append(kata)
 
