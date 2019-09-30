@@ -1,0 +1,1 @@
+# [Sum consecutives](https://www.codewars.com/kata/55eeddff3f64c954c2000059)

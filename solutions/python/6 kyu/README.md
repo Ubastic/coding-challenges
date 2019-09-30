@@ -101,6 +101,7 @@
 * [Steps in Primes](/solutions/python/6%20kyu/Steps%20in%20Primes) - [CodeWard](https://www.codewars.com/kata/5613d06cee1e7da6d5000055)
 * [Stop gninnipS My sdroW!](/solutions/python/6%20kyu/Stop%20gninnipS%20My%20sdroW) - [CodeWard](https://www.codewars.com/kata/5264d2b162488dc400000001)
 * [Strip Url Params](/solutions/python/6%20kyu/Strip%20Url%20Params) - [CodeWard](https://www.codewars.com/kata/51646de80fd67f442c000013)
+* [Sum consecutives](/solutions/python/6%20kyu/Sum%20consecutives) - [CodeWard](https://www.codewars.com/kata/55eeddff3f64c954c2000059)
 * [Sum of Digits / Digital Root](/solutions/python/6%20kyu/Sum%20of%20Digits%20%20Digital%20Root) - [CodeWard](https://www.codewars.com/kata/541c8630095125aba6000c00)
 * [Sum of Digits / Digital Root](/solutions/python/6%20kyu/Sum%20of%20Digits%20%20Digital%20Root) - [CodeWard](https://www.codewars.com/kata/541c8630095125aba6000c00)
 * [Sum of a Sequence [Hard-Core Version]](/solutions/python/6%20kyu/Sum%20of%20a%20Sequence%20HardCore%20Version) - [CodeWard](https://www.codewars.com/kata/587a88a208236efe8500008b)
