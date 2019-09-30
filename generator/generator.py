@@ -1,4 +1,5 @@
-from argparse import ArgumentParser
+import click
+
 from collections import defaultdict
 from itertools import count
 from pathlib import Path
@@ -214,40 +215,27 @@ def from_response(r: Response) -> BeautifulSoup:
     return BeautifulSoup(r.text, features="html.parser")
 
 
-def main() -> None:
-    # TODO: use `click` instead argparser
-    parser = ArgumentParser()
-
-    parser.add_argument(
-        '-u',
-        '--username',
-        action='store',
-        dest='username',
-    )
-    parser.add_argument(
-        '-e',
-        '--email',
-        action='store',
-        dest='email',
-    )
-    parser.add_argument(
-        '-p',
-        '--password',
-        action='store',
-        dest='password',
-    )
-    parser.add_argument(
-        '-n',
-        '--number',
-        action='store',
-        dest='number',
-        type=int,
-        required=False,
-        default=None,
-    )
-
-    args = parser.parse_args()
-
+@click.command()
+@click.option(
+    '-u',
+    '--username',
+    type=str,
+)
+@click.option(
+    '-p',
+    '--password',
+    type=str,
+)
+@click.option(
+    '-e', '--email',
+    type=str,
+)
+@click.option(
+    '-n', '--number',
+    type=int,
+    default=None,
+)
+def main(username: str, password: str, email: str, number: int) -> None:
     with Session() as s:
         r = s.get(f'{BASE_URL}/users/sign_in')
         assert r.status_code == codes.ok
@@ -262,8 +250,8 @@ def main() -> None:
             data={
                 'utf-8': '',
                 'authenticity_token': auth_token,
-                'user[email]': args.email,
-                'user[password]': args.password,
+                'user[email]': email,
+                'user[password]': password,
                 'user[remember_me]': 'true',
             },
         )
@@ -272,7 +260,7 @@ def main() -> None:
         # Group all katas by language and kuy
         katas: Dict[str, Dict[str, List[Kata]]] = defaultdict(lambda: defaultdict(list))
 
-        for kata in kata_generator(s, auth_token, args.username, args.number):
+        for kata in kata_generator(s, auth_token, username, number):
             for language in kata.solutions:
                 katas[language][kata.kuy].append(kata)
 
@@ -297,7 +285,7 @@ def main() -> None:
             write_katas_by_language(language, lang_katas)
 
         r = s.get(
-            f'{BASE_URL}/users/{args.username}',
+            f'{BASE_URL}/users/{username}',
             headers=BASE_HEADERS,
         )
         assert r.status_code == codes.ok
