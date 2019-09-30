@@ -1,10 +1,12 @@
 # 5 Kyu
 * [A Chain adding function](/solutions/python/5%20kyu/A%20Chain%20adding%20function) - [CodeWard](https://www.codewars.com/kata/539a0e4d85e3425cb0000a88)
 * [All Star Code Challenge #19](/solutions/python/5%20kyu/All%20Star%20Code%20Challenge%2019) - [CodeWard](https://www.codewars.com/kata/5865a407b359c45982000036)
+* [Bananas](/solutions/python/5%20kyu/Bananas) - [CodeWard](https://www.codewars.com/kata/5917fbed9f4056205a00001e)
 * [Calculating with Functions](/solutions/python/5%20kyu/Calculating%20with%20Functions) - [CodeWard](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 * [Can you get the loop ?](/solutions/python/5%20kyu/Can%20you%20get%20the%20loop) - [CodeWard](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863)
 * [Common Denominators](/solutions/python/5%20kyu/Common%20Denominators) - [CodeWard](https://www.codewars.com/kata/54d7660d2daf68c619000d95)
 * [Complete Binary Tree](/solutions/python/5%20kyu/Complete%20Binary%20Tree) - [CodeWard](https://www.codewars.com/kata/5c80b55e95eba7650dc671ea)
+* [Context manager decorator](/solutions/python/5%20kyu/Context%20manager%20decorator) - [CodeWard](https://www.codewars.com/kata/54e0816286522e95990007de)
 * [Did I Finish my Sudoku?](/solutions/python/5%20kyu/Did%20I%20Finish%20my%20Sudoku) - [CodeWard](https://www.codewars.com/kata/53db96041f1a7d32dc0004d2)
 * [Extract the domain name from a URL](/solutions/python/5%20kyu/Extract%20the%20domain%20name%20from%20a%20URL) - [CodeWard](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 * [Factorial decomposition](/solutions/python/5%20kyu/Factorial%20decomposition) - [CodeWard](https://www.codewars.com/kata/5a045fee46d843effa000070)
