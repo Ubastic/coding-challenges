@@ -107,6 +107,7 @@
 * [Sum of Digits / Digital Root](/solutions/python/6%20kyu/Sum%20of%20Digits%20%20Digital%20Root) - [CodeWard](https://www.codewars.com/kata/541c8630095125aba6000c00)
 * [Sum of a Sequence [Hard-Core Version]](/solutions/python/6%20kyu/Sum%20of%20a%20Sequence%20HardCore%20Version) - [CodeWard](https://www.codewars.com/kata/587a88a208236efe8500008b)
 * [Sum of prime-indexed elements](/solutions/python/6%20kyu/Sum%20of%20primeindexed%20elements) - [CodeWard](https://www.codewars.com/kata/59f38b033640ce9fc700015b)
+* [TV Remote (shift and space)](/solutions/python/6%20kyu/TV%20Remote%20shift%20and%20space) - [CodeWard](https://www.codewars.com/kata/5b277e94b6989dd1d9000009)
 * [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](/solutions/python/6%20kyu/Take%20a%20Number%20And%20Sum%20Its%20Digits%20Raised%20To%20The%20Consecutive%20Powers%20And%20%C2%A1Eureka) - [CodeWard](https://www.codewars.com/kata/5626b561280a42ecc50000d1)
 * [The Supermarket Queue](/solutions/python/6%20kyu/The%20Supermarket%20Queue) - [CodeWard](https://www.codewars.com/kata/57b06f90e298a7b53d000a86)
 * [Throwing Darts](/solutions/python/6%20kyu/Throwing%20Darts) - [CodeWard](https://www.codewars.com/kata/525dfedb5b62f6954d000006)
