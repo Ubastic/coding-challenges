@@ -31,6 +31,7 @@
 * [Dubstep](/solutions/python/6%20kyu/Dubstep) - [CodeWard](https://www.codewars.com/kata/551dc350bf4e526099000ae5)
 * [Duplicate Encoder](/solutions/python/6%20kyu/Duplicate%20Encoder) - [CodeWard](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 * [Equal Sides Of An Array](/solutions/python/6%20kyu/Equal%20Sides%20Of%20An%20Array) - [CodeWard](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
+* [FIXME: Hello](/solutions/python/6%20kyu/FIXME%20Hello) - [CodeWard](https://www.codewars.com/kata/5b0a80ce84a30f4762000069)
 * [Filter valid romans](/solutions/python/6%20kyu/Filter%20valid%20romans) - [CodeWard](https://www.codewars.com/kata/58334362c5637ad0bb0001c2)
 * [Find The Parity Outlier](/solutions/python/6%20kyu/Find%20The%20Parity%20Outlier) - [CodeWard](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 * [Find the missing letter](/solutions/python/6%20kyu/Find%20the%20missing%20letter) - [CodeWard](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
