@@ -1,15 +1,8 @@
-KEYBOARD = ("abcde123", "fghij456", "klmno789", "pqrst.@0", "uvwxyz_/", '* ')
-
-
-def index_of(c: str):
-    c = c.lower()
-    for i, keys in enumerate(KEYBOARD):
-        if c in keys:
-            return keys.index(c), i
-
-
-def diff(a: int, b: int) -> int:
-    return max(a, b) - min(a, b)
+KEYBOARD = {
+    c: (j, i)
+    for i, a in enumerate(("abcde123", "fghij456", "klmno789", "pqrst.@0", "uvwxyz_/", '* '))
+    for j, c in enumerate(a)
+}
 
 
 def chars(words: str):
@@ -23,9 +16,7 @@ def chars(words: str):
 
 def tv_remote(words) -> int:
     start_pos, clicks = (0, 0), 0
-
     for c in chars(words):
-        next_pos = index_of(c)
-        clicks, start_pos = clicks + sum(map(diff, next_pos, start_pos)) + 1, next_pos
-
+        clicks += sum(map(lambda a, b: max(a, b) - min(a, b), KEYBOARD[c.lower()], start_pos)) + 1
+        start_pos = KEYBOARD[c.lower()]
     return clicks
