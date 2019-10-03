@@ -62,7 +62,7 @@ def create_readme(base_dir: Path, content: str) -> None:
     Create README.md file in provided directory
     """
     readme = base_dir / 'README.md'
-    readme.write_text(content)
+    readme.write_text(content, encoding='utf-8')
 
 
 def create_path(path: Path) -> Path:
