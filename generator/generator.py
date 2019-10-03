@@ -1,23 +1,26 @@
-import click
-
 from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor
 from itertools import count
 from pathlib import Path
 from string import punctuation
 from typing import (
-    NamedTuple,
+    Any,
+    Dict,
     Iterable,
     List,
-    Dict,
-    Any,
+    NamedTuple,
 )
 from urllib.parse import quote
 
-from bs4 import BeautifulSoup
+import click
+from bs4 import (
+    BeautifulSoup,
+    Tag,
+)
 from requests import (
-    Session,
     codes,
     Response,
+    Session,
 )
 
 BASE_URL = 'https://www.codewars.com'
@@ -36,6 +39,8 @@ LANGUAGE_FILE_EXTENSION = {
     'java': 'java',
     'haskell': 'hs',
 }
+LONGEST_LANGUAGE = max(map(len, LANGUAGE_FILE_EXTENSION)) + 1
+NUMBERS = count(1)
 
 
 class Kata(NamedTuple):
@@ -57,9 +62,7 @@ def create_readme(base_dir: Path, content: str) -> None:
     Create README.md file in provided directory
     """
     readme = base_dir / 'README.md'
-
-    with readme.open(mode='w', encoding='utf-8') as f:
-        f.write(content)
+    readme.write_text(content)
 
 
 def create_path(path: Path) -> Path:
@@ -84,12 +87,11 @@ def write_kata(language: str, kata: Kata, kuy_dir: Path) -> None:
     kata_dir = create_path(kuy_dir / valid_dir_name(kata.name))
 
     description = f'# [{kata.name}]({kata.link})'
+    print(f'{next(NUMBERS):<5} {language:<{LONGEST_LANGUAGE}} # {kata.name}')
     create_readme(kata_dir, description)
 
     solution = kata_dir / f'solution.{LANGUAGE_FILE_EXTENSION[language]}'
-
-    with solution.open(mode='w', encoding='utf-8') as f:
-        f.write(kata.solutions[language][0])
+    solution.write_text(kata.solutions[language][0])
 
 
 def write_kuy(language: str, kuy: str, katas: List[Kata], language_dir: Path) -> None:
@@ -148,17 +150,17 @@ def write_global_readme(information: Dict[str, Any]) -> None:
         template = f.read()
 
     readme = Path.cwd() / 'README.md'
-
-    with readme.open(mode='w') as f:
-        f.write(template.format(**information))
+    readme.write_text(template.format(**information))
 
 
-def kata_generator(s: Session, auth_token: str, username: str) -> Iterable[Kata]:
+def kata_pages(s: Session, auth_token: str, username: str, chunks: int = 10) -> Iterable[Tag]:
     """
-    Create generator that yield all kata solutions for user
+    Create generator that concurrently yield all kata solutions for user
     """
+    pages = count()
+    pool = ThreadPoolExecutor(chunks)
 
-    for i in count():
+    def fetch(page_number: int) -> Response:
         r = s.get(
             f'{BASE_URL}/users/{username}/completed_solutions',
             headers={
@@ -167,44 +169,54 @@ def kata_generator(s: Session, auth_token: str, username: str) -> Iterable[Kata]
                 'Authorization': auth_token,
             },
             params={
-                'page': i,
+                'page': page_number,
             }
         )
         assert r.status_code == codes.ok
+        return r
 
-        items = from_response(r).select('.list-item')
+    while True:
+        for response in pool.map(fetch, (next(pages) for _ in range(chunks))):
+            items = from_response(response).select('.list-item')
 
-        if not items:
-            break
+            if not items:
+                return
 
-        for item in items:
-            kuy = item.select_one('.is-extra-wide span').text
-            kata_ref = item.select_one('.mrm + a')
+            yield from items
 
-            name = kata_ref.text
-            base_href = kata_ref.attrs['href']
 
-            href = f'{BASE_URL}{base_href}'
+def kata_generator(s: Session, auth_token: str, username: str) -> Iterable[Kata]:
+    """
+    Create generator that yield all kata solutions for user
+    """
+    for item in kata_pages(s, auth_token, username):
+        kuy = item.select_one('.is-extra-wide span').text
+        kata_ref = item.select_one('.mrm + a')
 
-            solutions = defaultdict(list)
-            language = None
+        name = kata_ref.text
+        base_href = kata_ref.attrs['href']
 
-            for part in item.select('.item-title ~ .markdown, .item-title ~ h6'):
-                if part.name == 'h6':
-                    language, *_ = part.text.split(':')
-                    language = language.strip().lower()
-                else:
-                    assert language is not None, "Language must be set"
-                    code = part.select_one('code').text
+        href = f'{BASE_URL}{base_href}'
 
-                    solutions[language].append(code)
+        solutions = defaultdict(list)
+        language = None
 
-            yield Kata(
-                name=name,
-                link=href,
-                kuy=kuy,
-                solutions={**solutions},
-            )
+        for part in item.select('.item-title ~ .markdown, .item-title ~ h6'):
+            if part.name == 'h6':
+                language, *_ = part.text.split(':')
+                language = language.strip().lower()
+            else:
+                assert language is not None, "Language must be set"
+                code = part.select_one('code').text
+
+                solutions[language].append(code)
+
+        yield Kata(
+            name=name,
+            link=href,
+            kuy=kuy,
+            solutions={**solutions},
+        )
 
 
 def from_response(r: Response) -> BeautifulSoup:
