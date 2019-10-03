@@ -3,6 +3,7 @@
 * [Algebraic Lists](/solutions/python/4%20kyu/Algebraic%20Lists) - [CodeWard](https://www.codewars.com/kata/529a92d9aba78c356b000353)
 * [All Balanced Parentheses](/solutions/python/4%20kyu/All%20Balanced%20Parentheses) - [CodeWard](https://www.codewars.com/kata/5426d7a2c2c7784365000783)
 * [Bad Exception Handling](/solutions/python/4%20kyu/Bad%20Exception%20Handling) - [CodeWard](https://www.codewars.com/kata/5950eec3a100d72be100003f)
+* [Befunge Interpreter](/solutions/python/4%20kyu/Befunge%20Interpreter) - [CodeWard](https://www.codewars.com/kata/526c7b931666d07889000a3c)
 * [Binary multiple of 3](/solutions/python/4%20kyu/Binary%20multiple%20of%203) - [CodeWard](https://www.codewars.com/kata/54de279df565808f8b00126a)
 * [Breadcrumb Generator](/solutions/python/4%20kyu/Breadcrumb%20Generator) - [CodeWard](https://www.codewars.com/kata/563fbac924106b8bf7000046)
 * [Codewars style ranking system](/solutions/python/4%20kyu/Codewars%20style%20ranking%20system) - [CodeWard](https://www.codewars.com/kata/51fda2d95d6efda45e00004e)
