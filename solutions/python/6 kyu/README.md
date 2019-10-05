@@ -73,6 +73,7 @@
 * [One Line Task: Element-wise Maximum](/solutions/python/6%20kyu/One%20Line%20Task%20Elementwise%20Maximum) - [CodeWard](https://www.codewars.com/kata/5c2dbc63bfc6ec0001d2fcf9)
 * [Parity bit - Error detecting code](/solutions/python/6%20kyu/Parity%20bit%20%20Error%20detecting%20code) - [CodeWard](https://www.codewars.com/kata/58409435258e102ae900030f)
 * [Pascal's Triangle](/solutions/python/6%20kyu/Pascals%20Triangle) - [CodeWard](https://www.codewars.com/kata/5226eb40316b56c8d500030f)
+* [Password Maker](/solutions/python/6%20kyu/Password%20Maker) - [CodeWard](https://www.codewars.com/kata/5b3d5ad43da310743c000056)
 * [Persistent Bugger.](/solutions/python/6%20kyu/Persistent%20Bugger) - [CodeWard](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
 * [Playing with digits](/solutions/python/6%20kyu/Playing%20with%20digits) - [CodeWard](https://www.codewars.com/kata/5552101f47fc5178b1000050)
 * [Prefill an Array](/solutions/python/6%20kyu/Prefill%20an%20Array) - [CodeWard](https://www.codewars.com/kata/54129112fb7c188740000162)
