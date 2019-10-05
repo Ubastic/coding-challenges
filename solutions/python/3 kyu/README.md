@@ -2,6 +2,7 @@
 * [Battleship field validator](/solutions/python/3%20kyu/Battleship%20field%20validator) - [CodeWard](https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7)
 * [Binomial Expansion](/solutions/python/3%20kyu/Binomial%20Expansion) - [CodeWard](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b)
 * [Calculator](/solutions/python/3%20kyu/Calculator) - [CodeWard](https://www.codewars.com/kata/5235c913397cbf2508000048)
+* [Huffman Encoding](/solutions/python/3%20kyu/Huffman%20Encoding) - [CodeWard](https://www.codewars.com/kata/54cf7f926b85dcc4e2000d9d)
 * [Last digit of a huge number](/solutions/python/3%20kyu/Last%20digit%20of%20a%20huge%20number) - [CodeWard](https://www.codewars.com/kata/5518a860a73e708c0a000027)
 * [Make a spiral](/solutions/python/3%20kyu/Make%20a%20spiral) - [CodeWard](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6)
 * [Rail Fence Cipher: Encoding and Decoding ](/solutions/python/3%20kyu/Rail%20Fence%20Cipher%20Encoding%20and%20Decoding) - [CodeWard](https://www.codewars.com/kata/58c5577d61aefcf3ff000081)
