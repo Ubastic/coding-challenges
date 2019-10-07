@@ -116,6 +116,7 @@
 * [Title Case](/solutions/python/6%20kyu/Title%20Case) - [CodeWard](https://www.codewars.com/kata/5202ef17a402dd033c000009)
 * [Tribonacci Sequence](/solutions/python/6%20kyu/Tribonacci%20Sequence) - [CodeWard](https://www.codewars.com/kata/556deca17c58da83c00002db)
 * [Triple trouble](/solutions/python/6%20kyu/Triple%20trouble) - [CodeWard](https://www.codewars.com/kata/55d5434f269c0c3f1b000058)
+* [Two Sum](/solutions/python/6%20kyu/Two%20Sum) - [CodeWard](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
 * [Unary function chainer](/solutions/python/6%20kyu/Unary%20function%20chainer) - [CodeWard](https://www.codewars.com/kata/54ca3e777120b56cb6000710)
 * [Unique In Order](/solutions/python/6%20kyu/Unique%20In%20Order) - [CodeWard](https://www.codewars.com/kata/54e6533c92449cc251001667)
 * [Upside-Down Pyramid Addition...REVERSED!](/solutions/python/6%20kyu/UpsideDown%20Pyramid%20AdditionREVERSED) - [CodeWard](https://www.codewars.com/kata/5cc1e284ece231001ccf7014)
