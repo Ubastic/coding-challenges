@@ -15,6 +15,7 @@
 * [Opposite number](/solutions/python/8%20kyu/Opposite%20number) - [CodeWard](https://www.codewars.com/kata/56dec885c54a926dcd001095)
 * [Parse nice int from char problem](/solutions/python/8%20kyu/Parse%20nice%20int%20from%20char%20problem) - [CodeWard](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
 * [Remove First and Last Character](/solutions/python/8%20kyu/Remove%20First%20and%20Last%20Character) - [CodeWard](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
+* [Remove String Spaces](/solutions/python/8%20kyu/Remove%20String%20Spaces) - [CodeWard](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
 * [Return Negative](/solutions/python/8%20kyu/Return%20Negative) - [CodeWard](https://www.codewars.com/kata/55685cd7ad70877c23000102)
 * [Returning Strings](/solutions/python/8%20kyu/Returning%20Strings) - [CodeWard](https://www.codewars.com/kata/55a70521798b14d4750000a4)
 * [Reversed sequence ](/solutions/python/8%20kyu/Reversed%20sequence) - [CodeWard](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)
