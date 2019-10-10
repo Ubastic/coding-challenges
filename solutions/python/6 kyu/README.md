@@ -17,6 +17,7 @@
 * [Consecutive strings](/solutions/python/6%20kyu/Consecutive%20strings) - [CodeWard](https://www.codewars.com/kata/56a5d994ac971f1ac500003e)
 * [Convert string to camel case](/solutions/python/6%20kyu/Convert%20string%20to%20camel%20case) - [CodeWard](https://www.codewars.com/kata/517abf86da9663f1d2000003)
 * [Count characters in your string](/solutions/python/6%20kyu/Count%20characters%20in%20your%20string) - [CodeWard](https://www.codewars.com/kata/52efefcbcdf57161d4000091)
+* [Count letters in string](/solutions/python/6%20kyu/Count%20letters%20in%20string) - [CodeWard](https://www.codewars.com/kata/5808ff71c7cfa1c6aa00006d)
 * [Count the smiley faces!](/solutions/python/6%20kyu/Count%20the%20smiley%20faces) - [CodeWard](https://www.codewars.com/kata/583203e6eb35d7980400002a)
 * [Counting Duplicates](/solutions/python/6%20kyu/Counting%20Duplicates) - [CodeWard](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 * [Create Phone Number](/solutions/python/6%20kyu/Create%20Phone%20Number) - [CodeWard](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
