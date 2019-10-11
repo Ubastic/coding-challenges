@@ -1,0 +1,1 @@
+# [first character that repeats](https://www.codewars.com/kata/54f9f4d7c41722304e000bbb)

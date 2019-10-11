@@ -128,3 +128,4 @@
 * [Write Number in Expanded Form](/solutions/python/6%20kyu/Write%20Number%20in%20Expanded%20Form) - [CodeWard](https://www.codewars.com/kata/5842df8ccbd22792a4000245)
 * [Your order, please](/solutions/python/6%20kyu/Your%20order%20please) - [CodeWard](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 * [extract file name](/solutions/python/6%20kyu/extract%20file%20name) - [CodeWard](https://www.codewars.com/kata/597770e98b4b340e5b000071)
+* [first character that repeats](/solutions/python/6%20kyu/first%20character%20that%20repeats) - [CodeWard](https://www.codewars.com/kata/54f9f4d7c41722304e000bbb)
