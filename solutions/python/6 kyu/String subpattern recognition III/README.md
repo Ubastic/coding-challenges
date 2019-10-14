@@ -1,0 +1,1 @@
+# [String subpattern recognition III](https://www.codewars.com/kata/5a4a2973d8e14586c700000a)

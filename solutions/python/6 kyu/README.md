@@ -107,6 +107,7 @@
 * [Stop gninnipS My sdroW!](/solutions/python/6%20kyu/Stop%20gninnipS%20My%20sdroW) - [CodeWard](https://www.codewars.com/kata/5264d2b162488dc400000001)
 * [String subpattern recognition I](/solutions/python/6%20kyu/String%20subpattern%20recognition%20I) - [CodeWard](https://www.codewars.com/kata/5a49f074b3bfa89b4c00002b)
 * [String subpattern recognition II](/solutions/python/6%20kyu/String%20subpattern%20recognition%20II) - [CodeWard](https://www.codewars.com/kata/5a4a391ad8e145cdee0000c4)
+* [String subpattern recognition III](/solutions/python/6%20kyu/String%20subpattern%20recognition%20III) - [CodeWard](https://www.codewars.com/kata/5a4a2973d8e14586c700000a)
 * [Strip Url Params](/solutions/python/6%20kyu/Strip%20Url%20Params) - [CodeWard](https://www.codewars.com/kata/51646de80fd67f442c000013)
 * [Sum consecutives](/solutions/python/6%20kyu/Sum%20consecutives) - [CodeWard](https://www.codewars.com/kata/55eeddff3f64c954c2000059)
 * [Sum of Digits / Digital Root](/solutions/python/6%20kyu/Sum%20of%20Digits%20%20Digital%20Root) - [CodeWard](https://www.codewars.com/kata/541c8630095125aba6000c00)
