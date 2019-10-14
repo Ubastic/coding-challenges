@@ -52,5 +52,6 @@
 * [Valid Parentheses](/solutions/python/5%20kyu/Valid%20Parentheses) - [CodeWard](https://www.codewars.com/kata/52774a314c2333f0a7000688)
 * [Vector class](/solutions/python/5%20kyu/Vector%20class) - [CodeWard](https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4)
 * [Weight for weight](/solutions/python/5%20kyu/Weight%20for%20weight) - [CodeWard](https://www.codewars.com/kata/55c6126177c9441a570000cc)
+* [What's a Perfect Power anyway?](/solutions/python/5%20kyu/Whats%20a%20Perfect%20Power%20anyway) - [CodeWard](https://www.codewars.com/kata/54d4c8b08776e4ad92000835)
 * [Where my anagrams at?](/solutions/python/5%20kyu/Where%20my%20anagrams%20at) - [CodeWard](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
 * [int32 to IPv4](/solutions/python/5%20kyu/int32%20to%20IPv4) - [CodeWard](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e)
