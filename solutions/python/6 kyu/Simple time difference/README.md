@@ -1,0 +1,1 @@
+# [Simple time difference](https://www.codewars.com/kata/5b76a34ff71e5de9db0000f2)

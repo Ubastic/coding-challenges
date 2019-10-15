@@ -6,6 +6,7 @@
 * [Befunge Interpreter](/solutions/python/4%20kyu/Befunge%20Interpreter) - [CodeWard](https://www.codewars.com/kata/526c7b931666d07889000a3c)
 * [Binary multiple of 3](/solutions/python/4%20kyu/Binary%20multiple%20of%203) - [CodeWard](https://www.codewars.com/kata/54de279df565808f8b00126a)
 * [Breadcrumb Generator](/solutions/python/4%20kyu/Breadcrumb%20Generator) - [CodeWard](https://www.codewars.com/kata/563fbac924106b8bf7000046)
+* [Catching Car Mileage Numbers](/solutions/python/4%20kyu/Catching%20Car%20Mileage%20Numbers) - [CodeWard](https://www.codewars.com/kata/52c4dd683bfd3b434c000292)
 * [Codewars style ranking system](/solutions/python/4%20kyu/Codewars%20style%20ranking%20system) - [CodeWard](https://www.codewars.com/kata/51fda2d95d6efda45e00004e)
 * [Connect Four](/solutions/python/4%20kyu/Connect%20Four) - [CodeWard](https://www.codewars.com/kata/56882731514ec3ec3d000009)
 * [Counting Change Combinations](/solutions/python/4%20kyu/Counting%20Change%20Combinations) - [CodeWard](https://www.codewars.com/kata/541af676b589989aed0009e7)

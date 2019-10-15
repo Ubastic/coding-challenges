@@ -97,6 +97,7 @@
 * [Simple Fun #79: Delete a Digit](/solutions/python/6%20kyu/Simple%20Fun%2079%20Delete%20a%20Digit) - [CodeWard](https://www.codewars.com/kata/5894318275f2c75695000146)
 * [Simple Simple Simple String Expansion](/solutions/python/6%20kyu/Simple%20Simple%20Simple%20String%20Expansion) - [CodeWard](https://www.codewars.com/kata/5ae326342f8cbc72220000d2)
 * [Simple Simple Simple String Expansion](/solutions/python/6%20kyu/Simple%20Simple%20Simple%20String%20Expansion) - [CodeWard](https://www.codewars.com/kata/5ae326342f8cbc72220000d2)
+* [Simple time difference](/solutions/python/6%20kyu/Simple%20time%20difference) - [CodeWard](https://www.codewars.com/kata/5b76a34ff71e5de9db0000f2)
 * [Single character palindromes](/solutions/python/6%20kyu/Single%20character%20palindromes) - [CodeWard](https://www.codewars.com/kata/5a2c22271f7f709eaa0005d3)
 * [Sort odd and even numbers in different order](/solutions/python/6%20kyu/Sort%20odd%20and%20even%20numbers%20in%20different%20order) - [CodeWard](https://www.codewars.com/kata/5a1cb5406975987dd9000028)
 * [Sort the odd](/solutions/python/6%20kyu/Sort%20the%20odd) - [CodeWard](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
