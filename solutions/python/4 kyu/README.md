@@ -19,6 +19,7 @@
 * [Find all possible number combos that sum to a number](/solutions/python/4%20kyu/Find%20all%20possible%20number%20combos%20that%20sum%20to%20a%20number) - [CodeWard](https://www.codewars.com/kata/555b1890a75b930e63000023)
 * [Find the unknown digit](/solutions/python/4%20kyu/Find%20the%20unknown%20digit) - [CodeWard](https://www.codewars.com/kata/546d15cebed2e10334000ed9)
 * [Generic number class](/solutions/python/4%20kyu/Generic%20number%20class) - [CodeWard](https://www.codewars.com/kata/54baad292c471514820000a3)
+* [How many numbers III?](/solutions/python/4%20kyu/How%20many%20numbers%20III) - [CodeWard](https://www.codewars.com/kata/5877e7d568909e5ff90017e6)
 * [Human readable duration format](/solutions/python/4%20kyu/Human%20readable%20duration%20format) - [CodeWard](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
 * [Infix to Postfix Converter](/solutions/python/4%20kyu/Infix%20to%20Postfix%20Converter) - [CodeWard](https://www.codewars.com/kata/52e864d1ffb6ac25db00017f)
 * [Lazy Init ](/solutions/python/4%20kyu/Lazy%20Init) - [CodeWard](https://www.codewars.com/kata/59b7b43b4f98a81b2d00000a)
