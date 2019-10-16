@@ -1,2 +1,2 @@
 def narcissistic(value):
-    return value == sum(int(n) ** len(str(value)) for n in str(value))
+    return sum(int(i) ** len(str(value)) for i in str(value)) == value
