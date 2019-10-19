@@ -1,0 +1,1 @@
+let flatten = (...arr) => [].concat(...arr.map(i => Array.isArray(i) ? flatten(...i) : [i]));
