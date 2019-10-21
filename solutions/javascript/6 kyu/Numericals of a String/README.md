@@ -1,0 +1,1 @@
+# [Numericals of a String](https://www.codewars.com/kata/5b4070144d7d8bbfe7000001)
