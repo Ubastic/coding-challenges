@@ -1,0 +1,1 @@
+let letterCount = s => [...s].reduce((obj, c) => {obj[c] = (obj[c] || 0) + 1; return obj }, {});
