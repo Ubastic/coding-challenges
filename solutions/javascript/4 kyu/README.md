@@ -1,6 +1,7 @@
 # 4 Kyu
 * [-Reverse it, quickly!](/solutions/javascript/4%20kyu/Reverse%20it%20quickly) - [CodeWard](https://www.codewars.com/kata/59ae589c07157afba80000a7)
 * [Born to be chained](/solutions/javascript/4%20kyu/Born%20to%20be%20chained) - [CodeWard](https://www.codewars.com/kata/54c27ef1fb7da0118600046a)
+* [Count the connected components](/solutions/javascript/4%20kyu/Count%20the%20connected%20components) - [CodeWard](https://www.codewars.com/kata/55eaf138c1f4e9eef1000047)
 * [Curry me softly](/solutions/javascript/4%20kyu/Curry%20me%20softly) - [CodeWard](https://www.codewars.com/kata/55ba24f1cb367c48ac0000a2)
 * [Default Arguments](/solutions/javascript/4%20kyu/Default%20Arguments) - [CodeWard](https://www.codewars.com/kata/52605419be184942d400003d)
 * [Dependency Injection](/solutions/javascript/4%20kyu/Dependency%20Injection) - [CodeWard](https://www.codewars.com/kata/5302d655be2a91068b0001fb)
