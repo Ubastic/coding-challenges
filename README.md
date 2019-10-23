@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://www.codewars.com/users/yurii_karabas/badges/large">
-</p>
+</p>q
 
 This repo contains all my solutions from CodeWars.
 
@@ -11,7 +11,7 @@ Main goal - solve any kata every day :open_mouth:
 | Language                | kuy              | katas                 |
 |---                      |:---:             |:---:                  |
 |:dizzy: Overall          | 1 kyu / 11.7%    | 384       |
-|:snake: Python           | 2 kyu / 86.6%     | 329        |
+|:snake: Python           | 2 kyu / 86.7%     | 330        |
 |:see_no_evil: JavaScript | 3 kyu / 6.2% | 25    |
 |:coffee: Java            | 4 kyu / 79.2%       | 13          |
 |:hammer_and_wrench: C++  | 5 kyu / 1.2%        | 7           |
