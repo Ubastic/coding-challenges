@@ -50,6 +50,7 @@
 * [The Hashtag Generator](/solutions/python/5%20kyu/The%20Hashtag%20Generator) - [CodeWard](https://www.codewars.com/kata/52449b062fb80683ec000024)
 * [Unique digit sequence](/solutions/python/5%20kyu/Unique%20digit%20sequence) - [CodeWard](https://www.codewars.com/kata/599688d0e2800dda4e0001b0)
 * [Valid Parentheses](/solutions/python/5%20kyu/Valid%20Parentheses) - [CodeWard](https://www.codewars.com/kata/52774a314c2333f0a7000688)
+* [Vector Class](/solutions/python/5%20kyu/Vector%20Class) - [CodeWard](https://www.codewars.com/kata/532a69ee484b0e27120000b6)
 * [Vector class](/solutions/python/5%20kyu/Vector%20class) - [CodeWard](https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4)
 * [Weight for weight](/solutions/python/5%20kyu/Weight%20for%20weight) - [CodeWard](https://www.codewars.com/kata/55c6126177c9441a570000cc)
 * [What's a Perfect Power anyway?](/solutions/python/5%20kyu/Whats%20a%20Perfect%20Power%20anyway) - [CodeWard](https://www.codewars.com/kata/54d4c8b08776e4ad92000835)
