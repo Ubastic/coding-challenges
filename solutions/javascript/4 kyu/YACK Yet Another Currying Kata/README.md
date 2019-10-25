@@ -1,0 +1,1 @@
+# [YACK (Yet Another Currying Kata)](https://www.codewars.com/kata/55f91566e0d2317066000057)

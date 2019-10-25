@@ -13,3 +13,4 @@
 * [Sum of Intervals](/solutions/javascript/4%20kyu/Sum%20of%20Intervals) - [CodeWard](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
 * [Undo/Redo](/solutions/javascript/4%20kyu/UndoRedo) - [CodeWard](https://www.codewars.com/kata/531489f2bb244a5b9f00077e)
 * [UriBuilder](/solutions/javascript/4%20kyu/UriBuilder) - [CodeWard](https://www.codewars.com/kata/51eead3461ccf7db04000017)
+* [YACK (Yet Another Currying Kata)](/solutions/javascript/4%20kyu/YACK%20Yet%20Another%20Currying%20Kata) - [CodeWard](https://www.codewars.com/kata/55f91566e0d2317066000057)
