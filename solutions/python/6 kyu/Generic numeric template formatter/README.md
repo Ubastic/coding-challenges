@@ -1,0 +1,1 @@
+# [Generic numeric template formatter](https://www.codewars.com/kata/59901fb5917839fe41000029)

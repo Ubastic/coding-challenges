@@ -44,6 +44,7 @@
 * [Format a string of names like 'Bart, Lisa & Maggie'.](/solutions/python/6%20kyu/Format%20a%20string%20of%20names%20like%20Bart%20Lisa%20%20Maggie) - [CodeWard](https://www.codewars.com/kata/53368a47e38700bd8300030d)
 * [Frogificator](/solutions/python/6%20kyu/Frogificator) - [CodeWard](https://www.codewars.com/kata/59f6d96d27402f9329000081)
 * [Function Composition](/solutions/python/6%20kyu/Function%20Composition) - [CodeWard](https://www.codewars.com/kata/5421c6a2dda52688f6000af8)
+* [Generic numeric template formatter](/solutions/python/6%20kyu/Generic%20numeric%20template%20formatter) - [CodeWard](https://www.codewars.com/kata/59901fb5917839fe41000029)
 * [Give me a Diamond](/solutions/python/6%20kyu/Give%20me%20a%20Diamond) - [CodeWard](https://www.codewars.com/kata/5503013e34137eeeaa001648)
 * [Grouped by commas](/solutions/python/6%20kyu/Grouped%20by%20commas) - [CodeWard](https://www.codewars.com/kata/5274e122fc75c0943d000148)
 * [Highest Rank Number in an Array](/solutions/python/6%20kyu/Highest%20Rank%20Number%20in%20an%20Array) - [CodeWard](https://www.codewars.com/kata/5420fc9bb5b2c7fd57000004)
