@@ -1,0 +1,1 @@
+# [Regular expression for binary numbers divisible by 5](https://www.codewars.com/kata/5647c3858d4acbbe550000ad)
