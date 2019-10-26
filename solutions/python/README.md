@@ -1,7 +1,7 @@
 # Python
 * :white_check_mark: [1 kyu](/solutions/python/1%20kyu) - 3
 * :white_check_mark: [2 kyu](/solutions/python/2%20kyu) - 5
-* :white_check_mark: [3 kyu](/solutions/python/3%20kyu) - 12
+* :white_check_mark: [3 kyu](/solutions/python/3%20kyu) - 13
 * :white_check_mark: [4 kyu](/solutions/python/4%20kyu) - 56
 * :white_check_mark: [5 kyu](/solutions/python/5%20kyu) - 57
 * :white_check_mark: [6 kyu](/solutions/python/6%20kyu) - 136

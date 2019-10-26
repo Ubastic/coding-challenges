@@ -1,4 +1,5 @@
 # 3 Kyu
+* [Alphabetic Anagrams](/solutions/python/3%20kyu/Alphabetic%20Anagrams) - [CodeWard](https://www.codewars.com/kata/53e57dada0cb0400ba000688)
 * [Battleship field validator](/solutions/python/3%20kyu/Battleship%20field%20validator) - [CodeWard](https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7)
 * [Binomial Expansion](/solutions/python/3%20kyu/Binomial%20Expansion) - [CodeWard](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b)
 * [Calculator](/solutions/python/3%20kyu/Calculator) - [CodeWard](https://www.codewars.com/kata/5235c913397cbf2508000048)
