@@ -1,0 +1,1 @@
+# [How can I throw an error here?](https://www.codewars.com/kata/5970f479e75b6c00ce000043)
