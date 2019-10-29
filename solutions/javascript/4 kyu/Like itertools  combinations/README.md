@@ -1,0 +1,1 @@
+# [Like itertools : combinations](https://www.codewars.com/kata/582da6ba06e37f9b75000510)
