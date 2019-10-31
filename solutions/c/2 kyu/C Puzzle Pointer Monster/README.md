@@ -1,0 +1,1 @@
+# [C Puzzle: Pointer Monster](https://www.codewars.com/kata/59cf6087aeb284909d00009c)

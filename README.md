@@ -17,4 +17,4 @@ Main goal - solve any kata every day :open_mouth:
 |:hammer_and_wrench: C++  | 5 kyu / 1.2%        | 7           |
 |:seedling: Kotlin        | 6 kyu / 9.2%     | 8        |
 |:link: Haskell           | 8 kyu / 60.0%    | 5       |
-|:wrench: C               | 8 kyu / 30.0%          | 2             |
+|:wrench: C               | 5 kyu / 43.7%          | 3             |
