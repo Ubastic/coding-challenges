@@ -33,6 +33,7 @@
 * [Pyramid Slide Down](/solutions/python/4%20kyu/Pyramid%20Slide%20Down) - [CodeWard](https://www.codewars.com/kata/551f23362ff852e2ab000037)
 * [Range Extraction](/solutions/python/4%20kyu/Range%20Extraction) - [CodeWard](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
 * [Ranking Poker Hands](/solutions/python/4%20kyu/Ranking%20Poker%20Hands) - [CodeWard](https://www.codewars.com/kata/5739174624fc28e188000465)
+* [Recover a secret string from random triplets](/solutions/python/4%20kyu/Recover%20a%20secret%20string%20from%20random%20triplets) - [CodeWard](https://www.codewars.com/kata/53f40dff5f9d31b813000774)
 * [Regular expression for binary numbers divisible by 5](/solutions/python/4%20kyu/Regular%20expression%20for%20binary%20numbers%20divisible%20by%205) - [CodeWard](https://www.codewars.com/kata/5647c3858d4acbbe550000ad)
 * [Remember members decorator](/solutions/python/4%20kyu/Remember%20members%20decorator) - [CodeWard](https://www.codewars.com/kata/571957959906af00f90012f3)
 * [Roman Numerals Helper](/solutions/python/4%20kyu/Roman%20Numerals%20Helper) - [CodeWard](https://www.codewars.com/kata/51b66044bce5799a7f000003)
