@@ -1,0 +1,1 @@
+# [A String of Sorts](https://www.codewars.com/kata/536c6b8749aa8b3c2600029a)
