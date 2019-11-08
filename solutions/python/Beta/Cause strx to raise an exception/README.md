@@ -1,0 +1,1 @@
+# [Cause str(x) to raise an exception](https://www.codewars.com/kata/5ae786ad68e644e861000075)
