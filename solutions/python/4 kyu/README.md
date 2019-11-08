@@ -9,6 +9,7 @@
 * [Catching Car Mileage Numbers](/solutions/python/4%20kyu/Catching%20Car%20Mileage%20Numbers) - [CodeWard](https://www.codewars.com/kata/52c4dd683bfd3b434c000292)
 * [Codewars style ranking system](/solutions/python/4%20kyu/Codewars%20style%20ranking%20system) - [CodeWard](https://www.codewars.com/kata/51fda2d95d6efda45e00004e)
 * [Connect Four](/solutions/python/4%20kyu/Connect%20Four) - [CodeWard](https://www.codewars.com/kata/56882731514ec3ec3d000009)
+* [Count ones in a segment](/solutions/python/4%20kyu/Count%20ones%20in%20a%20segment) - [CodeWard](https://www.codewars.com/kata/596d34df24a04ee1e3000a25)
 * [Counting Change Combinations](/solutions/python/4%20kyu/Counting%20Change%20Combinations) - [CodeWard](https://www.codewars.com/kata/541af676b589989aed0009e7)
 * [Counting String Subsequences](/solutions/python/4%20kyu/Counting%20String%20Subsequences) - [CodeWard](https://www.codewars.com/kata/52f7892a747862fc9a0009a6)
 * [Counting inner calls in an unknown function.](/solutions/python/4%20kyu/Counting%20inner%20calls%20in%20an%20unknown%20function) - [CodeWard](https://www.codewars.com/kata/53efc28911c36ff01e00012c)

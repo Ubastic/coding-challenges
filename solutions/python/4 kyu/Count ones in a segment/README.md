@@ -1,0 +1,1 @@
+# [Count ones in a segment](https://www.codewars.com/kata/596d34df24a04ee1e3000a25)
