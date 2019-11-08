@@ -56,6 +56,7 @@
 * [IQ Test](/solutions/python/6%20kyu/IQ%20Test) - [CodeWard](https://www.codewars.com/kata/552c028c030765286c00007d)
 * [IntroToArt](/solutions/python/6%20kyu/IntroToArt) - [CodeWard](https://www.codewars.com/kata/5d7d05d070a6f60015c436d1)
 * [Is a number prime?](/solutions/python/6%20kyu/Is%20a%20number%20prime) - [CodeWard](https://www.codewars.com/kata/5262119038c0985a5b00029f)
+* [JSON Class Decorator](/solutions/python/6%20kyu/JSON%20Class%20Decorator) - [CodeWard](https://www.codewars.com/kata/55b0fb65e1227b17d60000dc)
 * [Linked Lists - Insert Nth Node](/solutions/python/6%20kyu/Linked%20Lists%20%20Insert%20Nth%20Node) - [CodeWard](https://www.codewars.com/kata/55cacc3039607536c6000081)
 * [Linked Lists - Insert Sort](/solutions/python/6%20kyu/Linked%20Lists%20%20Insert%20Sort) - [CodeWard](https://www.codewars.com/kata/55d0c7ee7c0d30a12b000045)
 * [Linked Lists - Length & Count](/solutions/python/6%20kyu/Linked%20Lists%20%20Length%20%20Count) - [CodeWard](https://www.codewars.com/kata/55beec7dd347078289000021)

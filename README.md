@@ -10,8 +10,8 @@ Main goal - solve any kata every day :open_mouth:
 
 | Language                | kuy              | katas                 |
 |---                      |:---:             |:---:                  |
-|:dizzy: Overall          | 1 kyu / 18.3%    | 399       |
-|:snake: Python           | 2 kyu / 90.5%     | 337        |
+|:dizzy: Overall          | 1 kyu / 18.4%    | 400       |
+|:snake: Python           | 2 kyu / 90.6%     | 338        |
 |:see_no_evil: JavaScript | 3 kyu / 31.7% | 32    |
 |:coffee: Java            | 4 kyu / 79.2%       | 13          |
 |:hammer_and_wrench: C++  | 5 kyu / 1.2%        | 7           |
