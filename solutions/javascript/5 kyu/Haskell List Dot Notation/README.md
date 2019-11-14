@@ -1,0 +1,1 @@
+# [Haskell List Dot Notation](https://www.codewars.com/kata/53c8b29750fe70e4a2000610)
