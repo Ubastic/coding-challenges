@@ -9,6 +9,7 @@
 * [Determining if a graph has a solution](/solutions/javascript/4%20kyu/Determining%20if%20a%20graph%20has%20a%20solution) - [CodeWard](https://www.codewars.com/kata/53223653a191940f2b000877)
 * [ES5 Generators(i)](/solutions/javascript/4%20kyu/ES5%20Generatorsi) - [CodeWard](https://www.codewars.com/kata/53c29a6abb5187180d000b65)
 * [Fluent Calculator](/solutions/javascript/4%20kyu/Fluent%20Calculator) - [CodeWard](https://www.codewars.com/kata/5578a806350dae5b05000021)
+* [Haskell List Comprehension (ii)](/solutions/javascript/4%20kyu/Haskell%20List%20Comprehension%20ii) - [CodeWard](https://www.codewars.com/kata/53c8bcb1689f84238c000661)
 * [Like itertools : combinations](/solutions/javascript/4%20kyu/Like%20itertools%20%20combinations) - [CodeWard](https://www.codewars.com/kata/582da6ba06e37f9b75000510)
 * [Name Your Space](/solutions/javascript/4%20kyu/Name%20Your%20Space) - [CodeWard](https://www.codewars.com/kata/514b6c44a337752e67000077)
 * [Objectify a URL Query String](/solutions/javascript/4%20kyu/Objectify%20a%20URL%20Query%20String) - [CodeWard](https://www.codewars.com/kata/5286d92ec6b5a9045c000087)
