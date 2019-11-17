@@ -47,6 +47,7 @@
 * [Simple number sequence](/solutions/python/5%20kyu/Simple%20number%20sequence) - [CodeWard](https://www.codewars.com/kata/5a28cf591f7f7019a80000de)
 * [Square Matrix Multiplication](/solutions/python/5%20kyu/Square%20Matrix%20Multiplication) - [CodeWard](https://www.codewars.com/kata/5263a84ffcadb968b6000513)
 * [String incrementer](/solutions/python/5%20kyu/String%20incrementer) - [CodeWard](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)
+* [The Clockwise Spiral](/solutions/python/5%20kyu/The%20Clockwise%20Spiral) - [CodeWard](https://www.codewars.com/kata/536a155256eb459b8700077e)
 * [The Doppelganger Enigma](/solutions/python/5%20kyu/The%20Doppelganger%20Enigma) - [CodeWard](https://www.codewars.com/kata/5da558c930187300114d874e)
 * [The Hashtag Generator](/solutions/python/5%20kyu/The%20Hashtag%20Generator) - [CodeWard](https://www.codewars.com/kata/52449b062fb80683ec000024)
 * [Unique digit sequence](/solutions/python/5%20kyu/Unique%20digit%20sequence) - [CodeWard](https://www.codewars.com/kata/599688d0e2800dda4e0001b0)
