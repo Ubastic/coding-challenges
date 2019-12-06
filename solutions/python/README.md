@@ -4,7 +4,7 @@
 * :white_check_mark: [3 kyu](/solutions/python/3%20kyu) - 13
 * :white_check_mark: [4 kyu](/solutions/python/4%20kyu) - 59
 * :white_check_mark: [5 kyu](/solutions/python/5%20kyu) - 59
-* :white_check_mark: [6 kyu](/solutions/python/6%20kyu) - 140
+* :white_check_mark: [6 kyu](/solutions/python/6%20kyu) - 141
 * :white_check_mark: [7 kyu](/solutions/python/7%20kyu) - 34
 * :white_check_mark: [8 kyu](/solutions/python/8%20kyu) - 23
 * :white_check_mark: [Beta](/solutions/python/Beta) - 6

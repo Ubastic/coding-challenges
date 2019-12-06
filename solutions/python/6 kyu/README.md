@@ -134,6 +134,7 @@
 * [Valid Braces](/solutions/python/6%20kyu/Valid%20Braces) - [CodeWard](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
 * [Valid Phone Number](/solutions/python/6%20kyu/Valid%20Phone%20Number) - [CodeWard](https://www.codewars.com/kata/525f47c79f2f25a4db000025)
 * [Which are in?](/solutions/python/6%20kyu/Which%20are%20in) - [CodeWard](https://www.codewars.com/kata/550554fd08b86f84fe000a58)
+* [Who has the most money?](/solutions/python/6%20kyu/Who%20has%20the%20most%20money) - [CodeWard](https://www.codewars.com/kata/528d36d7cc451cd7e4000339)
 * [Who likes it?](/solutions/python/6%20kyu/Who%20likes%20it) - [CodeWard](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 * [Write Number in Expanded Form](/solutions/python/6%20kyu/Write%20Number%20in%20Expanded%20Form) - [CodeWard](https://www.codewars.com/kata/5842df8ccbd22792a4000245)
 * [Your order, please](/solutions/python/6%20kyu/Your%20order%20please) - [CodeWard](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
