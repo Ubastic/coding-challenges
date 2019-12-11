@@ -95,6 +95,7 @@
 * [Roman Numerals Decoder](/solutions/python/6%20kyu/Roman%20Numerals%20Decoder) - [CodeWard](https://www.codewars.com/kata/51b6249c4612257ac0000005)
 * [Roman Numerals Encoder](/solutions/python/6%20kyu/Roman%20Numerals%20Encoder) - [CodeWard](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
 * [Rotate matrix counter - clockwise N - times!](/solutions/python/6%20kyu/Rotate%20matrix%20counter%20%20clockwise%20N%20%20times) - [CodeWard](https://www.codewars.com/kata/5919f3bf6589022915000023)
+* [Schrödinger's Boolean](/solutions/python/6%20kyu/Schr%C3%B6dingers%20Boolean) - [CodeWard](https://www.codewars.com/kata/5a5f9f80f5dc3f942b002309)
 * [Shortest Distance to a Character](/solutions/python/6%20kyu/Shortest%20Distance%20to%20a%20Character) - [CodeWard](https://www.codewars.com/kata/5c8bf3ec5048ca2c8e954bf3)
 * [Simple Fun #116: Prime String](/solutions/python/6%20kyu/Simple%20Fun%20116%20Prime%20String) - [CodeWard](https://www.codewars.com/kata/589d36bbb6c071f7c20000f7)
 * [Simple Fun #23: Square Digits Sequence](/solutions/python/6%20kyu/Simple%20Fun%2023%20Square%20Digits%20Sequence) - [CodeWard](https://www.codewars.com/kata/5886d65e427c27afeb0000c1)
