@@ -1,0 +1,1 @@
+# [Threaded counting](https://www.codewars.com/kata/549e70e994e517ed8b00043e)

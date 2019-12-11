@@ -4,3 +4,4 @@
 * [Large Factorials](/solutions/java/4%20kyu/Large%20Factorials) - [CodeWard](https://www.codewars.com/kata/557f6437bf8dcdd135000010)
 * [One-Semicolon Cartesian Product](/solutions/java/4%20kyu/OneSemicolon%20Cartesian%20Product) - [CodeWard](https://www.codewars.com/kata/59f7679d3640cef20e0000a0)
 * [Sums of Perfect Squares](/solutions/java/4%20kyu/Sums%20of%20Perfect%20Squares) - [CodeWard](https://www.codewars.com/kata/5a3af5b1ee1aaeabfe000084)
+* [Threaded counting](/solutions/java/4%20kyu/Threaded%20counting) - [CodeWard](https://www.codewars.com/kata/549e70e994e517ed8b00043e)
