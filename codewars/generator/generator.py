@@ -102,7 +102,7 @@ def write_kuy(language: str, kuy: str, katas: List[Kata], language_dir: Path) ->
 
     links = (
         (
-            create_link(kata.name, f"/solutions/{language}/{kuy}/{valid_dir_name(kata.name)}"),
+            create_link(kata.name, f"/codewars/solutions/{language}/{kuy}/{valid_dir_name(kata.name)}"),
             create_link("CodeWard", kata.link, wrap=False),
         )
         for kata in sorted(katas, key=lambda kata: kata.name)
@@ -125,7 +125,7 @@ def write_katas_by_language(language: str, katas: Dict[str, List[Kata]]) -> None
 
     data = (
         (
-            create_link(kuy, f"/solutions/{language}/{kuy}"),
+            create_link(kuy, f"/codewars/solutions/{language}/{kuy}"),
             len(katas[kuy]),
         )
         for kuy in sorted(katas)
