@@ -13,3 +13,4 @@ This repo contains all my solutions from LeetCode.
 | Merge Two Sorted Lists | Easy | [solution](/leetcode/solutions/easy/merge-two-sorted-lists/) |
 | Palindrome Number | Easy | [solution](/leetcode/solutions/easy/palindrome-number/) |
 | Reverse Integer | Easy | [solution](/leetcode/solutions/easy/reverse-integer/) |
+| Two Sum | Easy | [solution](/leetcode/solutions/easy/two-sum/) |
