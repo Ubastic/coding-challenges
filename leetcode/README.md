@@ -12,3 +12,4 @@ This repo contains all my solutions from LeetCode.
 | Print in Order | Easy | [solution](/leetcode/solutions/easy/print-in-order/) |
 | Merge Two Sorted Lists | Easy | [solution](/leetcode/solutions/easy/merge-two-sorted-lists/) |
 | Palindrome Number | Easy | [solution](/leetcode/solutions/easy/palindrome-number/) |
+| Reverse Integer | Easy | [solution](/leetcode/solutions/easy/reverse-integer/) |
