@@ -6,7 +6,10 @@ from typing import (
     Sequence,
 )
 from urllib.parse import quote
-
+from concurrent.futures import (
+    ThreadPoolExecutor,
+    as_completed,
+)
 import click
 from bs4 import BeautifulSoup
 from requests import (
@@ -161,21 +164,25 @@ def main(session_id) -> None:
         for difficulty in difficulties:
             (SOLUTIONS_DIR / difficulty).mkdir(exist_ok=True)
 
-        questions_info: List[str] = []
-        for question in sorted(
-                questions,
-                key=lambda q: DIFFICULTY_LEVEL.index(q.difficulty),
-                reverse=True,
-        ):
-            write_question_submission(s, question)
-            link = create_link("solution", f"/leetcode/solutions/{question.difficulty}/{question.slug}/")
+        questions_sorted = sorted(
+            questions,
+            key=lambda q: DIFFICULTY_LEVEL.index(q.difficulty),
+            reverse=True,
+        )
 
-            questions_info.append(
-                f'| {question.title} '
-                f'| {question.difficulty.title()} '
-                f'| {link} '
-                f'|'
-            )
+        questions_info: List[str] = [
+            f'| {question.title} '
+            f'| {question.difficulty.title()} '
+            f'| {create_link("solution", f"/leetcode/solutions/{question.difficulty}/{question.slug}/")} '
+            f'|'
+            for question in questions_sorted
+        ]
+
+        with ThreadPoolExecutor(20) as pool:
+            for f in as_completed([
+                pool.submit(write_question_submission, s, q) for q in questions_sorted
+            ]):
+                f.result()
 
         template = (BASE_DIR / 'README_template.md').read_text('utf-8')
         (BASE_DIR / 'README.md').write_text(
