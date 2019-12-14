@@ -1,11 +1,6 @@
 class Solution:
-    def compareVersion(self, version1: str, version2: str) -> int:
-        v1 = [*map(int, version1.split('.'))]
-        v2 = [*map(int, version2.split('.'))]
+    def compareVersion(self, v1: str, v2: str) -> int:
+        v_1 = [*map(int, v1.split('.')), *([0] * (v2.count('.') - v1.count('.')))]
+        v_2 = [*map(int, v2.split('.')), *([0] * (v1.count('.') - v2.count('.')))]
 
-        if len(v1) > len(v2):
-            v2 += [0] * (len(v1) - len(v2))
-        elif len(v2) > len(v1):
-            v1 += [0] * (len(v2) - len(v1))
-
-        return (v1 > v2) - (v1 < v2)
+        return (v_1 > v_2) - (v_1 < v_2)
