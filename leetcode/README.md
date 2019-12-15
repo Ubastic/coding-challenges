@@ -6,6 +6,7 @@ This repo contains all my solutions from LeetCode.
 |---                   |:---:             |:---:      |
 | Merge k Sorted Lists | Hard | [solution](/leetcode/solutions/hard/merge-k-sorted-lists/) |
 | Median of Two Sorted Arrays | Hard | [solution](/leetcode/solutions/hard/median-of-two-sorted-arrays/) |
+| Print Zero Even Odd | Medium | [solution](/leetcode/solutions/medium/print-zero-even-odd/) |
 | Compare Version Numbers | Medium | [solution](/leetcode/solutions/medium/compare-version-numbers/) |
 | LRU Cache | Medium | [solution](/leetcode/solutions/medium/lru-cache/) |
 | Pow(x, n) | Medium | [solution](/leetcode/solutions/medium/powx-n/) |
