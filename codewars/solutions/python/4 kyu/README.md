@@ -39,6 +39,7 @@
 * [Remember members decorator](/codewars/solutions/python/4%20kyu/Remember%20members%20decorator) - [CodeWard](https://www.codewars.com/kata/571957959906af00f90012f3)
 * [Roman Numerals Helper](/codewars/solutions/python/4%20kyu/Roman%20Numerals%20Helper) - [CodeWard](https://www.codewars.com/kata/51b66044bce5799a7f000003)
 * [Route Calculator](/codewars/solutions/python/4%20kyu/Route%20Calculator) - [CodeWard](https://www.codewars.com/kata/581bc0629ad9ff9873000316)
+* [SPF Russia](/codewars/solutions/python/4%20kyu/SPF%20Russia) - [CodeWard](https://www.codewars.com/kata/5709aa85fe2d012f1d00169c)
 * [Simple Fun #159: Middle Permutation](/codewars/solutions/python/4%20kyu/Simple%20Fun%20159%20Middle%20Permutation) - [CodeWard](https://www.codewars.com/kata/58ad317d1541651a740000c5)
 * [Simplexer](/codewars/solutions/python/4%20kyu/Simplexer) - [CodeWard](https://www.codewars.com/kata/54b8204dcd7f514bf2000348)
 * [Simplifying multilinear polynomials](/codewars/solutions/python/4%20kyu/Simplifying%20multilinear%20polynomials) - [CodeWard](https://www.codewars.com/kata/55f89832ac9a66518f000118)
