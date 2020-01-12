@@ -17,6 +17,7 @@
 * [Gap in Primes](/codewars/solutions/python/5%20kyu/Gap%20in%20Primes) - [CodeWard](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4)
 * [Human Readable Time](/codewars/solutions/python/5%20kyu/Human%20Readable%20Time) - [CodeWard](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 * [Integers: Recreation One](/codewars/solutions/python/5%20kyu/Integers%20Recreation%20One) - [CodeWard](https://www.codewars.com/kata/55aa075506463dac6600010d)
+* [Interleaving Arrays](/codewars/solutions/python/5%20kyu/Interleaving%20Arrays) - [CodeWard](https://www.codewars.com/kata/523d2e964680d1f749000135)
 * [Last digit of a large number](/codewars/solutions/python/5%20kyu/Last%20digit%20of%20a%20large%20number) - [CodeWard](https://www.codewars.com/kata/5511b2f550906349a70004e1)
 * [Limited number of instances](/codewars/solutions/python/5%20kyu/Limited%20number%20of%20instances) - [CodeWard](https://www.codewars.com/kata/5bd36d5e03c3c4a37f0004f4)
 * [Maximum subarray sum](/codewars/solutions/python/5%20kyu/Maximum%20subarray%20sum) - [CodeWard](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
