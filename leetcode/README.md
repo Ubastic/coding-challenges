@@ -4,6 +4,7 @@ This repo contains all my solutions from LeetCode.
 
 | Title                | Difficulty       | Solution  |
 |---                   |:---:             |:---:      |
+| Serialize and Deserialize Binary Tree | Hard | [solution](/leetcode/solutions/hard/serialize-and-deserialize-binary-tree/) |
 | Merge k Sorted Lists | Hard | [solution](/leetcode/solutions/hard/merge-k-sorted-lists/) |
 | Median of Two Sorted Arrays | Hard | [solution](/leetcode/solutions/hard/median-of-two-sorted-arrays/) |
 | Print Zero Even Odd | Medium | [solution](/leetcode/solutions/medium/print-zero-even-odd/) |
