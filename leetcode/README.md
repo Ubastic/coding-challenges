@@ -18,6 +18,7 @@ This repo contains all my solutions from LeetCode.
 | Path Sum | Easy | [solution](/leetcode/solutions/easy/path-sum/) |
 | Maximum Depth of Binary Tree | Easy | [solution](/leetcode/solutions/easy/maximum-depth-of-binary-tree/) |
 | Symmetric Tree | Easy | [solution](/leetcode/solutions/easy/symmetric-tree/) |
+| Plus One | Easy | [solution](/leetcode/solutions/easy/plus-one/) |
 | Remove Duplicates from Sorted Array | Easy | [solution](/leetcode/solutions/easy/remove-duplicates-from-sorted-array/) |
 | Merge Two Sorted Lists | Easy | [solution](/leetcode/solutions/easy/merge-two-sorted-lists/) |
 | Palindrome Number | Easy | [solution](/leetcode/solutions/easy/palindrome-number/) |
