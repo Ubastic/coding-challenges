@@ -16,6 +16,7 @@ This repo contains all my solutions from LeetCode.
 | Longest Substring Without Repeating Characters | Medium | [solution](/leetcode/solutions/medium/longest-substring-without-repeating-characters/) |
 | Add Two Numbers | Medium | [solution](/leetcode/solutions/medium/add-two-numbers/) |
 | Print in Order | Easy | [solution](/leetcode/solutions/easy/print-in-order/) |
+| Intersection of Two Arrays II | Easy | [solution](/leetcode/solutions/easy/intersection-of-two-arrays-ii/) |
 | Path Sum | Easy | [solution](/leetcode/solutions/easy/path-sum/) |
 | Maximum Depth of Binary Tree | Easy | [solution](/leetcode/solutions/easy/maximum-depth-of-binary-tree/) |
 | Symmetric Tree | Easy | [solution](/leetcode/solutions/easy/symmetric-tree/) |
