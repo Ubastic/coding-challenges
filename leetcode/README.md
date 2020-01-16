@@ -20,6 +20,7 @@ This repo contains all my solutions from LeetCode.
 | Move Zeroes | Easy | [solution](/leetcode/solutions/easy/move-zeroes/) |
 | Contains Duplicate | Easy | [solution](/leetcode/solutions/easy/contains-duplicate/) |
 | Rotate Array | Easy | [solution](/leetcode/solutions/easy/rotate-array/) |
+| Single Number | Easy | [solution](/leetcode/solutions/easy/single-number/) |
 | Path Sum | Easy | [solution](/leetcode/solutions/easy/path-sum/) |
 | Maximum Depth of Binary Tree | Easy | [solution](/leetcode/solutions/easy/maximum-depth-of-binary-tree/) |
 | Symmetric Tree | Easy | [solution](/leetcode/solutions/easy/symmetric-tree/) |
