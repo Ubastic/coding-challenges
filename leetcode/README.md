@@ -17,6 +17,7 @@ This repo contains all my solutions from LeetCode.
 | Add Two Numbers | Medium | [solution](/leetcode/solutions/medium/add-two-numbers/) |
 | Print in Order | Easy | [solution](/leetcode/solutions/easy/print-in-order/) |
 | Intersection of Two Arrays II | Easy | [solution](/leetcode/solutions/easy/intersection-of-two-arrays-ii/) |
+| Move Zeroes | Easy | [solution](/leetcode/solutions/easy/move-zeroes/) |
 | Path Sum | Easy | [solution](/leetcode/solutions/easy/path-sum/) |
 | Maximum Depth of Binary Tree | Easy | [solution](/leetcode/solutions/easy/maximum-depth-of-binary-tree/) |
 | Symmetric Tree | Easy | [solution](/leetcode/solutions/easy/symmetric-tree/) |
