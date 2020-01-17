@@ -27,6 +27,7 @@ This repo contains all my solutions from LeetCode.
 | Plus One | Easy | [solution](/leetcode/solutions/easy/plus-one/) |
 | Remove Duplicates from Sorted Array | Easy | [solution](/leetcode/solutions/easy/remove-duplicates-from-sorted-array/) |
 | Merge Two Sorted Lists | Easy | [solution](/leetcode/solutions/easy/merge-two-sorted-lists/) |
+| Longest Common Prefix | Easy | [solution](/leetcode/solutions/easy/longest-common-prefix/) |
 | Palindrome Number | Easy | [solution](/leetcode/solutions/easy/palindrome-number/) |
 | Reverse Integer | Easy | [solution](/leetcode/solutions/easy/reverse-integer/) |
 | Two Sum | Easy | [solution](/leetcode/solutions/easy/two-sum/) |
