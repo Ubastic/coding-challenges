@@ -12,6 +12,7 @@ This repo contains all my solutions from LeetCode.
 | Lowest Common Ancestor of a Binary Tree | Medium | [solution](/leetcode/solutions/medium/lowest-common-ancestor-of-a-binary-tree/) |
 | Compare Version Numbers | Medium | [solution](/leetcode/solutions/medium/compare-version-numbers/) |
 | LRU Cache | Medium | [solution](/leetcode/solutions/medium/lru-cache/) |
+| Binary Tree Preorder Traversal | Medium | [solution](/leetcode/solutions/medium/binary-tree-preorder-traversal/) |
 | Pow(x, n) | Medium | [solution](/leetcode/solutions/medium/powx-n/) |
 | Longest Substring Without Repeating Characters | Medium | [solution](/leetcode/solutions/medium/longest-substring-without-repeating-characters/) |
 | Add Two Numbers | Medium | [solution](/leetcode/solutions/medium/add-two-numbers/) |
