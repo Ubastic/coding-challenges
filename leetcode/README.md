@@ -27,6 +27,7 @@ This repo contains all my solutions from LeetCode.
 | Maximum Depth of Binary Tree | Easy | [solution](/leetcode/solutions/easy/maximum-depth-of-binary-tree/) |
 | Symmetric Tree | Easy | [solution](/leetcode/solutions/easy/symmetric-tree/) |
 | Plus One | Easy | [solution](/leetcode/solutions/easy/plus-one/) |
+| Implement strStr() | Easy | [solution](/leetcode/solutions/easy/implement-strstr/) |
 | Remove Duplicates from Sorted Array | Easy | [solution](/leetcode/solutions/easy/remove-duplicates-from-sorted-array/) |
 | Merge Two Sorted Lists | Easy | [solution](/leetcode/solutions/easy/merge-two-sorted-lists/) |
 | Longest Common Prefix | Easy | [solution](/leetcode/solutions/easy/longest-common-prefix/) |
