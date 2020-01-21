@@ -19,6 +19,7 @@ This repo contains all my solutions from LeetCode.
 | Add Two Numbers | Medium | [solution](/leetcode/solutions/medium/add-two-numbers/) |
 | Print in Order | Easy | [solution](/leetcode/solutions/easy/print-in-order/) |
 | Intersection of Two Arrays II | Easy | [solution](/leetcode/solutions/easy/intersection-of-two-arrays-ii/) |
+| Reverse String | Easy | [solution](/leetcode/solutions/easy/reverse-string/) |
 | Move Zeroes | Easy | [solution](/leetcode/solutions/easy/move-zeroes/) |
 | Valid Anagram | Easy | [solution](/leetcode/solutions/easy/valid-anagram/) |
 | Contains Duplicate | Easy | [solution](/leetcode/solutions/easy/contains-duplicate/) |
