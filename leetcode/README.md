@@ -20,6 +20,7 @@ This repo contains all my solutions from LeetCode.
 | Print in Order | Easy | [solution](/leetcode/solutions/easy/print-in-order/) |
 | Intersection of Two Arrays II | Easy | [solution](/leetcode/solutions/easy/intersection-of-two-arrays-ii/) |
 | Move Zeroes | Easy | [solution](/leetcode/solutions/easy/move-zeroes/) |
+| Valid Anagram | Easy | [solution](/leetcode/solutions/easy/valid-anagram/) |
 | Contains Duplicate | Easy | [solution](/leetcode/solutions/easy/contains-duplicate/) |
 | Rotate Array | Easy | [solution](/leetcode/solutions/easy/rotate-array/) |
 | Single Number | Easy | [solution](/leetcode/solutions/easy/single-number/) |
