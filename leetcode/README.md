@@ -33,6 +33,7 @@ This repo contains all my solutions from LeetCode.
 | Move Zeroes | Easy | [solution](/leetcode/solutions/easy/move-zeroes/) |
 | Valid Anagram | Easy | [solution](/leetcode/solutions/easy/valid-anagram/) |
 | Contains Duplicate | Easy | [solution](/leetcode/solutions/easy/contains-duplicate/) |
+| Reverse Bits | Easy | [solution](/leetcode/solutions/easy/reverse-bits/) |
 | Rotate Array | Easy | [solution](/leetcode/solutions/easy/rotate-array/) |
 | Single Number | Easy | [solution](/leetcode/solutions/easy/single-number/) |
 | Valid Palindrome | Easy | [solution](/leetcode/solutions/easy/valid-palindrome/) |
