@@ -18,6 +18,7 @@ This repo contains all my solutions from LeetCode.
 | Pow(x, n) | Medium | [solution](/leetcode/solutions/medium/powx-n/) |
 | Rotate Image | Medium | [solution](/leetcode/solutions/medium/rotate-image/) |
 | Valid Sudoku | Medium | [solution](/leetcode/solutions/medium/valid-sudoku/) |
+| String to Integer (atoi) | Medium | [solution](/leetcode/solutions/medium/string-to-integer-atoi/) |
 | Longest Substring Without Repeating Characters | Medium | [solution](/leetcode/solutions/medium/longest-substring-without-repeating-characters/) |
 | Add Two Numbers | Medium | [solution](/leetcode/solutions/medium/add-two-numbers/) |
 | Print in Order | Easy | [solution](/leetcode/solutions/easy/print-in-order/) |
