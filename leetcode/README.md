@@ -19,6 +19,7 @@ This repo contains all my solutions from LeetCode.
 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | [solution](/leetcode/solutions/medium/construct-binary-tree-from-preorder-and-inorder-traversal/) |
 | Binary Tree Level Order Traversal | Medium | [solution](/leetcode/solutions/medium/binary-tree-level-order-traversal/) |
 | Validate Binary Search Tree | Medium | [solution](/leetcode/solutions/medium/validate-binary-search-tree/) |
+| Binary Tree Inorder Traversal | Medium | [solution](/leetcode/solutions/medium/binary-tree-inorder-traversal/) |
 | Pow(x, n) | Medium | [solution](/leetcode/solutions/medium/powx-n/) |
 | Rotate Image | Medium | [solution](/leetcode/solutions/medium/rotate-image/) |
 | Valid Sudoku | Medium | [solution](/leetcode/solutions/medium/valid-sudoku/) |
