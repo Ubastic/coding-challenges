@@ -14,6 +14,7 @@ This repo contains all my solutions from LeetCode.
 | LRU Cache | Medium | [solution](/leetcode/solutions/medium/lru-cache/) |
 | Binary Tree Preorder Traversal | Medium | [solution](/leetcode/solutions/medium/binary-tree-preorder-traversal/) |
 | Populating Next Right Pointers in Each Node II | Medium | [solution](/leetcode/solutions/medium/populating-next-right-pointers-in-each-node-ii/) |
+| Populating Next Right Pointers in Each Node | Medium | [solution](/leetcode/solutions/medium/populating-next-right-pointers-in-each-node/) |
 | Pow(x, n) | Medium | [solution](/leetcode/solutions/medium/powx-n/) |
 | Longest Substring Without Repeating Characters | Medium | [solution](/leetcode/solutions/medium/longest-substring-without-repeating-characters/) |
 | Add Two Numbers | Medium | [solution](/leetcode/solutions/medium/add-two-numbers/) |
