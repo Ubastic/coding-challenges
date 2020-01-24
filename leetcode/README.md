@@ -16,6 +16,7 @@ This repo contains all my solutions from LeetCode.
 | Populating Next Right Pointers in Each Node II | Medium | [solution](/leetcode/solutions/medium/populating-next-right-pointers-in-each-node-ii/) |
 | Populating Next Right Pointers in Each Node | Medium | [solution](/leetcode/solutions/medium/populating-next-right-pointers-in-each-node/) |
 | Pow(x, n) | Medium | [solution](/leetcode/solutions/medium/powx-n/) |
+| Rotate Image | Medium | [solution](/leetcode/solutions/medium/rotate-image/) |
 | Longest Substring Without Repeating Characters | Medium | [solution](/leetcode/solutions/medium/longest-substring-without-repeating-characters/) |
 | Add Two Numbers | Medium | [solution](/leetcode/solutions/medium/add-two-numbers/) |
 | Print in Order | Easy | [solution](/leetcode/solutions/easy/print-in-order/) |
