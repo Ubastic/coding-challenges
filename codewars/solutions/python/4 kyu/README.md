@@ -30,6 +30,7 @@
 * [Nesting Structure Comparison](/codewars/solutions/python/4%20kyu/Nesting%20Structure%20Comparison) - [CodeWard](https://www.codewars.com/kata/520446778469526ec0000001)
 * [Next bigger number with the same digits](/codewars/solutions/python/4%20kyu/Next%20bigger%20number%20with%20the%20same%20digits) - [CodeWard](https://www.codewars.com/kata/55983863da40caa2c900004e)
 * [Next smaller number with the same digits](/codewars/solutions/python/4%20kyu/Next%20smaller%20number%20with%20the%20same%20digits) - [CodeWard](https://www.codewars.com/kata/5659c6d896bc135c4c00021e)
+* [Path Finder #1: can you reach the exit?](/codewars/solutions/python/4%20kyu/Path%20Finder%201%20can%20you%20reach%20the%20exit) - [CodeWard](https://www.codewars.com/kata/5765870e190b1472ec0022a2)
 * [Permutations](/codewars/solutions/python/4%20kyu/Permutations) - [CodeWard](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
 * [Pyramid Slide Down](/codewars/solutions/python/4%20kyu/Pyramid%20Slide%20Down) - [CodeWard](https://www.codewars.com/kata/551f23362ff852e2ab000037)
 * [Range Extraction](/codewars/solutions/python/4%20kyu/Range%20Extraction) - [CodeWard](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
