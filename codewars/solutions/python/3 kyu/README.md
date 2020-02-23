@@ -6,6 +6,7 @@
 * [Huffman Encoding](/codewars/solutions/python/3%20kyu/Huffman%20Encoding) - [CodeWard](https://www.codewars.com/kata/54cf7f926b85dcc4e2000d9d)
 * [Last digit of a huge number](/codewars/solutions/python/3%20kyu/Last%20digit%20of%20a%20huge%20number) - [CodeWard](https://www.codewars.com/kata/5518a860a73e708c0a000027)
 * [Make a spiral](/codewars/solutions/python/3%20kyu/Make%20a%20spiral) - [CodeWard](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6)
+* [Path Finder #3: the Alpinist](/codewars/solutions/python/3%20kyu/Path%20Finder%203%20the%20Alpinist) - [CodeWard](https://www.codewars.com/kata/576986639772456f6f00030c)
 * [Rail Fence Cipher: Encoding and Decoding ](/codewars/solutions/python/3%20kyu/Rail%20Fence%20Cipher%20Encoding%20and%20Decoding) - [CodeWard](https://www.codewars.com/kata/58c5577d61aefcf3ff000081)
 * [Sudoku Solver](/codewars/solutions/python/3%20kyu/Sudoku%20Solver) - [CodeWard](https://www.codewars.com/kata/5296bc77afba8baa690002d7)
 * [The Millionth Fibonacci Kata](/codewars/solutions/python/3%20kyu/The%20Millionth%20Fibonacci%20Kata) - [CodeWard](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26)
