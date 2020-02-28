@@ -32,9 +32,10 @@ def to_rpn(tokens):
 
 class Calculator(object):
     def evaluate(self, string):
-        return round(self.eval(to_rpn(tokenize(string))), 3)
+        print(string)
+        return round(self._eval(to_rpn(tokenize(string))), 3)
 
-    def eval(self, operands):
+    def _eval(self, operands):
         stack = []
         while operands:
             op = operands.pop(0)

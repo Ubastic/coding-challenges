@@ -13,6 +13,7 @@
 * [Like itertools : combinations](/codewars/solutions/javascript/4%20kyu/Like%20itertools%20%20combinations) - [CodeWard](https://www.codewars.com/kata/582da6ba06e37f9b75000510)
 * [Name Your Space](/codewars/solutions/javascript/4%20kyu/Name%20Your%20Space) - [CodeWard](https://www.codewars.com/kata/514b6c44a337752e67000077)
 * [Objectify a URL Query String](/codewars/solutions/javascript/4%20kyu/Objectify%20a%20URL%20Query%20String) - [CodeWard](https://www.codewars.com/kata/5286d92ec6b5a9045c000087)
+* [Permutations](/codewars/solutions/javascript/4%20kyu/Permutations) - [CodeWard](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
 * [Remove Zeros](/codewars/solutions/javascript/4%20kyu/Remove%20Zeros) - [CodeWard](https://www.codewars.com/kata/52aae14aa7fd03d57400058f)
 * [Sum of Intervals](/codewars/solutions/javascript/4%20kyu/Sum%20of%20Intervals) - [CodeWard](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
 * [Undo/Redo](/codewars/solutions/javascript/4%20kyu/UndoRedo) - [CodeWard](https://www.codewars.com/kata/531489f2bb244a5b9f00077e)
