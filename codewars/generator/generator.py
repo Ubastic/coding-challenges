@@ -303,7 +303,9 @@ def main(username: str, password: str, email: str) -> None:
             for honor in root.select('.honor')
         }
 
-        total_katas = root.select_one('.nmtm .stat-box:nth-of-type(1) div:last-child')
+        total_katas = root.select_one(
+            '.tabs + div .stat-container > h2 + div .stat-box:nth-of-type(1) .stat:last-child'
+        )
         data['overall-katas'] = total_katas.contents[-1]
 
         # Add information about completed katas
