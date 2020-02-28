@@ -1,0 +1,1 @@
+# [Compile time #3.1 Make string](https://www.codewars.com/kata/5a7ab27bfd57772f4d001301)
