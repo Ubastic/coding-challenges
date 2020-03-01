@@ -1,3 +1,4 @@
+import re
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 from itertools import count
@@ -303,10 +304,8 @@ def main(username: str, password: str, email: str) -> None:
             for honor in root.select('.honor')
         }
 
-        total_katas = root.select_one(
-            '.tabs + div .stat-container > h2 + div .stat-box:nth-of-type(1) .stat:last-child'
-        )
-        data['overall-katas'] = total_katas.contents[-1]
+        total_katas = re.search(r'(?<=Total Completed Kata:)\d+', root.text).group()
+        data['overall-katas'] = total_katas
 
         # Add information about completed katas
         data.update({
