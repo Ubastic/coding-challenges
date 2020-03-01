@@ -18,6 +18,7 @@
 * [Permutations](/codewars/solutions/javascript/4%20kyu/Permutations) - [CodeWard](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
 * [Pyramid Slide Down](/codewars/solutions/javascript/4%20kyu/Pyramid%20Slide%20Down) - [CodeWard](https://www.codewars.com/kata/551f23362ff852e2ab000037)
 * [Remove Zeros](/codewars/solutions/javascript/4%20kyu/Remove%20Zeros) - [CodeWard](https://www.codewars.com/kata/52aae14aa7fd03d57400058f)
+* [Strip Comments](/codewars/solutions/javascript/4%20kyu/Strip%20Comments) - [CodeWard](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
 * [Sum of Intervals](/codewars/solutions/javascript/4%20kyu/Sum%20of%20Intervals) - [CodeWard](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
 * [Undo/Redo](/codewars/solutions/javascript/4%20kyu/UndoRedo) - [CodeWard](https://www.codewars.com/kata/531489f2bb244a5b9f00077e)
 * [UriBuilder](/codewars/solutions/javascript/4%20kyu/UriBuilder) - [CodeWard](https://www.codewars.com/kata/51eead3461ccf7db04000017)
