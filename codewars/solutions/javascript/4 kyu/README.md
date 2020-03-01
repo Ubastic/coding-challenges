@@ -16,6 +16,7 @@
 * [Nesting Structure Comparison](/codewars/solutions/javascript/4%20kyu/Nesting%20Structure%20Comparison) - [CodeWard](https://www.codewars.com/kata/520446778469526ec0000001)
 * [Objectify a URL Query String](/codewars/solutions/javascript/4%20kyu/Objectify%20a%20URL%20Query%20String) - [CodeWard](https://www.codewars.com/kata/5286d92ec6b5a9045c000087)
 * [Permutations](/codewars/solutions/javascript/4%20kyu/Permutations) - [CodeWard](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
+* [Pyramid Slide Down](/codewars/solutions/javascript/4%20kyu/Pyramid%20Slide%20Down) - [CodeWard](https://www.codewars.com/kata/551f23362ff852e2ab000037)
 * [Remove Zeros](/codewars/solutions/javascript/4%20kyu/Remove%20Zeros) - [CodeWard](https://www.codewars.com/kata/52aae14aa7fd03d57400058f)
 * [Sum of Intervals](/codewars/solutions/javascript/4%20kyu/Sum%20of%20Intervals) - [CodeWard](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
 * [Undo/Redo](/codewars/solutions/javascript/4%20kyu/UndoRedo) - [CodeWard](https://www.codewars.com/kata/531489f2bb244a5b9f00077e)
