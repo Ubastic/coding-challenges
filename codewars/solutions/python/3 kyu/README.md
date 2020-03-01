@@ -8,6 +8,7 @@
 * [Make a spiral](/codewars/solutions/python/3%20kyu/Make%20a%20spiral) - [CodeWard](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6)
 * [Path Finder #3: the Alpinist](/codewars/solutions/python/3%20kyu/Path%20Finder%203%20the%20Alpinist) - [CodeWard](https://www.codewars.com/kata/576986639772456f6f00030c)
 * [Rail Fence Cipher: Encoding and Decoding ](/codewars/solutions/python/3%20kyu/Rail%20Fence%20Cipher%20Encoding%20and%20Decoding) - [CodeWard](https://www.codewars.com/kata/58c5577d61aefcf3ff000081)
+* [Screen Locking Patterns](/codewars/solutions/python/3%20kyu/Screen%20Locking%20Patterns) - [CodeWard](https://www.codewars.com/kata/585894545a8a07255e0002f1)
 * [Sudoku Solver](/codewars/solutions/python/3%20kyu/Sudoku%20Solver) - [CodeWard](https://www.codewars.com/kata/5296bc77afba8baa690002d7)
 * [The Millionth Fibonacci Kata](/codewars/solutions/python/3%20kyu/The%20Millionth%20Fibonacci%20Kata) - [CodeWard](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26)
 * [The builder of things](/codewars/solutions/python/3%20kyu/The%20builder%20of%20things) - [CodeWard](https://www.codewars.com/kata/5571d9fc11526780a000011a)
