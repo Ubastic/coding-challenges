@@ -13,17 +13,17 @@ for a, b, c in INTERSECTIONS:
 
 
 def count_patterns_from(point, l, path=None, forbidden=frozenset()):
-    if path is None and l not in range(0, 10):
+    if not (path or 0 < l < 10):
         return 0
 
     path = path or {point}
 
     if len(path) == l:
         return 1
-    elif len(path) > l:
+    if len(path) > l:
         return 0
 
     return sum(
         count_patterns_from(p, l, path | {p} | EFFECTS[point][p], FORBIDDEN[point][p])
-        for p in POINTS - (path | forbidden)
+        for p in POINTS - path - forbidden
     )
