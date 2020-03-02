@@ -1,5 +1,5 @@
 # Javascript
-* :white_check_mark: [2 kyu](/codewars/solutions/javascript/2%20kyu) - 3
+* :white_check_mark: [2 kyu](/codewars/solutions/javascript/2%20kyu) - 4
 * :white_check_mark: [3 kyu](/codewars/solutions/javascript/3%20kyu) - 4
 * :white_check_mark: [4 kyu](/codewars/solutions/javascript/4%20kyu) - 24
 * :white_check_mark: [5 kyu](/codewars/solutions/javascript/5%20kyu) - 4
