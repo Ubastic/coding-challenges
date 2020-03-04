@@ -1,0 +1,2 @@
+# 1 Kyu
+* [Metaprogramming: Lisp-style Generic Functions](/codewars/solutions/javascript/1%20kyu/Metaprogramming%20Lispstyle%20Generic%20Functions) - [CodeWard](https://www.codewars.com/kata/526de57c8f428fc1fd000b8c)

@@ -1,0 +1,1 @@
+# [Metaprogramming: Lisp-style Generic Functions](https://www.codewars.com/kata/526de57c8f428fc1fd000b8c)
