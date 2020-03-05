@@ -1,0 +1,1 @@
+# [Longest Palindromic Substring (Linear)](https://www.codewars.com/kata/5dcde0b9fcb0d100349cb5c0)

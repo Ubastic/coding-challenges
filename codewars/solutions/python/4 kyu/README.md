@@ -24,6 +24,7 @@
 * [Human readable duration format](/codewars/solutions/python/4%20kyu/Human%20readable%20duration%20format) - [CodeWard](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
 * [Infix to Postfix Converter](/codewars/solutions/python/4%20kyu/Infix%20to%20Postfix%20Converter) - [CodeWard](https://www.codewars.com/kata/52e864d1ffb6ac25db00017f)
 * [Lazy Init ](/codewars/solutions/python/4%20kyu/Lazy%20Init) - [CodeWard](https://www.codewars.com/kata/59b7b43b4f98a81b2d00000a)
+* [Longest Palindromic Substring (Linear)](/codewars/solutions/python/4%20kyu/Longest%20Palindromic%20Substring%20Linear) - [CodeWard](https://www.codewars.com/kata/5dcde0b9fcb0d100349cb5c0)
 * [Magnet particules in boxes](/codewars/solutions/python/4%20kyu/Magnet%20particules%20in%20boxes) - [CodeWard](https://www.codewars.com/kata/56c04261c3fcf33f2d000534)
 * [Matrix Determinant](/codewars/solutions/python/4%20kyu/Matrix%20Determinant) - [CodeWard](https://www.codewars.com/kata/52a382ee44408cea2500074c)
 * [Most frequently used words in a text](/codewars/solutions/python/4%20kyu/Most%20frequently%20used%20words%20in%20a%20text) - [CodeWard](https://www.codewars.com/kata/51e056fe544cf36c410000fb)
