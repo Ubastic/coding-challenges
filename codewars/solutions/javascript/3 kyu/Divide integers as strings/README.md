@@ -1,0 +1,1 @@
+# [Divide integers as strings](https://www.codewars.com/kata/58dea43ff98a7e2124000169)
