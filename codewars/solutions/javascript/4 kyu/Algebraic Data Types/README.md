@@ -1,0 +1,1 @@
+# [Algebraic Data Types](https://www.codewars.com/kata/546d245dddbcbd291c00106e)
