@@ -1,0 +1,1 @@
+# [Multiplying numbers as strings: Part II](https://www.codewars.com/kata/5923fbc72eafa9bcff00011a)
