@@ -1,0 +1,2 @@
+# 3 Kyu
+* [Tricky Kotlin #8: Simple for-comprehension](/codewars/solutions/kotlin/3%20kyu/Tricky%20Kotlin%208%20Simple%20forcomprehension) - [CodeWard](https://www.codewars.com/kata/5a6f71185084d76d2000001b)

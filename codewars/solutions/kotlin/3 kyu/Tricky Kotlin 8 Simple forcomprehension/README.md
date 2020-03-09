@@ -1,0 +1,1 @@
+# [Tricky Kotlin #8: Simple for-comprehension](https://www.codewars.com/kata/5a6f71185084d76d2000001b)
