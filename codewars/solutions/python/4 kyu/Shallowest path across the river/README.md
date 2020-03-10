@@ -1,0 +1,1 @@
+# [Shallowest path across the river](https://www.codewars.com/kata/585cec2471677ee42c000296)
