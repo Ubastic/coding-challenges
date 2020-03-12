@@ -5,6 +5,7 @@
 * [Arithmetic Expressions Evaluator](/codewars/solutions/javascript/4%20kyu/Arithmetic%20Expressions%20Evaluator) - [CodeWard](https://www.codewars.com/kata/529f5e262281a70d9b00088a)
 * [Binary Search Tree using Arrays](/codewars/solutions/javascript/4%20kyu/Binary%20Search%20Tree%20using%20Arrays) - [CodeWard](https://www.codewars.com/kata/5303617c1f5c12fc28000237)
 * [Born to be chained](/codewars/solutions/javascript/4%20kyu/Born%20to%20be%20chained) - [CodeWard](https://www.codewars.com/kata/54c27ef1fb7da0118600046a)
+* [Brace expansion](/codewars/solutions/javascript/4%20kyu/Brace%20expansion) - [CodeWard](https://www.codewars.com/kata/597f11f61fe82a80c200002c)
 * [Combinations with identicals](/codewars/solutions/javascript/4%20kyu/Combinations%20with%20identicals) - [CodeWard](https://www.codewars.com/kata/57fd8d7187b8012f4700062a)
 * [Count the connected components](/codewars/solutions/javascript/4%20kyu/Count%20the%20connected%20components) - [CodeWard](https://www.codewars.com/kata/55eaf138c1f4e9eef1000047)
 * [Curry me softly](/codewars/solutions/javascript/4%20kyu/Curry%20me%20softly) - [CodeWard](https://www.codewars.com/kata/55ba24f1cb367c48ac0000a2)
