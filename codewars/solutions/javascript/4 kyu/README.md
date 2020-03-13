@@ -15,6 +15,7 @@
 * [Determining if a graph has a solution](/codewars/solutions/javascript/4%20kyu/Determining%20if%20a%20graph%20has%20a%20solution) - [CodeWard](https://www.codewars.com/kata/53223653a191940f2b000877)
 * [ES5 Generators(i)](/codewars/solutions/javascript/4%20kyu/ES5%20Generatorsi) - [CodeWard](https://www.codewars.com/kata/53c29a6abb5187180d000b65)
 * [Fluent Calculator](/codewars/solutions/javascript/4%20kyu/Fluent%20Calculator) - [CodeWard](https://www.codewars.com/kata/5578a806350dae5b05000021)
+* [Functional Binary Trees](/codewars/solutions/javascript/4%20kyu/Functional%20Binary%20Trees) - [CodeWard](https://www.codewars.com/kata/527c1fc78699012e43000cc8)
 * [Haskell List Comprehension (ii)](/codewars/solutions/javascript/4%20kyu/Haskell%20List%20Comprehension%20ii) - [CodeWard](https://www.codewars.com/kata/53c8bcb1689f84238c000661)
 * [How many numbers III?](/codewars/solutions/javascript/4%20kyu/How%20many%20numbers%20III) - [CodeWard](https://www.codewars.com/kata/5877e7d568909e5ff90017e6)
 * [Like itertools : combinations](/codewars/solutions/javascript/4%20kyu/Like%20itertools%20%20combinations) - [CodeWard](https://www.codewars.com/kata/582da6ba06e37f9b75000510)
