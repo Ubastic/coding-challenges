@@ -1,0 +1,1 @@
+# [Simple Syntax Tokenizing](https://www.codewars.com/kata/599a0d02755eae7070000079)

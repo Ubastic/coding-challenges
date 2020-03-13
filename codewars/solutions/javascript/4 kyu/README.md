@@ -26,6 +26,7 @@
 * [Permutations](/codewars/solutions/javascript/4%20kyu/Permutations) - [CodeWard](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
 * [Pyramid Slide Down](/codewars/solutions/javascript/4%20kyu/Pyramid%20Slide%20Down) - [CodeWard](https://www.codewars.com/kata/551f23362ff852e2ab000037)
 * [Remove Zeros](/codewars/solutions/javascript/4%20kyu/Remove%20Zeros) - [CodeWard](https://www.codewars.com/kata/52aae14aa7fd03d57400058f)
+* [Simple Syntax Tokenizing](/codewars/solutions/javascript/4%20kyu/Simple%20Syntax%20Tokenizing) - [CodeWard](https://www.codewars.com/kata/599a0d02755eae7070000079)
 * [Strip Comments](/codewars/solutions/javascript/4%20kyu/Strip%20Comments) - [CodeWard](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
 * [Sum Strings as Numbers](/codewars/solutions/javascript/4%20kyu/Sum%20Strings%20as%20Numbers) - [CodeWard](https://www.codewars.com/kata/5324945e2ece5e1f32000370)
 * [Sum of Intervals](/codewars/solutions/javascript/4%20kyu/Sum%20of%20Intervals) - [CodeWard](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
