@@ -63,6 +63,7 @@
 * [The Greatest Warrior](/codewars/solutions/python/4%20kyu/The%20Greatest%20Warrior) - [CodeWard](https://www.codewars.com/kata/5941c545f5c394fef900000c)
 * [The fusc function -- Part 2](/codewars/solutions/python/4%20kyu/The%20fusc%20function%20%20Part%202) - [CodeWard](https://www.codewars.com/kata/57040e445a726387a1001cf7)
 * [The observed PIN](/codewars/solutions/python/4%20kyu/The%20observed%20PIN) - [CodeWard](https://www.codewars.com/kata/5263c6999e0f40dee200059d)
+* [Twice linear](/codewars/solutions/python/4%20kyu/Twice%20linear) - [CodeWard](https://www.codewars.com/kata/5672682212c8ecf83e000050)
 * [Validate Sudoku with size `NxN`](/codewars/solutions/python/4%20kyu/Validate%20Sudoku%20with%20size%20NxN) - [CodeWard](https://www.codewars.com/kata/540afbe2dc9f615d5e000425)
 * [Vigenère Cipher Helper](/codewars/solutions/python/4%20kyu/Vigen%C3%A8re%20Cipher%20Helper) - [CodeWard](https://www.codewars.com/kata/52d1bd3694d26f8d6e0000d3)
 * [parseInt() reloaded](/codewars/solutions/python/4%20kyu/parseInt%20reloaded) - [CodeWard](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)
