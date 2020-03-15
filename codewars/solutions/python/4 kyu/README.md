@@ -22,6 +22,7 @@
 * [Find all possible number combos that sum to a number](/codewars/solutions/python/4%20kyu/Find%20all%20possible%20number%20combos%20that%20sum%20to%20a%20number) - [CodeWard](https://www.codewars.com/kata/555b1890a75b930e63000023)
 * [Find the unknown digit](/codewars/solutions/python/4%20kyu/Find%20the%20unknown%20digit) - [CodeWard](https://www.codewars.com/kata/546d15cebed2e10334000ed9)
 * [Generic number class](/codewars/solutions/python/4%20kyu/Generic%20number%20class) - [CodeWard](https://www.codewars.com/kata/54baad292c471514820000a3)
+* [Hamming Numbers](/codewars/solutions/python/4%20kyu/Hamming%20Numbers) - [CodeWard](https://www.codewars.com/kata/526d84b98f428f14a60008da)
 * [How many numbers III?](/codewars/solutions/python/4%20kyu/How%20many%20numbers%20III) - [CodeWard](https://www.codewars.com/kata/5877e7d568909e5ff90017e6)
 * [Human readable duration format](/codewars/solutions/python/4%20kyu/Human%20readable%20duration%20format) - [CodeWard](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
 * [Infix to Postfix Converter](/codewars/solutions/python/4%20kyu/Infix%20to%20Postfix%20Converter) - [CodeWard](https://www.codewars.com/kata/52e864d1ffb6ac25db00017f)
