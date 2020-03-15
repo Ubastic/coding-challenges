@@ -17,6 +17,7 @@
 * [Currying vs. Partial Application](/codewars/solutions/python/4%20kyu/Currying%20vs%20Partial%20Application) - [CodeWard](https://www.codewars.com/kata/53cf7e37e9876c35a60002c9)
 * [Decode the Morse code, advanced](/codewars/solutions/python/4%20kyu/Decode%20the%20Morse%20code%20advanced) - [CodeWard](https://www.codewars.com/kata/54b72c16cd7f5154e9000457)
 * [Differentiate a polynomial](/codewars/solutions/python/4%20kyu/Differentiate%20a%20polynomial) - [CodeWard](https://www.codewars.com/kata/566584e3309db1b17d000027)
+* [Dynamic Connectivity](/codewars/solutions/python/4%20kyu/Dynamic%20Connectivity) - [CodeWard](https://www.codewars.com/kata/58936eb3d160ee775d000018)
 * [Explosive Sum](/codewars/solutions/python/4%20kyu/Explosive%20Sum) - [CodeWard](https://www.codewars.com/kata/52ec24228a515e620b0005ef)
 * [Find all possible number combos that sum to a number](/codewars/solutions/python/4%20kyu/Find%20all%20possible%20number%20combos%20that%20sum%20to%20a%20number) - [CodeWard](https://www.codewars.com/kata/555b1890a75b930e63000023)
 * [Find the unknown digit](/codewars/solutions/python/4%20kyu/Find%20the%20unknown%20digit) - [CodeWard](https://www.codewars.com/kata/546d15cebed2e10334000ed9)
