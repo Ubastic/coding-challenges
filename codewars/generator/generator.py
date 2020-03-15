@@ -39,6 +39,7 @@ LANGUAGE_FILE_EXTENSION = {
     'javascript': 'js',
     'java': 'java',
     'haskell': 'hs',
+    'coffeescript': 'coffee',
 }
 LONGEST_LANGUAGE = max(map(len, LANGUAGE_FILE_EXTENSION)) + 1
 NUMBERS = count(1)
