@@ -1,0 +1,1 @@
+# [Magic Compare](https://www.codewars.com/kata/59ad0147485a4d9d3f0000a9)
