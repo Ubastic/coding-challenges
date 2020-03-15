@@ -59,6 +59,7 @@
 * [Sudoku Solution Validator](/codewars/solutions/python/4%20kyu/Sudoku%20Solution%20Validator) - [CodeWard](https://www.codewars.com/kata/529bf0e9bdf7657179000008)
 * [Sum by Factors](/codewars/solutions/python/4%20kyu/Sum%20by%20Factors) - [CodeWard](https://www.codewars.com/kata/54d496788776e49e6b00052f)
 * [Sum of Intervals](/codewars/solutions/python/4%20kyu/Sum%20of%20Intervals) - [CodeWard](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
+* [Text align justify](/codewars/solutions/python/4%20kyu/Text%20align%20justify) - [CodeWard](https://www.codewars.com/kata/537e18b6147aa838f600001b)
 * [The Greatest Warrior](/codewars/solutions/python/4%20kyu/The%20Greatest%20Warrior) - [CodeWard](https://www.codewars.com/kata/5941c545f5c394fef900000c)
 * [The fusc function -- Part 2](/codewars/solutions/python/4%20kyu/The%20fusc%20function%20%20Part%202) - [CodeWard](https://www.codewars.com/kata/57040e445a726387a1001cf7)
 * [The observed PIN](/codewars/solutions/python/4%20kyu/The%20observed%20PIN) - [CodeWard](https://www.codewars.com/kata/5263c6999e0f40dee200059d)
