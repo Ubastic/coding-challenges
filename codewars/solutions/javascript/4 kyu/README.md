@@ -18,6 +18,7 @@
 * [Functional Binary Trees](/codewars/solutions/javascript/4%20kyu/Functional%20Binary%20Trees) - [CodeWard](https://www.codewars.com/kata/527c1fc78699012e43000cc8)
 * [Haskell List Comprehension (ii)](/codewars/solutions/javascript/4%20kyu/Haskell%20List%20Comprehension%20ii) - [CodeWard](https://www.codewars.com/kata/53c8bcb1689f84238c000661)
 * [How many numbers III?](/codewars/solutions/javascript/4%20kyu/How%20many%20numbers%20III) - [CodeWard](https://www.codewars.com/kata/5877e7d568909e5ff90017e6)
+* [Large Factorials](/codewars/solutions/javascript/4%20kyu/Large%20Factorials) - [CodeWard](https://www.codewars.com/kata/557f6437bf8dcdd135000010)
 * [Like itertools : combinations](/codewars/solutions/javascript/4%20kyu/Like%20itertools%20%20combinations) - [CodeWard](https://www.codewars.com/kata/582da6ba06e37f9b75000510)
 * [Most frequently used words in a text](/codewars/solutions/javascript/4%20kyu/Most%20frequently%20used%20words%20in%20a%20text) - [CodeWard](https://www.codewars.com/kata/51e056fe544cf36c410000fb)
 * [Multiplying numbers as strings](/codewars/solutions/javascript/4%20kyu/Multiplying%20numbers%20as%20strings) - [CodeWard](https://www.codewars.com/kata/55911ef14065454c75000062)
