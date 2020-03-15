@@ -1,0 +1,1 @@
+# [Variable Number of Arguments in C, without "va"](https://www.codewars.com/kata/59f3f88c25d57513d600014f)

@@ -1,0 +1,2 @@
+# 4 Kyu
+* [Variable Number of Arguments in C, without "va"](/codewars/solutions/c/4%20kyu/Variable%20Number%20of%20Arguments%20in%20C%20without%20va) - [CodeWard](https://www.codewars.com/kata/59f3f88c25d57513d600014f)
