@@ -4,6 +4,7 @@
 * [Algebraic Data Types](/codewars/solutions/javascript/4%20kyu/Algebraic%20Data%20Types) - [CodeWard](https://www.codewars.com/kata/546d245dddbcbd291c00106e)
 * [Arithmetic Expressions Evaluator](/codewars/solutions/javascript/4%20kyu/Arithmetic%20Expressions%20Evaluator) - [CodeWard](https://www.codewars.com/kata/529f5e262281a70d9b00088a)
 * [Binary Search Tree using Arrays](/codewars/solutions/javascript/4%20kyu/Binary%20Search%20Tree%20using%20Arrays) - [CodeWard](https://www.codewars.com/kata/5303617c1f5c12fc28000237)
+* [Boggle Word Checker](/codewars/solutions/javascript/4%20kyu/Boggle%20Word%20Checker) - [CodeWard](https://www.codewars.com/kata/57680d0128ed87c94f000bfd)
 * [Born to be chained](/codewars/solutions/javascript/4%20kyu/Born%20to%20be%20chained) - [CodeWard](https://www.codewars.com/kata/54c27ef1fb7da0118600046a)
 * [Brace expansion](/codewars/solutions/javascript/4%20kyu/Brace%20expansion) - [CodeWard](https://www.codewars.com/kata/597f11f61fe82a80c200002c)
 * [Combinations with identicals](/codewars/solutions/javascript/4%20kyu/Combinations%20with%20identicals) - [CodeWard](https://www.codewars.com/kata/57fd8d7187b8012f4700062a)
