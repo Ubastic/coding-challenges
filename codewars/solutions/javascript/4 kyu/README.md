@@ -34,6 +34,7 @@
 * [Strip Comments](/codewars/solutions/javascript/4%20kyu/Strip%20Comments) - [CodeWard](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
 * [Sum Strings as Numbers](/codewars/solutions/javascript/4%20kyu/Sum%20Strings%20as%20Numbers) - [CodeWard](https://www.codewars.com/kata/5324945e2ece5e1f32000370)
 * [Sum of Intervals](/codewars/solutions/javascript/4%20kyu/Sum%20of%20Intervals) - [CodeWard](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
+* [Ten-Pin Bowling](/codewars/solutions/javascript/4%20kyu/TenPin%20Bowling) - [CodeWard](https://www.codewars.com/kata/5531abe4855bcc8d1f00004c)
 * [Undo/Redo](/codewars/solutions/javascript/4%20kyu/UndoRedo) - [CodeWard](https://www.codewars.com/kata/531489f2bb244a5b9f00077e)
 * [UriBuilder](/codewars/solutions/javascript/4%20kyu/UriBuilder) - [CodeWard](https://www.codewars.com/kata/51eead3461ccf7db04000017)
 * [YACK (Yet Another Currying Kata)](/codewars/solutions/javascript/4%20kyu/YACK%20Yet%20Another%20Currying%20Kata) - [CodeWard](https://www.codewars.com/kata/55f91566e0d2317066000057)
