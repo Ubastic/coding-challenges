@@ -5,6 +5,7 @@
 * [Bad Exception Handling](/codewars/solutions/python/4%20kyu/Bad%20Exception%20Handling) - [CodeWard](https://www.codewars.com/kata/5950eec3a100d72be100003f)
 * [Befunge Interpreter](/codewars/solutions/python/4%20kyu/Befunge%20Interpreter) - [CodeWard](https://www.codewars.com/kata/526c7b931666d07889000a3c)
 * [Binary multiple of 3](/codewars/solutions/python/4%20kyu/Binary%20multiple%20of%203) - [CodeWard](https://www.codewars.com/kata/54de279df565808f8b00126a)
+* [Boggle Word Checker](/codewars/solutions/python/4%20kyu/Boggle%20Word%20Checker) - [CodeWard](https://www.codewars.com/kata/57680d0128ed87c94f000bfd)
 * [Brainfuck Translator](/codewars/solutions/python/4%20kyu/Brainfuck%20Translator) - [CodeWard](https://www.codewars.com/kata/58924f2ca8c628f21a0001a1)
 * [Breadcrumb Generator](/codewars/solutions/python/4%20kyu/Breadcrumb%20Generator) - [CodeWard](https://www.codewars.com/kata/563fbac924106b8bf7000046)
 * [Catching Car Mileage Numbers](/codewars/solutions/python/4%20kyu/Catching%20Car%20Mileage%20Numbers) - [CodeWard](https://www.codewars.com/kata/52c4dd683bfd3b434c000292)
