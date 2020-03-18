@@ -10,6 +10,7 @@
 * [Combinations with identicals](/codewars/solutions/javascript/4%20kyu/Combinations%20with%20identicals) - [CodeWard](https://www.codewars.com/kata/57fd8d7187b8012f4700062a)
 * [Connect Four: Who Won?](/codewars/solutions/javascript/4%20kyu/Connect%20Four%20Who%20Won) - [CodeWard](https://www.codewars.com/kata/529962509ce9545c76000afa)
 * [Count the connected components](/codewars/solutions/javascript/4%20kyu/Count%20the%20connected%20components) - [CodeWard](https://www.codewars.com/kata/55eaf138c1f4e9eef1000047)
+* [Counting Nested Functions](/codewars/solutions/javascript/4%20kyu/Counting%20Nested%20Functions) - [CodeWard](https://www.codewars.com/kata/59e6189641b48b8e6c001c33)
 * [Curry me softly](/codewars/solutions/javascript/4%20kyu/Curry%20me%20softly) - [CodeWard](https://www.codewars.com/kata/55ba24f1cb367c48ac0000a2)
 * [Deep Assignment](/codewars/solutions/javascript/4%20kyu/Deep%20Assignment) - [CodeWard](https://www.codewars.com/kata/56242a31689c352359000044)
 * [Default Arguments](/codewars/solutions/javascript/4%20kyu/Default%20Arguments) - [CodeWard](https://www.codewars.com/kata/52605419be184942d400003d)
