@@ -50,6 +50,7 @@
 * [SPF Russia](/codewars/solutions/python/4%20kyu/SPF%20Russia) - [CodeWard](https://www.codewars.com/kata/5709aa85fe2d012f1d00169c)
 * [Shallowest path across the river](/codewars/solutions/python/4%20kyu/Shallowest%20path%20across%20the%20river) - [CodeWard](https://www.codewars.com/kata/585cec2471677ee42c000296)
 * [Simple Fun #159: Middle Permutation](/codewars/solutions/python/4%20kyu/Simple%20Fun%20159%20Middle%20Permutation) - [CodeWard](https://www.codewars.com/kata/58ad317d1541651a740000c5)
+* [Simple maze](/codewars/solutions/python/4%20kyu/Simple%20maze) - [CodeWard](https://www.codewars.com/kata/56bb9b7838dd34d7d8001b3c)
 * [Simplexer](/codewars/solutions/python/4%20kyu/Simplexer) - [CodeWard](https://www.codewars.com/kata/54b8204dcd7f514bf2000348)
 * [Simplifying multilinear polynomials](/codewars/solutions/python/4%20kyu/Simplifying%20multilinear%20polynomials) - [CodeWard](https://www.codewars.com/kata/55f89832ac9a66518f000118)
 * [Smallest possible sum ](/codewars/solutions/python/4%20kyu/Smallest%20possible%20sum) - [CodeWard](https://www.codewars.com/kata/52f677797c461daaf7000740)
