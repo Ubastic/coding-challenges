@@ -1,0 +1,1 @@
+# [Largest Difference in Increasing Indexes](https://www.codewars.com/kata/52503c77e5b972f21600000e)
