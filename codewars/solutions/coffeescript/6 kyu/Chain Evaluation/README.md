@@ -1,0 +1,1 @@
+# [Chain Evaluation](https://www.codewars.com/kata/545a5dd961aa4c0987000980)
