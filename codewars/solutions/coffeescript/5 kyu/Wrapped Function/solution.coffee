@@ -1,0 +1,1 @@
+Function::wrap = (f) -> (args...) => f(@, args...)
