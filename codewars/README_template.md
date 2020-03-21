@@ -14,8 +14,8 @@ Main goal - solve any kata every day :open_mouth:
 |:snake: Python                 | {python-kuy}      | {python-katas}        |
 |:see_no_evil: JavaScript       | {javascript-kuy}  | {javascript-katas}    |
 |:coffee: Java                  | {java-kuy}        | {java-katas}          |
-|:hammer_and_wrench: C++        | {c++-kuy}         | {c++-katas}           |
-|:seedling: Kotlin              | {kotlin-kuy}      | {kotlin-katas}        |
-|:wrench: C                     | {c-kuy}           | {c-katas}             |
 |:scroll: CoffeeScript          | {coffeescript-kuy}| {coffeescript-katas}  |
+|:hammer_and_wrench: C++        | {c++-kuy}         | {c++-katas}           |
+|:wrench: C                     | {c-kuy}           | {c-katas}             |
+|:seedling: Kotlin              | {kotlin-kuy}      | {kotlin-katas}        |
 |:link: Haskell                 | {haskell-kuy}     | {haskell-katas}       |
