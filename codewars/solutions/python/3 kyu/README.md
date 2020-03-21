@@ -12,6 +12,7 @@
 * [Screen Locking Patterns](/codewars/solutions/python/3%20kyu/Screen%20Locking%20Patterns) - [CodeWard](https://www.codewars.com/kata/585894545a8a07255e0002f1)
 * [Simplifying](/codewars/solutions/python/3%20kyu/Simplifying) - [CodeWard](https://www.codewars.com/kata/57f2b753e3b78621da0020e8)
 * [Sudoku Solver](/codewars/solutions/python/3%20kyu/Sudoku%20Solver) - [CodeWard](https://www.codewars.com/kata/5296bc77afba8baa690002d7)
+* [The Lift](/codewars/solutions/python/3%20kyu/The%20Lift) - [CodeWard](https://www.codewars.com/kata/58905bfa1decb981da00009e)
 * [The Millionth Fibonacci Kata](/codewars/solutions/python/3%20kyu/The%20Millionth%20Fibonacci%20Kata) - [CodeWard](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26)
 * [The builder of things](/codewars/solutions/python/3%20kyu/The%20builder%20of%20things) - [CodeWard](https://www.codewars.com/kata/5571d9fc11526780a000011a)
 * [Type Transpiler](/codewars/solutions/python/3%20kyu/Type%20Transpiler) - [CodeWard](https://www.codewars.com/kata/59a6949d398b5d6aec000007)
