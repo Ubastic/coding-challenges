@@ -1,8 +1,8 @@
 # Python
 * :white_check_mark: [1 kyu](/codewars/solutions/python/1%20kyu) - 3
-* :white_check_mark: [2 kyu](/codewars/solutions/python/2%20kyu) - 6
+* :white_check_mark: [2 kyu](/codewars/solutions/python/2%20kyu) - 7
 * :white_check_mark: [3 kyu](/codewars/solutions/python/3%20kyu) - 17
-* :white_check_mark: [4 kyu](/codewars/solutions/python/4%20kyu) - 72
+* :white_check_mark: [4 kyu](/codewars/solutions/python/4%20kyu) - 73
 * :white_check_mark: [5 kyu](/codewars/solutions/python/5%20kyu) - 60
 * :white_check_mark: [6 kyu](/codewars/solutions/python/6%20kyu) - 142
 * :white_check_mark: [7 kyu](/codewars/solutions/python/7%20kyu) - 34
