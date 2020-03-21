@@ -1,0 +1,1 @@
+# [Shortest Knight Path](https://www.codewars.com/kata/549ee8b47111a81214000941)

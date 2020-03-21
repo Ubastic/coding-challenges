@@ -49,6 +49,7 @@
 * [Route Calculator](/codewars/solutions/python/4%20kyu/Route%20Calculator) - [CodeWard](https://www.codewars.com/kata/581bc0629ad9ff9873000316)
 * [SPF Russia](/codewars/solutions/python/4%20kyu/SPF%20Russia) - [CodeWard](https://www.codewars.com/kata/5709aa85fe2d012f1d00169c)
 * [Shallowest path across the river](/codewars/solutions/python/4%20kyu/Shallowest%20path%20across%20the%20river) - [CodeWard](https://www.codewars.com/kata/585cec2471677ee42c000296)
+* [Shortest Knight Path](/codewars/solutions/python/4%20kyu/Shortest%20Knight%20Path) - [CodeWard](https://www.codewars.com/kata/549ee8b47111a81214000941)
 * [Simple Fun #159: Middle Permutation](/codewars/solutions/python/4%20kyu/Simple%20Fun%20159%20Middle%20Permutation) - [CodeWard](https://www.codewars.com/kata/58ad317d1541651a740000c5)
 * [Simple maze](/codewars/solutions/python/4%20kyu/Simple%20maze) - [CodeWard](https://www.codewars.com/kata/56bb9b7838dd34d7d8001b3c)
 * [Simplexer](/codewars/solutions/python/4%20kyu/Simplexer) - [CodeWard](https://www.codewars.com/kata/54b8204dcd7f514bf2000348)
