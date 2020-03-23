@@ -7,6 +7,7 @@
 * [Huffman Encoding](/codewars/solutions/python/3%20kyu/Huffman%20Encoding) - [CodeWard](https://www.codewars.com/kata/54cf7f926b85dcc4e2000d9d)
 * [Last digit of a huge number](/codewars/solutions/python/3%20kyu/Last%20digit%20of%20a%20huge%20number) - [CodeWard](https://www.codewars.com/kata/5518a860a73e708c0a000027)
 * [Make a spiral](/codewars/solutions/python/3%20kyu/Make%20a%20spiral) - [CodeWard](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6)
+* [Metaclasses - Simple Django Models](/codewars/solutions/python/3%20kyu/Metaclasses%20%20Simple%20Django%20Models) - [CodeWard](https://www.codewars.com/kata/54b26b130786c9f7ed000555)
 * [Path Finder #3: the Alpinist](/codewars/solutions/python/3%20kyu/Path%20Finder%203%20the%20Alpinist) - [CodeWard](https://www.codewars.com/kata/576986639772456f6f00030c)
 * [Rail Fence Cipher: Encoding and Decoding ](/codewars/solutions/python/3%20kyu/Rail%20Fence%20Cipher%20Encoding%20and%20Decoding) - [CodeWard](https://www.codewars.com/kata/58c5577d61aefcf3ff000081)
 * [Screen Locking Patterns](/codewars/solutions/python/3%20kyu/Screen%20Locking%20Patterns) - [CodeWard](https://www.codewars.com/kata/585894545a8a07255e0002f1)
