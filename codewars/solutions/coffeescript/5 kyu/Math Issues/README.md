@@ -1,0 +1,1 @@
+# [Math Issues](https://www.codewars.com/kata/5267faf57526ea542e0007fb)
