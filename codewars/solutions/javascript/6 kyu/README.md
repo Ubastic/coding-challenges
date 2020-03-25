@@ -1,5 +1,6 @@
 # 6 Kyu
 * [Array Helpers](/codewars/solutions/javascript/6%20kyu/Array%20Helpers) - [CodeWard](https://www.codewars.com/kata/525d50d2037b7acd6e000534)
+* [Closest pair of points](/codewars/solutions/javascript/6%20kyu/Closest%20pair%20of%20points) - [CodeWard](https://www.codewars.com/kata/5376343a003bf6e034000c56)
 * [Count letters in string](/codewars/solutions/javascript/6%20kyu/Count%20letters%20in%20string) - [CodeWard](https://www.codewars.com/kata/5808ff71c7cfa1c6aa00006d)
 * [Decoded String by the Numbers](/codewars/solutions/javascript/6%20kyu/Decoded%20String%20by%20the%20Numbers) - [CodeWard](https://www.codewars.com/kata/562c3b54746f50d28d000027)
 * [Escaping The Matrix (Reloaded)](/codewars/solutions/javascript/6%20kyu/Escaping%20The%20Matrix%20Reloaded) - [CodeWard](https://www.codewars.com/kata/599de99d55342a28f5000b76)

@@ -1,0 +1,1 @@
+# [Closest pair of points](https://www.codewars.com/kata/5376343a003bf6e034000c56)
