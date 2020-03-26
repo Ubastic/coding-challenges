@@ -9,6 +9,7 @@
 * [Context manager decorator](/codewars/solutions/python/5%20kyu/Context%20manager%20decorator) - [CodeWard](https://www.codewars.com/kata/54e0816286522e95990007de)
 * [Count IP Addresses](/codewars/solutions/python/5%20kyu/Count%20IP%20Addresses) - [CodeWard](https://www.codewars.com/kata/526989a41034285187000de4)
 * [Did I Finish my Sudoku?](/codewars/solutions/python/5%20kyu/Did%20I%20Finish%20my%20Sudoku) - [CodeWard](https://www.codewars.com/kata/53db96041f1a7d32dc0004d2)
+* [Directions Reduction](/codewars/solutions/python/5%20kyu/Directions%20Reduction) - [CodeWard](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 * [Extract the domain name from a URL](/codewars/solutions/python/5%20kyu/Extract%20the%20domain%20name%20from%20a%20URL) - [CodeWard](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 * [Factorial decomposition](/codewars/solutions/python/5%20kyu/Factorial%20decomposition) - [CodeWard](https://www.codewars.com/kata/5a045fee46d843effa000070)
 * [Find the smallest](/codewars/solutions/python/5%20kyu/Find%20the%20smallest) - [CodeWard](https://www.codewars.com/kata/573992c724fc289553000e95)
