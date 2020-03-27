@@ -48,6 +48,7 @@
 * [Roman Numerals Helper](/codewars/solutions/python/4%20kyu/Roman%20Numerals%20Helper) - [CodeWard](https://www.codewars.com/kata/51b66044bce5799a7f000003)
 * [Route Calculator](/codewars/solutions/python/4%20kyu/Route%20Calculator) - [CodeWard](https://www.codewars.com/kata/581bc0629ad9ff9873000316)
 * [SPF Russia](/codewars/solutions/python/4%20kyu/SPF%20Russia) - [CodeWard](https://www.codewars.com/kata/5709aa85fe2d012f1d00169c)
+* [Set Closure Generator](/codewars/solutions/python/4%20kyu/Set%20Closure%20Generator) - [CodeWard](https://www.codewars.com/kata/58febc23627d2f48de000060)
 * [Shallowest path across the river](/codewars/solutions/python/4%20kyu/Shallowest%20path%20across%20the%20river) - [CodeWard](https://www.codewars.com/kata/585cec2471677ee42c000296)
 * [Shortest Knight Path](/codewars/solutions/python/4%20kyu/Shortest%20Knight%20Path) - [CodeWard](https://www.codewars.com/kata/549ee8b47111a81214000941)
 * [Simple Fun #159: Middle Permutation](/codewars/solutions/python/4%20kyu/Simple%20Fun%20159%20Middle%20Permutation) - [CodeWard](https://www.codewars.com/kata/58ad317d1541651a740000c5)
