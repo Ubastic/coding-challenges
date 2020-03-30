@@ -1,0 +1,1 @@
+# [Eight ways to iterate over table](https://www.codewars.com/kata/5af5c18786d075cd5e00008b)
