@@ -16,6 +16,6 @@ Main goal - solve any kata every day :open_mouth:
 |☕️ Java         | {java-kuy}        | {java-katas}          |
 |🙉 CoffeeScript | {coffeescript-kuy}| {coffeescript-katas}  |
 |🛠 C++          | {c++-kuy}         | {c++-katas}           |
-|C C             | {c-kuy}           | {c-katas}             |
+|🔧 C            | {c-kuy}           | {c-katas}             |
 |🌱 Kotlin       | {kotlin-kuy}      | {kotlin-katas}        |
 |🔗 Haskell      | {haskell-kuy}     | {haskell-katas}       |

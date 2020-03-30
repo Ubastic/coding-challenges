@@ -16,6 +16,6 @@ Main goal - solve any kata every day :open_mouth:
 |☕️ Java         | 3 kyu / 31.8%        | 16          |
 |🙉 CoffeeScript | 4 kyu / 59.7%| 11  |
 |🛠 C++          | 5 kyu / 64.5%         | 13           |
-|C C             | 5 kyu / 57.0%           | 4             |
+|🔧 C            | 5 kyu / 57.0%           | 4             |
 |🌱 Kotlin       | 5 kyu / 2.4%      | 9        |
 |🔗 Haskell      | 7 kyu / 0.0%     | 6       |
