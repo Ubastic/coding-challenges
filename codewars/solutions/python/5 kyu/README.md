@@ -2,6 +2,7 @@
 * [A Chain adding function](/codewars/solutions/python/5%20kyu/A%20Chain%20adding%20function) - [CodeWard](https://www.codewars.com/kata/539a0e4d85e3425cb0000a88)
 * [All Star Code Challenge #19](/codewars/solutions/python/5%20kyu/All%20Star%20Code%20Challenge%2019) - [CodeWard](https://www.codewars.com/kata/5865a407b359c45982000036)
 * [Bananas](/codewars/solutions/python/5%20kyu/Bananas) - [CodeWard](https://www.codewars.com/kata/5917fbed9f4056205a00001e)
+* [Best travel](/codewars/solutions/python/5%20kyu/Best%20travel) - [CodeWard](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa)
 * [Calculating with Functions](/codewars/solutions/python/5%20kyu/Calculating%20with%20Functions) - [CodeWard](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 * [Can you get the loop ?](/codewars/solutions/python/5%20kyu/Can%20you%20get%20the%20loop) - [CodeWard](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863)
 * [Common Denominators](/codewars/solutions/python/5%20kyu/Common%20Denominators) - [CodeWard](https://www.codewars.com/kata/54d7660d2daf68c619000d95)
