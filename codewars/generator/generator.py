@@ -148,11 +148,11 @@ def write_global_readme(information: Dict[str, Any]) -> None:
     """
     readme_template = Path.cwd() / 'README_template.md'
 
-    with readme_template.open() as f:
+    with readme_template.open(encoding="utf-8") as f:
         template = f.read()
 
     readme = Path.cwd() / 'README.md'
-    readme.write_text(template.format(**information))
+    readme.write_text(template.format(**information), encoding="utf-8")
 
 
 def kata_pages(s: Session, auth_token: str, username: str, chunks: int = 10) -> Iterable[Tag]:
