@@ -67,6 +67,7 @@
 * [Matrix Addition](/codewars/solutions/python/6%20kyu/Matrix%20Addition) - [CodeWard](https://www.codewars.com/kata/526233aefd4764272800036f)
 * [Maximum Product of Parts](/codewars/solutions/python/6%20kyu/Maximum%20Product%20of%20Parts) - [CodeWard](https://www.codewars.com/kata/5a3a95c2e1ce0efe2c0001b0)
 * [Mexican Wave](/codewars/solutions/python/6%20kyu/Mexican%20Wave) - [CodeWard](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
+* [More Zeros than Ones](/codewars/solutions/python/6%20kyu/More%20Zeros%20than%20Ones) - [CodeWard](https://www.codewars.com/kata/5d41e16d8bad42002208fe1a)
 * [Most Frequent Weekdays](/codewars/solutions/python/6%20kyu/Most%20Frequent%20Weekdays) - [CodeWard](https://www.codewars.com/kata/56eb16655250549e4b0013f4)
 * [Multi-tap Keypad Text Entry on an Old Mobile Phone](/codewars/solutions/python/6%20kyu/Multitap%20Keypad%20Text%20Entry%20on%20an%20Old%20Mobile%20Phone) - [CodeWard](https://www.codewars.com/kata/54a2e93b22d236498400134b)
 * [Multiples of 3 or 5](/codewars/solutions/python/6%20kyu/Multiples%20of%203%20or%205) - [CodeWard](https://www.codewars.com/kata/514b92a657cdc65150000006)
