@@ -5,6 +5,7 @@
 * [Add commas to a number](/codewars/solutions/python/6%20kyu/Add%20commas%20to%20a%20number) - [CodeWard](https://www.codewars.com/kata/56a115cadb39a2faa000001e)
 * [Alphabetized](/codewars/solutions/python/6%20kyu/Alphabetized) - [CodeWard](https://www.codewars.com/kata/5970df092ef474680a0000c9)
 * [Are they the "same"?](/codewars/solutions/python/6%20kyu/Are%20they%20the%20same) - [CodeWard](https://www.codewars.com/kata/550498447451fbbd7600041c)
+* [Array Exchange](/codewars/solutions/python/6%20kyu/Array%20Exchange) - [CodeWard](https://www.codewars.com/kata/5353212e5ee40d4694001114)
 * [Array.diff](/codewars/solutions/python/6%20kyu/Arraydiff) - [CodeWard](https://www.codewars.com/kata/523f5d21c841566fde000009)
 * [Autocomplete! Yay!](/codewars/solutions/python/6%20kyu/Autocomplete%20Yay) - [CodeWard](https://www.codewars.com/kata/5389864ec72ce03383000484)
 * [Bit Counting](/codewars/solutions/python/6%20kyu/Bit%20Counting) - [CodeWard](https://www.codewars.com/kata/526571aae218b8ee490006f4)
