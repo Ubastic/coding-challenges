@@ -10,6 +10,7 @@
 * [Autocomplete! Yay!](/codewars/solutions/python/6%20kyu/Autocomplete%20Yay) - [CodeWard](https://www.codewars.com/kata/5389864ec72ce03383000484)
 * [Bit Counting](/codewars/solutions/python/6%20kyu/Bit%20Counting) - [CodeWard](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 * [Braces status](/codewars/solutions/python/6%20kyu/Braces%20status) - [CodeWard](https://www.codewars.com/kata/58983deb128a54b530000be6)
+* [Break camelCase](/codewars/solutions/python/6%20kyu/Break%20camelCase) - [CodeWard](https://www.codewars.com/kata/5208f99aee097e6552000148)
 * [Build Tower](/codewars/solutions/python/6%20kyu/Build%20Tower) - [CodeWard](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
 * [Build a pile of Cubes](/codewars/solutions/python/6%20kyu/Build%20a%20pile%20of%20Cubes) - [CodeWard](https://www.codewars.com/kata/5592e3bd57b64d00f3000047)
 * [CamelCase Method](/codewars/solutions/python/6%20kyu/CamelCase%20Method) - [CodeWard](https://www.codewars.com/kata/587731fda577b3d1b0001196)
