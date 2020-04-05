@@ -1,12 +1,6 @@
 def more_zeros(s):
-    def gen():
-        print(s)
-        consumed = set()
-        for c in s:
-            b = bin(ord(c))[2:]
-            print(f"{c} -> {b}")
-            if c not in consumed and b.count("0") > b.count("1"):
-                consumed.add(c)
-                yield c
-
-    return [*gen()]
+    return [
+        c for c in 
+        [c for i, c in enumerate(s) if i == s.index(c)]
+        if bin(ord(c)).count("0") - 1 > bin(ord(c)).count("1")
+    ]
