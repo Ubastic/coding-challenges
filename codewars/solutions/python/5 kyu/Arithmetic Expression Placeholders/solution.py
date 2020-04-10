@@ -3,11 +3,11 @@ def unwrap(obj, x):
 
 
 class Placeholder:
-    def __init__(self, action=lambda x: x.pop(0)):
+    def __init__(self, action=lambda x: next(x)):
         self.do = action
 
     def __call__(self, *args):
-        return self.do([*args])
+        return self.do(iter(args))
 
     def __add__(self, other):
         return Placeholder(lambda x: self.do(x) + unwrap(other, x))
