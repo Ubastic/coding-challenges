@@ -130,6 +130,7 @@
 * [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](/codewars/solutions/python/6%20kyu/Take%20a%20Number%20And%20Sum%20Its%20Digits%20Raised%20To%20The%20Consecutive%20Powers%20And%20%C2%A1Eureka) - [CodeWard](https://www.codewars.com/kata/5626b561280a42ecc50000d1)
 * [The Supermarket Queue](/codewars/solutions/python/6%20kyu/The%20Supermarket%20Queue) - [CodeWard](https://www.codewars.com/kata/57b06f90e298a7b53d000a86)
 * [Throwing Darts](/codewars/solutions/python/6%20kyu/Throwing%20Darts) - [CodeWard](https://www.codewars.com/kata/525dfedb5b62f6954d000006)
+* [Timer Decorator](/codewars/solutions/python/6%20kyu/Timer%20Decorator) - [CodeWard](https://www.codewars.com/kata/56f84d093b164c2e490013cb)
 * [Title Case](/codewars/solutions/python/6%20kyu/Title%20Case) - [CodeWard](https://www.codewars.com/kata/5202ef17a402dd033c000009)
 * [Tribonacci Sequence](/codewars/solutions/python/6%20kyu/Tribonacci%20Sequence) - [CodeWard](https://www.codewars.com/kata/556deca17c58da83c00002db)
 * [Triple trouble](/codewars/solutions/python/6%20kyu/Triple%20trouble) - [CodeWard](https://www.codewars.com/kata/55d5434f269c0c3f1b000058)
