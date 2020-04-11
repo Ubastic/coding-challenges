@@ -1,7 +1,6 @@
 let instance = null;
 
 let Singleton = function(){
-  if (!instance)
-     instance = this;
+  instance = instance || this;
   return instance;
 };
