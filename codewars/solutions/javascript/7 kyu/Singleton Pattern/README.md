@@ -1,0 +1,1 @@
+# [Singleton Pattern](https://www.codewars.com/kata/534fcca5edb124cfe6000f60)
