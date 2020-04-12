@@ -6,3 +6,4 @@
 * :white_check_mark: [5 kyu](/codewars/solutions/javascript/5%20kyu) - 7
 * :white_check_mark: [6 kyu](/codewars/solutions/javascript/6%20kyu) - 8
 * :white_check_mark: [7 kyu](/codewars/solutions/javascript/7%20kyu) - 1
+* :white_check_mark: [Beta](/codewars/solutions/javascript/Beta) - 1
