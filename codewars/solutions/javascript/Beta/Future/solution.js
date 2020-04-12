@@ -1,6 +1,5 @@
 class Future {
     constructor() {
-        this.args = undefined;
         this.callbacks = [];
     }
 
@@ -17,12 +16,8 @@ class Future {
         this.check();
     }
 
-    isResolved() {
-        return this.args && this.callbacks.length;
-    }
-
     check() {
-        if (this.isResolved())
+        if (this.args && this.callbacks.length)
             this.callbacks.forEach(c => c(...this.args));
     }
 }
@@ -37,12 +32,10 @@ class Join {
     }
 
     when(callback) {
-        new Promise((resolve) => {
-            let resolved = 0;
-            this.futures.forEach(c => c.when(() => {
-                if (++resolved === this.futures.length)
-                    resolve();
-            }));
-        }).then(() => callback(this.futures.map(f => f.args[0]), this.futures.map(f => f.args[1])));
+        let resolved = 0;
+        this.futures.forEach(c => c.when(() => {
+            if (++resolved === this.futures.length)
+                callback(this.futures.map(f => f.args[0]), this.futures.map(f => f.args[1]))
+        }));
     }
 }
