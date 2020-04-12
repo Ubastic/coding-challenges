@@ -27,6 +27,7 @@
 * [Dashatize it](/codewars/solutions/python/6%20kyu/Dashatize%20it) - [CodeWard](https://www.codewars.com/kata/58223370aef9fc03fd000071)
 * [Data Reverse](/codewars/solutions/python/6%20kyu/Data%20Reverse) - [CodeWard](https://www.codewars.com/kata/569d488d61b812a0f7000015)
 * [Decode the Morse code ](/codewars/solutions/python/6%20kyu/Decode%20the%20Morse%20code) - [CodeWard](https://www.codewars.com/kata/54b724efac3d5402db00065e)
+* [DefaultList](/codewars/solutions/python/6%20kyu/DefaultList) - [CodeWard](https://www.codewars.com/kata/5e882048999e6c0023412908)
 * [Delete occurrences of an element if it occurs more than n times](/codewars/solutions/python/6%20kyu/Delete%20occurrences%20of%20an%20element%20if%20it%20occurs%20more%20than%20n%20times) - [CodeWard](https://www.codewars.com/kata/554ca54ffa7d91b236000023)
 * [Design a Simple Automaton (Finite State Machine)](/codewars/solutions/python/6%20kyu/Design%20a%20Simple%20Automaton%20Finite%20State%20Machine) - [CodeWard](https://www.codewars.com/kata/5268acac0d3f019add000203)
 * [Detect Pangram](/codewars/solutions/python/6%20kyu/Detect%20Pangram) - [CodeWard](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)

@@ -1,0 +1,1 @@
+# [DefaultList](https://www.codewars.com/kata/5e882048999e6c0023412908)
