@@ -1,0 +1,1 @@
+# [Word, char and line count](https://www.codewars.com/kata/5286a298f8fc1b7667000c1c)
