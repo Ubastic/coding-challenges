@@ -36,6 +36,7 @@
 * [Duplicate Encoder](/codewars/solutions/python/6%20kyu/Duplicate%20Encoder) - [CodeWard](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 * [Equal Sides Of An Array](/codewars/solutions/python/6%20kyu/Equal%20Sides%20Of%20An%20Array) - [CodeWard](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
 * [Esolang Interpreters #1 - Introduction to Esolangs and My First Interpreter (MiniStringFuck)](/codewars/solutions/python/6%20kyu/Esolang%20Interpreters%201%20%20Introduction%20to%20Esolangs%20and%20My%20First%20Interpreter%20MiniStringFuck) - [CodeWard](https://www.codewars.com/kata/586dd26a69b6fd46dd0000c0)
+* [Expected Type Decorator](/codewars/solutions/python/6%20kyu/Expected%20Type%20Decorator) - [CodeWard](https://www.codewars.com/kata/56f411dc9821795fd90011d9)
 * [FIXME: Hello](/codewars/solutions/python/6%20kyu/FIXME%20Hello) - [CodeWard](https://www.codewars.com/kata/5b0a80ce84a30f4762000069)
 * [Filter valid romans](/codewars/solutions/python/6%20kyu/Filter%20valid%20romans) - [CodeWard](https://www.codewars.com/kata/58334362c5637ad0bb0001c2)
 * [Find The Parity Outlier](/codewars/solutions/python/6%20kyu/Find%20The%20Parity%20Outlier) - [CodeWard](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)

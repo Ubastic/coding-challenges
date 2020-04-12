@@ -1,0 +1,1 @@
+# [Expected Type Decorator](https://www.codewars.com/kata/56f411dc9821795fd90011d9)
