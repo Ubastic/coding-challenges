@@ -138,6 +138,7 @@
 * [Two Sum](/codewars/solutions/python/6%20kyu/Two%20Sum) - [CodeWard](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
 * [Unary function chainer](/codewars/solutions/python/6%20kyu/Unary%20function%20chainer) - [CodeWard](https://www.codewars.com/kata/54ca3e777120b56cb6000710)
 * [Unique In Order](/codewars/solutions/python/6%20kyu/Unique%20In%20Order) - [CodeWard](https://www.codewars.com/kata/54e6533c92449cc251001667)
+* [Unpack](/codewars/solutions/python/6%20kyu/Unpack) - [CodeWard](https://www.codewars.com/kata/56ee74e7fd6a2c3c7800037e)
 * [Upside-Down Pyramid Addition...REVERSED!](/codewars/solutions/python/6%20kyu/UpsideDown%20Pyramid%20AdditionREVERSED) - [CodeWard](https://www.codewars.com/kata/5cc1e284ece231001ccf7014)
 * [Valid Braces](/codewars/solutions/python/6%20kyu/Valid%20Braces) - [CodeWard](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
 * [Valid Phone Number](/codewars/solutions/python/6%20kyu/Valid%20Phone%20Number) - [CodeWard](https://www.codewars.com/kata/525f47c79f2f25a4db000025)
