@@ -85,6 +85,7 @@
 * [Parity bit - Error detecting code](/codewars/solutions/python/6%20kyu/Parity%20bit%20%20Error%20detecting%20code) - [CodeWard](https://www.codewars.com/kata/58409435258e102ae900030f)
 * [Pascal's Triangle](/codewars/solutions/python/6%20kyu/Pascals%20Triangle) - [CodeWard](https://www.codewars.com/kata/5226eb40316b56c8d500030f)
 * [Password Maker](/codewars/solutions/python/6%20kyu/Password%20Maker) - [CodeWard](https://www.codewars.com/kata/5b3d5ad43da310743c000056)
+* [PatternCraft - Decorator](/codewars/solutions/python/6%20kyu/PatternCraft%20%20Decorator) - [CodeWard](https://www.codewars.com/kata/5682e545fb263ecf7b000069)
 * [Permute a Palindrome](/codewars/solutions/python/6%20kyu/Permute%20a%20Palindrome) - [CodeWard](https://www.codewars.com/kata/58ae6ae22c3aaafc58000079)
 * [Persistent Bugger.](/codewars/solutions/python/6%20kyu/Persistent%20Bugger) - [CodeWard](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
 * [Playing with digits](/codewars/solutions/python/6%20kyu/Playing%20with%20digits) - [CodeWard](https://www.codewars.com/kata/5552101f47fc5178b1000050)
