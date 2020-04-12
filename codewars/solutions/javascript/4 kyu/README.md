@@ -22,6 +22,7 @@
 * [Haskell List Comprehension (ii)](/codewars/solutions/javascript/4%20kyu/Haskell%20List%20Comprehension%20ii) - [CodeWard](https://www.codewars.com/kata/53c8bcb1689f84238c000661)
 * [How many numbers III?](/codewars/solutions/javascript/4%20kyu/How%20many%20numbers%20III) - [CodeWard](https://www.codewars.com/kata/5877e7d568909e5ff90017e6)
 * [JSON Parser](/codewars/solutions/javascript/4%20kyu/JSON%20Parser) - [CodeWard](https://www.codewars.com/kata/55aa170b54c32468c30000a9)
+* [LRU Cache](/codewars/solutions/javascript/4%20kyu/LRU%20Cache) - [CodeWard](https://www.codewars.com/kata/53b406e67040e51e17000c0a)
 * [Large Factorials](/codewars/solutions/javascript/4%20kyu/Large%20Factorials) - [CodeWard](https://www.codewars.com/kata/557f6437bf8dcdd135000010)
 * [Like itertools : combinations](/codewars/solutions/javascript/4%20kyu/Like%20itertools%20%20combinations) - [CodeWard](https://www.codewars.com/kata/582da6ba06e37f9b75000510)
 * [Most frequently used words in a text](/codewars/solutions/javascript/4%20kyu/Most%20frequently%20used%20words%20in%20a%20text) - [CodeWard](https://www.codewars.com/kata/51e056fe544cf36c410000fb)
