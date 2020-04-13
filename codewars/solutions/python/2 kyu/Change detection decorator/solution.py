@@ -11,11 +11,13 @@ def create_op(op):
     return first, second
 
 
-class State:
+class Wrapper:
     def __init__(self, value, get_change, parent):
-        self.parent = parent
-        self.value = value
-        self.get_change = get_change
+        self.__dict__.update({
+            "parent": parent,
+            "value": value,
+            "get_change": get_change,
+        })
 
     def __call__(self, *args, **kwargs):
         return self.value(self.parent, *args, **kwargs)
@@ -30,15 +32,8 @@ class State:
         return getattr(self.value, item, None)
 
     def __setattr__(self, key, value):
-        try:
-            val = super().__getattribute__('value')
-            if val is not None and key in val.__dict__:
-                setattr(self.value, key, value)
-                return
-        except:
-            pass
-
-        super().__setattr__(key, value)
+        if self:
+            setattr(self.value, key, value)
 
     __add__, __radd__ = create_op(operator.add)
     __mul__, __rmul__ = create_op(operator.mul)
@@ -51,10 +46,10 @@ def change_detection(cls):
     class WithChangeDetection(cls):
         def __init__(self, *args, **kwargs):
             cache.update({key: (value, 'INIT', self) for key, value in cls.__dict__.items()})
-            super(WithChangeDetection, self).__init__(*args, **kwargs)
+            super().__init__(*args, **kwargs)
 
         def __getattribute__(self, item):
-            return State(*cache.get(item, (None, '', self)))
+            return Wrapper(*cache.get(item, (None, '', self)))
 
         def __setattr__(self, key, value):
             if key not in cache:
