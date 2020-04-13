@@ -3,16 +3,16 @@ import operator
 
 def create_op(op):
     def first(self, other):
-        return op(self.value, other) if self.value is not None else None
+        return op(self.value, other) if self else None
 
     def second(self, other):
-        return op(other, self.value) if self.value is not None else None
+        return op(other, self.value) if self else None
 
     return first, second
 
 
-class State(object):
-    def __init__(self, value=None, get_change='', parent=None):
+class State:
+    def __init__(self, value, get_change, parent):
         self.parent = parent
         self.value = value
         self.get_change = get_change
@@ -20,7 +20,7 @@ class State(object):
     def __call__(self, *args, **kwargs):
         return self.value(self.parent, *args, **kwargs)
 
-    def __nonzero__(self):
+    def __bool__(self):
         return self.value is not None
 
     def __eq__(self, other):
@@ -31,14 +31,14 @@ class State(object):
 
     def __setattr__(self, key, value):
         try:
-            val = super(State, self).__getattribute__('value')
+            val = super().__getattribute__('value')
             if val is not None and key in val.__dict__:
                 setattr(self.value, key, value)
                 return
         except:
             pass
 
-        super(State, self).__setattr__(key, value)
+        super().__setattr__(key, value)
 
     __add__, __radd__ = create_op(operator.add)
     __mul__, __rmul__ = create_op(operator.mul)
@@ -46,27 +46,23 @@ class State(object):
 
 
 def change_detection(cls):
-    class WithChangeDetection(cls):
+    cache = {}
 
+    class WithChangeDetection(cls):
         def __init__(self, *args, **kwargs):
-            WithChangeDetection.__cache__ = {
-                key: (value, 'INIT', self) for key, value in dict(cls.__dict__).items()
-            }
+            cache.update({key: (value, 'INIT', self) for key, value in cls.__dict__.items()})
             super(WithChangeDetection, self).__init__(*args, **kwargs)
 
         def __getattribute__(self, item):
-            if item not in WithChangeDetection.__cache__:
-                return State()
-
-            return State(*WithChangeDetection.__cache__[item])
+            return State(*cache.get(item, (None, '', self)))
 
         def __setattr__(self, key, value):
-            if key not in WithChangeDetection.__cache__:
-                WithChangeDetection.__cache__[key] = (value, 'INIT', self)
-            elif WithChangeDetection.__cache__[key][0] != value:
-                WithChangeDetection.__cache__[key] = (value, 'MOD', self)
+            if key not in cache:
+                cache[key] = (value, 'INIT', self)
+            elif cache[key][0] is not value:
+                cache[key] = (value, 'MOD', self)
 
         def __delattr__(self, item):
-            WithChangeDetection.__cache__[item] = (None, 'DEL', self)
+            cache[item] = (None, 'DEL', self)
 
     return WithChangeDetection
