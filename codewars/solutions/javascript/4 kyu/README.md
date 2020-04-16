@@ -17,6 +17,7 @@
 * [Dependency Injection](/codewars/solutions/javascript/4%20kyu/Dependency%20Injection) - [CodeWard](https://www.codewars.com/kata/5302d655be2a91068b0001fb)
 * [Determining if a graph has a solution](/codewars/solutions/javascript/4%20kyu/Determining%20if%20a%20graph%20has%20a%20solution) - [CodeWard](https://www.codewars.com/kata/53223653a191940f2b000877)
 * [ES5 Generators(i)](/codewars/solutions/javascript/4%20kyu/ES5%20Generatorsi) - [CodeWard](https://www.codewars.com/kata/53c29a6abb5187180d000b65)
+* [Eight Queens Puzzle](/codewars/solutions/javascript/4%20kyu/Eight%20Queens%20Puzzle) - [CodeWard](https://www.codewars.com/kata/561bed6a31daa8df7400000e)
 * [Fluent Calculator](/codewars/solutions/javascript/4%20kyu/Fluent%20Calculator) - [CodeWard](https://www.codewars.com/kata/5578a806350dae5b05000021)
 * [Functional Binary Trees](/codewars/solutions/javascript/4%20kyu/Functional%20Binary%20Trees) - [CodeWard](https://www.codewars.com/kata/527c1fc78699012e43000cc8)
 * [Haskell List Comprehension (ii)](/codewars/solutions/javascript/4%20kyu/Haskell%20List%20Comprehension%20ii) - [CodeWard](https://www.codewars.com/kata/53c8bcb1689f84238c000661)
