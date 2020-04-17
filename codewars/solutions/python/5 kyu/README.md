@@ -14,6 +14,7 @@
 * [Directions Reduction](/codewars/solutions/python/5%20kyu/Directions%20Reduction) - [CodeWard](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 * [Extract the domain name from a URL](/codewars/solutions/python/5%20kyu/Extract%20the%20domain%20name%20from%20a%20URL) - [CodeWard](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 * [Factorial decomposition](/codewars/solutions/python/5%20kyu/Factorial%20decomposition) - [CodeWard](https://www.codewars.com/kata/5a045fee46d843effa000070)
+* [Fibonacci Streaming](/codewars/solutions/python/5%20kyu/Fibonacci%20Streaming) - [CodeWard](https://www.codewars.com/kata/55695bc4f75bbaea5100016b)
 * [Find the smallest](/codewars/solutions/python/5%20kyu/Find%20the%20smallest) - [CodeWard](https://www.codewars.com/kata/573992c724fc289553000e95)
 * [Find the unique string](/codewars/solutions/python/5%20kyu/Find%20the%20unique%20string) - [CodeWard](https://www.codewars.com/kata/585d8c8a28bc7403ea0000c3)
 * [First non-repeating character](/codewars/solutions/python/5%20kyu/First%20nonrepeating%20character) - [CodeWard](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
