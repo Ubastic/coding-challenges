@@ -1,0 +1,1 @@
+# [Flatten A Nested Dictionary That Contains Lists](https://www.codewars.com/kata/5cde541f52ed7f000c0aa9a0)

@@ -11,7 +11,7 @@ Main goal - solve any kata every day :open_mouth:
 | Language       | kuy               | katas                 |
 |---             |:---:              |:---:                  |
 |💫 Overall      | 1 kyu / 59.5%     | 500       |
-|🐍 Python       | 1 kyu / 11.0%      | 382        |
+|🐍 Python       | 1 kyu / 11.0%      | 383        |
 |🙈 JavaScript   | 2 kyu / 18.6%  | 76    |
 |☕️ Java         | 3 kyu / 35.4%        | 18          |
 |🙉 CoffeeScript | 4 kyu / 59.7%| 11  |

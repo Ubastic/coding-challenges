@@ -7,4 +7,4 @@
 * :white_check_mark: [6 kyu](/codewars/solutions/python/6%20kyu) - 152
 * :white_check_mark: [7 kyu](/codewars/solutions/python/7%20kyu) - 34
 * :white_check_mark: [8 kyu](/codewars/solutions/python/8%20kyu) - 23
-* :white_check_mark: [Beta](/codewars/solutions/python/Beta) - 4
+* :white_check_mark: [Beta](/codewars/solutions/python/Beta) - 5
