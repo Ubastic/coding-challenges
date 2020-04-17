@@ -1,0 +1,1 @@
+# [Memoized Log Cutting](https://www.codewars.com/kata/54b058ce56f22dc6fe0011df)

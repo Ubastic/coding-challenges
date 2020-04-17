@@ -31,6 +31,7 @@
 * [Longest Palindromic Substring (Linear)](/codewars/solutions/python/4%20kyu/Longest%20Palindromic%20Substring%20Linear) - [CodeWard](https://www.codewars.com/kata/5dcde0b9fcb0d100349cb5c0)
 * [Magnet particules in boxes](/codewars/solutions/python/4%20kyu/Magnet%20particules%20in%20boxes) - [CodeWard](https://www.codewars.com/kata/56c04261c3fcf33f2d000534)
 * [Matrix Determinant](/codewars/solutions/python/4%20kyu/Matrix%20Determinant) - [CodeWard](https://www.codewars.com/kata/52a382ee44408cea2500074c)
+* [Memoized Log Cutting](/codewars/solutions/python/4%20kyu/Memoized%20Log%20Cutting) - [CodeWard](https://www.codewars.com/kata/54b058ce56f22dc6fe0011df)
 * [Most frequently used words in a text](/codewars/solutions/python/4%20kyu/Most%20frequently%20used%20words%20in%20a%20text) - [CodeWard](https://www.codewars.com/kata/51e056fe544cf36c410000fb)
 * [Nesting Structure Comparison](/codewars/solutions/python/4%20kyu/Nesting%20Structure%20Comparison) - [CodeWard](https://www.codewars.com/kata/520446778469526ec0000001)
 * [Next bigger number with the same digits](/codewars/solutions/python/4%20kyu/Next%20bigger%20number%20with%20the%20same%20digits) - [CodeWard](https://www.codewars.com/kata/55983863da40caa2c900004e)
