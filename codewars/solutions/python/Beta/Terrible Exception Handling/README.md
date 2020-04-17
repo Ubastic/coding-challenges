@@ -1,0 +1,1 @@
+# [Terrible Exception Handling](https://www.codewars.com/kata/5b277a1e9212cb27f10000bd)
