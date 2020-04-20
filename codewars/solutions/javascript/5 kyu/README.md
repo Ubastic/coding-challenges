@@ -4,6 +4,7 @@
 * [Largest product in a series](/codewars/solutions/javascript/5%20kyu/Largest%20product%20in%20a%20series) - [CodeWard](https://www.codewars.com/kata/529872bdd0f550a06b00026e)
 * [MergeSort "merge" function](/codewars/solutions/javascript/5%20kyu/MergeSort%20merge%20function) - [CodeWard](https://www.codewars.com/kata/52336a4436e0b095d8000093)
 * [Process trees](/codewars/solutions/javascript/5%20kyu/Process%20trees) - [CodeWard](https://www.codewars.com/kata/52817f04b70058a1b1000037)
+* [Randomize Objects](/codewars/solutions/javascript/5%20kyu/Randomize%20Objects) - [CodeWard](https://www.codewars.com/kata/5303229f1f5c12ef39000061)
 * [Using closures to share class state](/codewars/solutions/javascript/5%20kyu/Using%20closures%20to%20share%20class%20state) - [CodeWard](https://www.codewars.com/kata/53583765d5493bfdf5001b35)
 * [Valid Parentheses](/codewars/solutions/javascript/5%20kyu/Valid%20Parentheses) - [CodeWard](https://www.codewars.com/kata/52774a314c2333f0a7000688)
 * [flatten()](/codewars/solutions/javascript/5%20kyu/flatten) - [CodeWard](https://www.codewars.com/kata/513fa1d75e4297ba38000003)

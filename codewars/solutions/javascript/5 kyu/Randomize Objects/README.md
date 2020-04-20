@@ -1,0 +1,1 @@
+# [Randomize Objects](https://www.codewars.com/kata/5303229f1f5c12ef39000061)
