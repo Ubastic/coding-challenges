@@ -151,3 +151,4 @@
 * [Your order, please](/codewars/solutions/python/6%20kyu/Your%20order%20please) - [CodeWard](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 * [extract file name](/codewars/solutions/python/6%20kyu/extract%20file%20name) - [CodeWard](https://www.codewars.com/kata/597770e98b4b340e5b000071)
 * [first character that repeats](/codewars/solutions/python/6%20kyu/first%20character%20that%20repeats) - [CodeWard](https://www.codewars.com/kata/54f9f4d7c41722304e000bbb)
+* [regex pattern to check if string has all characters](/codewars/solutions/python/6%20kyu/regex%20pattern%20to%20check%20if%20string%20has%20all%20characters) - [CodeWard](https://www.codewars.com/kata/5e4eb72bb95d28002dbbecde)
