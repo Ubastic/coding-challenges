@@ -9,6 +9,7 @@
 * [Common Denominators](/codewars/solutions/python/5%20kyu/Common%20Denominators) - [CodeWard](https://www.codewars.com/kata/54d7660d2daf68c619000d95)
 * [Complete Binary Tree](/codewars/solutions/python/5%20kyu/Complete%20Binary%20Tree) - [CodeWard](https://www.codewars.com/kata/5c80b55e95eba7650dc671ea)
 * [Context manager decorator](/codewars/solutions/python/5%20kyu/Context%20manager%20decorator) - [CodeWard](https://www.codewars.com/kata/54e0816286522e95990007de)
+* [Convert PascalCase string into snake_case](/codewars/solutions/python/5%20kyu/Convert%20PascalCase%20string%20into%20snakecase) - [CodeWard](https://www.codewars.com/kata/529b418d533b76924600085d)
 * [Count IP Addresses](/codewars/solutions/python/5%20kyu/Count%20IP%20Addresses) - [CodeWard](https://www.codewars.com/kata/526989a41034285187000de4)
 * [Did I Finish my Sudoku?](/codewars/solutions/python/5%20kyu/Did%20I%20Finish%20my%20Sudoku) - [CodeWard](https://www.codewars.com/kata/53db96041f1a7d32dc0004d2)
 * [Directions Reduction](/codewars/solutions/python/5%20kyu/Directions%20Reduction) - [CodeWard](https://www.codewars.com/kata/550f22f4d758534c1100025a)
