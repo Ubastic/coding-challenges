@@ -46,6 +46,7 @@
 * [Return substring instance count - 2](/codewars/solutions/python/5%20kyu/Return%20substring%20instance%20count%20%202) - [CodeWard](https://www.codewars.com/kata/52190daefe9c702a460003dd)
 * [Rot13](/codewars/solutions/python/5%20kyu/Rot13) - [CodeWard](https://www.codewars.com/kata/530e15517bc88ac656000716)
 * [Scramblies](/codewars/solutions/python/5%20kyu/Scramblies) - [CodeWard](https://www.codewars.com/kata/55c04b4cc56a697bb0000048)
+* [Secret knock](/codewars/solutions/python/5%20kyu/Secret%20knock) - [CodeWard](https://www.codewars.com/kata/525f00ec798bc53e8e00004c)
 * [Simple Events](/codewars/solutions/python/5%20kyu/Simple%20Events) - [CodeWard](https://www.codewars.com/kata/52d3b68215be7c2d5300022f)
 * [Simple Finite State Machine Compiler](/codewars/solutions/python/5%20kyu/Simple%20Finite%20State%20Machine%20Compiler) - [CodeWard](https://www.codewars.com/kata/59923f1301726f5430000059)
 * [Simple Pig Latin](/codewars/solutions/python/5%20kyu/Simple%20Pig%20Latin) - [CodeWard](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
