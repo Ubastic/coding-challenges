@@ -1,0 +1,1 @@
+# [Luck check](https://www.codewars.com/kata/5314b3c6bb244a48ab00076c)
