@@ -24,6 +24,7 @@
 * [Integers: Recreation One](/codewars/solutions/python/5%20kyu/Integers%20Recreation%20One) - [CodeWard](https://www.codewars.com/kata/55aa075506463dac6600010d)
 * [Interleaving Arrays](/codewars/solutions/python/5%20kyu/Interleaving%20Arrays) - [CodeWard](https://www.codewars.com/kata/523d2e964680d1f749000135)
 * [Last digit of a large number](/codewars/solutions/python/5%20kyu/Last%20digit%20of%20a%20large%20number) - [CodeWard](https://www.codewars.com/kata/5511b2f550906349a70004e1)
+* [Lazy Repeater](/codewars/solutions/python/5%20kyu/Lazy%20Repeater) - [CodeWard](https://www.codewars.com/kata/51fc3beb41ecc97ee20000c3)
 * [Limited number of instances](/codewars/solutions/python/5%20kyu/Limited%20number%20of%20instances) - [CodeWard](https://www.codewars.com/kata/5bd36d5e03c3c4a37f0004f4)
 * [Luck check](/codewars/solutions/python/5%20kyu/Luck%20check) - [CodeWard](https://www.codewars.com/kata/5314b3c6bb244a48ab00076c)
 * [Maximum subarray sum](/codewars/solutions/python/5%20kyu/Maximum%20subarray%20sum) - [CodeWard](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
