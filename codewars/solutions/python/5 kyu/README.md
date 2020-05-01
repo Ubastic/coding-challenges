@@ -20,6 +20,7 @@
 * [Find the unique string](/codewars/solutions/python/5%20kyu/Find%20the%20unique%20string) - [CodeWard](https://www.codewars.com/kata/585d8c8a28bc7403ea0000c3)
 * [First non-repeating character](/codewars/solutions/python/5%20kyu/First%20nonrepeating%20character) - [CodeWard](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
 * [Gap in Primes](/codewars/solutions/python/5%20kyu/Gap%20in%20Primes) - [CodeWard](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4)
+* [Greed is Good](/codewars/solutions/python/5%20kyu/Greed%20is%20Good) - [CodeWard](https://www.codewars.com/kata/5270d0d18625160ada0000e4)
 * [Human Readable Time](/codewars/solutions/python/5%20kyu/Human%20Readable%20Time) - [CodeWard](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 * [Integers: Recreation One](/codewars/solutions/python/5%20kyu/Integers%20Recreation%20One) - [CodeWard](https://www.codewars.com/kata/55aa075506463dac6600010d)
 * [Interleaving Arrays](/codewars/solutions/python/5%20kyu/Interleaving%20Arrays) - [CodeWard](https://www.codewars.com/kata/523d2e964680d1f749000135)
