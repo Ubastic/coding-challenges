@@ -83,6 +83,7 @@
 * [Not prime numbers](/codewars/solutions/python/6%20kyu/Not%20prime%20numbers) - [CodeWard](https://www.codewars.com/kata/5a9a70cf5084d74ff90000f7)
 * [Number Format](/codewars/solutions/python/6%20kyu/Number%20Format) - [CodeWard](https://www.codewars.com/kata/565c4e1303a0a006d7000127)
 * [One Line Task: Element-wise Maximum](/codewars/solutions/python/6%20kyu/One%20Line%20Task%20Elementwise%20Maximum) - [CodeWard](https://www.codewars.com/kata/5c2dbc63bfc6ec0001d2fcf9)
+* [One is the loneliest number](/codewars/solutions/python/6%20kyu/One%20is%20the%20loneliest%20number) - [CodeWard](https://www.codewars.com/kata/5dfa33aacec189000f25e9a9)
 * [Parity bit - Error detecting code](/codewars/solutions/python/6%20kyu/Parity%20bit%20%20Error%20detecting%20code) - [CodeWard](https://www.codewars.com/kata/58409435258e102ae900030f)
 * [Pascal's Triangle](/codewars/solutions/python/6%20kyu/Pascals%20Triangle) - [CodeWard](https://www.codewars.com/kata/5226eb40316b56c8d500030f)
 * [Password Maker](/codewars/solutions/python/6%20kyu/Password%20Maker) - [CodeWard](https://www.codewars.com/kata/5b3d5ad43da310743c000056)
