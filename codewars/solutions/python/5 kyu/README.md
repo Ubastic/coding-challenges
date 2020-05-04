@@ -27,6 +27,7 @@
 * [Last digit of a large number](/codewars/solutions/python/5%20kyu/Last%20digit%20of%20a%20large%20number) - [CodeWard](https://www.codewars.com/kata/5511b2f550906349a70004e1)
 * [Lazy Repeater](/codewars/solutions/python/5%20kyu/Lazy%20Repeater) - [CodeWard](https://www.codewars.com/kata/51fc3beb41ecc97ee20000c3)
 * [Limited number of instances](/codewars/solutions/python/5%20kyu/Limited%20number%20of%20instances) - [CodeWard](https://www.codewars.com/kata/5bd36d5e03c3c4a37f0004f4)
+* [Lisp-esque parsing [Code Golf]](/codewars/solutions/python/5%20kyu/Lispesque%20parsing%20Code%20Golf) - [CodeWard](https://www.codewars.com/kata/5ea1de08a140dc0025b10d82)
 * [Luck check](/codewars/solutions/python/5%20kyu/Luck%20check) - [CodeWard](https://www.codewars.com/kata/5314b3c6bb244a48ab00076c)
 * [Maximum subarray sum](/codewars/solutions/python/5%20kyu/Maximum%20subarray%20sum) - [CodeWard](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
 * [Memoized Fibonacci](/codewars/solutions/python/5%20kyu/Memoized%20Fibonacci) - [CodeWard](https://www.codewars.com/kata/529adbf7533b761c560004e5)
