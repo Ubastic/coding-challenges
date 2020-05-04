@@ -1,0 +1,1 @@
+# [N queens puzzle (with one mandatory queen position)](https://www.codewars.com/kata/561bed6a31daa8df7400000e)
