@@ -1,0 +1,1 @@
+# [Finish this Mini Sudoku](https://www.codewars.com/kata/556b4fdfc0f8bbbd2d000019)
