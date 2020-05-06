@@ -1,0 +1,1 @@
+# [Compose functions (T Combinator)](https://www.codewars.com/kata/51f9d3db4095e07f130001ee)

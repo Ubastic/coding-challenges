@@ -1,0 +1,1 @@
+let compose = (val, ...reducers) => reducers.reduce((acc, f) => f(acc), val)

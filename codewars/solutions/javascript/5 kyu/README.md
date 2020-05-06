@@ -1,8 +1,10 @@
 # 5 Kyu
+* [Compose functions (T Combinator)](/codewars/solutions/javascript/5%20kyu/Compose%20functions%20T%20Combinator) - [CodeWard](https://www.codewars.com/kata/51f9d3db4095e07f130001ee)
 * [Function Cache](/codewars/solutions/javascript/5%20kyu/Function%20Cache) - [CodeWard](https://www.codewars.com/kata/525481903700c1a1ff0000e1)
 * [Haskell List Dot Notation](/codewars/solutions/javascript/5%20kyu/Haskell%20List%20Dot%20Notation) - [CodeWard](https://www.codewars.com/kata/53c8b29750fe70e4a2000610)
 * [Largest product in a series](/codewars/solutions/javascript/5%20kyu/Largest%20product%20in%20a%20series) - [CodeWard](https://www.codewars.com/kata/529872bdd0f550a06b00026e)
 * [MergeSort "merge" function](/codewars/solutions/javascript/5%20kyu/MergeSort%20merge%20function) - [CodeWard](https://www.codewars.com/kata/52336a4436e0b095d8000093)
+* [Object extend](/codewars/solutions/javascript/5%20kyu/Object%20extend) - [CodeWard](https://www.codewars.com/kata/51f9d3a6e5a42591ae0001eb)
 * [Process trees](/codewars/solutions/javascript/5%20kyu/Process%20trees) - [CodeWard](https://www.codewars.com/kata/52817f04b70058a1b1000037)
 * [Randomize Objects](/codewars/solutions/javascript/5%20kyu/Randomize%20Objects) - [CodeWard](https://www.codewars.com/kata/5303229f1f5c12ef39000061)
 * [Replicate `new`](/codewars/solutions/javascript/5%20kyu/Replicate%20new) - [CodeWard](https://www.codewars.com/kata/558cb3df5f511f40d500001d)

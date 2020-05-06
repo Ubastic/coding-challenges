@@ -1,0 +1,1 @@
+# [Object extend](https://www.codewars.com/kata/51f9d3a6e5a42591ae0001eb)
