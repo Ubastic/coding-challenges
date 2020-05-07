@@ -10,4 +10,5 @@
 * [Replicate `new`](/codewars/solutions/javascript/5%20kyu/Replicate%20new) - [CodeWard](https://www.codewars.com/kata/558cb3df5f511f40d500001d)
 * [Using closures to share class state](/codewars/solutions/javascript/5%20kyu/Using%20closures%20to%20share%20class%20state) - [CodeWard](https://www.codewars.com/kata/53583765d5493bfdf5001b35)
 * [Valid Parentheses](/codewars/solutions/javascript/5%20kyu/Valid%20Parentheses) - [CodeWard](https://www.codewars.com/kata/52774a314c2333f0a7000688)
+* [field chained HTML formatting ](/codewars/solutions/javascript/5%20kyu/field%20chained%20HTML%20formatting) - [CodeWard](https://www.codewars.com/kata/5e98a87ce8255200011ea60f)
 * [flatten()](/codewars/solutions/javascript/5%20kyu/flatten) - [CodeWard](https://www.codewars.com/kata/513fa1d75e4297ba38000003)
