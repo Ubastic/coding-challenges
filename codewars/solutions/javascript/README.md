@@ -7,3 +7,4 @@
 * :white_check_mark: [6 kyu](/codewars/solutions/javascript/6%20kyu) - 10
 * :white_check_mark: [7 kyu](/codewars/solutions/javascript/7%20kyu) - 1
 * :white_check_mark: [Beta](/codewars/solutions/javascript/Beta) - 1
+* :white_check_mark: [Retired](/codewars/solutions/javascript/Retired) - 1

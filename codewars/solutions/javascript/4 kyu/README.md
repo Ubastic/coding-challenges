@@ -1,7 +1,6 @@
 # 4 Kyu
 * [-Reverse it, quickly!](/codewars/solutions/javascript/4%20kyu/Reverse%20it%20quickly) - [CodeWard](https://www.codewars.com/kata/59ae589c07157afba80000a7)
 * [Advanced Events](/codewars/solutions/javascript/4%20kyu/Advanced%20Events) - [CodeWard](https://www.codewars.com/kata/52d4678038644497e900007c)
-* [Algebraic Data Types](/codewars/solutions/javascript/4%20kyu/Algebraic%20Data%20Types) - [CodeWard](https://www.codewars.com/kata/546d245dddbcbd291c00106e)
 * [Arithmetic Expressions Evaluator](/codewars/solutions/javascript/4%20kyu/Arithmetic%20Expressions%20Evaluator) - [CodeWard](https://www.codewars.com/kata/529f5e262281a70d9b00088a)
 * [Binary Search Tree using Arrays](/codewars/solutions/javascript/4%20kyu/Binary%20Search%20Tree%20using%20Arrays) - [CodeWard](https://www.codewars.com/kata/5303617c1f5c12fc28000237)
 * [Boggle Word Checker](/codewars/solutions/javascript/4%20kyu/Boggle%20Word%20Checker) - [CodeWard](https://www.codewars.com/kata/57680d0128ed87c94f000bfd)
@@ -46,3 +45,4 @@
 * [Word, char and line count](/codewars/solutions/javascript/4%20kyu/Word%20char%20and%20line%20count) - [CodeWard](https://www.codewars.com/kata/5286a298f8fc1b7667000c1c)
 * [YACK (Yet Another Currying Kata)](/codewars/solutions/javascript/4%20kyu/YACK%20Yet%20Another%20Currying%20Kata) - [CodeWard](https://www.codewars.com/kata/55f91566e0d2317066000057)
 * [arrayToString and stringToArray](/codewars/solutions/javascript/4%20kyu/arrayToString%20and%20stringToArray) - [CodeWard](https://www.codewars.com/kata/582087e5b81f7063a7000242)
+* [better Add Floats](/codewars/solutions/javascript/4%20kyu/better%20Add%20Floats) - [CodeWard](https://www.codewars.com/kata/5293ef9b6144df008d000147)
