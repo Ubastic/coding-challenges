@@ -1,1 +1,0 @@
-# [JSON Class Decorator](https://www.codewars.com/kata/55b0fb65e1227b17d60000dc)

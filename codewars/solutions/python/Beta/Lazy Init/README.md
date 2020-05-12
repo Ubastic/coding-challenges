@@ -1,1 +1,0 @@
-# [Lazy Init ](https://www.codewars.com/kata/59b7b43b4f98a81b2d00000a)

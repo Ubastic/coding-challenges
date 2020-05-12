@@ -1,1 +1,0 @@
-# [Change detection decorator](https://www.codewars.com/kata/56e02d5f2ebcd50083001300)
