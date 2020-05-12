@@ -192,7 +192,7 @@ def kata_generator(s: Session, auth_token: str, username: str) -> Iterable[Kata]
     Create generator that yield all kata solutions for user
     """
     for item in kata_pages(s, auth_token, username):
-        kuy = item.select_one('.is-extra-wide span').text
+        kuy = item.select_one('.is-extra-wide span,.tag span').text
         kata_ref = item.select_one('div + a[href]')
 
         name = kata_ref.text
