@@ -35,6 +35,7 @@
 * [Don't rely on luck.](/codewars/solutions/python/6%20kyu/Dont%20rely%20on%20luck) - [CodeWard](https://www.codewars.com/kata/5268af3872b786f006000228)
 * [Dubstep](/codewars/solutions/python/6%20kyu/Dubstep) - [CodeWard](https://www.codewars.com/kata/551dc350bf4e526099000ae5)
 * [Duplicate Encoder](/codewars/solutions/python/6%20kyu/Duplicate%20Encoder) - [CodeWard](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
+* [Encrypt this!](/codewars/solutions/python/6%20kyu/Encrypt%20this) - [CodeWard](https://www.codewars.com/kata/5848565e273af816fb000449)
 * [Equal Sides Of An Array](/codewars/solutions/python/6%20kyu/Equal%20Sides%20Of%20An%20Array) - [CodeWard](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
 * [Esolang Interpreters #1 - Introduction to Esolangs and My First Interpreter (MiniStringFuck)](/codewars/solutions/python/6%20kyu/Esolang%20Interpreters%201%20%20Introduction%20to%20Esolangs%20and%20My%20First%20Interpreter%20MiniStringFuck) - [CodeWard](https://www.codewars.com/kata/586dd26a69b6fd46dd0000c0)
 * [Expected Type Decorator](/codewars/solutions/python/6%20kyu/Expected%20Type%20Decorator) - [CodeWard](https://www.codewars.com/kata/56f411dc9821795fd90011d9)
