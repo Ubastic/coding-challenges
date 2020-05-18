@@ -69,3 +69,4 @@
 * [What's a Perfect Power anyway?](/codewars/solutions/python/5%20kyu/Whats%20a%20Perfect%20Power%20anyway) - [CodeWard](https://www.codewars.com/kata/54d4c8b08776e4ad92000835)
 * [Where my anagrams at?](/codewars/solutions/python/5%20kyu/Where%20my%20anagrams%20at) - [CodeWard](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
 * [int32 to IPv4](/codewars/solutions/python/5%20kyu/int32%20to%20IPv4) - [CodeWard](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e)
+* [uniq -c (UNIX style)](/codewars/solutions/python/5%20kyu/uniq%20c%20UNIX%20style) - [CodeWard](https://www.codewars.com/kata/52250aca906b0c28f80003a1)
