@@ -1,0 +1,1 @@
+# [Breaking search bad](https://www.codewars.com/kata/52cd53948d673a6e66000576)
