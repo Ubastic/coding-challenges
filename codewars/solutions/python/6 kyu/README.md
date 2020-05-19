@@ -32,6 +32,7 @@
 * [Delete occurrences of an element if it occurs more than n times](/codewars/solutions/python/6%20kyu/Delete%20occurrences%20of%20an%20element%20if%20it%20occurs%20more%20than%20n%20times) - [CodeWard](https://www.codewars.com/kata/554ca54ffa7d91b236000023)
 * [Design a Simple Automaton (Finite State Machine)](/codewars/solutions/python/6%20kyu/Design%20a%20Simple%20Automaton%20Finite%20State%20Machine) - [CodeWard](https://www.codewars.com/kata/5268acac0d3f019add000203)
 * [Detect Pangram](/codewars/solutions/python/6%20kyu/Detect%20Pangram) - [CodeWard](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
+* [Difference of 2](/codewars/solutions/python/6%20kyu/Difference%20of%202) - [CodeWard](https://www.codewars.com/kata/5340298112fa30e786000688)
 * [Does my number look big in this?](/codewars/solutions/python/6%20kyu/Does%20my%20number%20look%20big%20in%20this) - [CodeWard](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
 * [Don't rely on luck.](/codewars/solutions/python/6%20kyu/Dont%20rely%20on%20luck) - [CodeWard](https://www.codewars.com/kata/5268af3872b786f006000228)
 * [Dubstep](/codewars/solutions/python/6%20kyu/Dubstep) - [CodeWard](https://www.codewars.com/kata/551dc350bf4e526099000ae5)
