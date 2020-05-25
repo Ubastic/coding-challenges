@@ -48,6 +48,7 @@
 * [Find the missing term in an Arithmetic Progression](/codewars/solutions/python/6%20kyu/Find%20the%20missing%20term%20in%20an%20Arithmetic%20Progression) - [CodeWard](https://www.codewars.com/kata/52de553ebb55d1fca3000371)
 * [Find the odd int](/codewars/solutions/python/6%20kyu/Find%20the%20odd%20int) - [CodeWard](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 * [Find the unique number](/codewars/solutions/python/6%20kyu/Find%20the%20unique%20number) - [CodeWard](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
+* [Find within array](/codewars/solutions/python/6%20kyu/Find%20within%20array) - [CodeWard](https://www.codewars.com/kata/51f082ba7297b8f07f000001)
 * [Football - Yellow and Red Cards](/codewars/solutions/python/6%20kyu/Football%20%20Yellow%20and%20Red%20Cards) - [CodeWard](https://www.codewars.com/kata/5cde4e3f52910d00130dc92c)
 * [Format a string of names like 'Bart, Lisa & Maggie'.](/codewars/solutions/python/6%20kyu/Format%20a%20string%20of%20names%20like%20Bart%20Lisa%20%20Maggie) - [CodeWard](https://www.codewars.com/kata/53368a47e38700bd8300030d)
 * [Frogificator](/codewars/solutions/python/6%20kyu/Frogificator) - [CodeWard](https://www.codewars.com/kata/59f6d96d27402f9329000081)
