@@ -1,0 +1,1 @@
+# [String Letter Counting](https://www.codewars.com/kata/59e19a747905df23cb000024)

@@ -125,6 +125,7 @@
 * [Statistics for an Athletic Association](/codewars/solutions/python/6%20kyu/Statistics%20for%20an%20Athletic%20Association) - [CodeWard](https://www.codewars.com/kata/55b3425df71c1201a800009c)
 * [Steps in Primes](/codewars/solutions/python/6%20kyu/Steps%20in%20Primes) - [CodeWard](https://www.codewars.com/kata/5613d06cee1e7da6d5000055)
 * [Stop gninnipS My sdroW!](/codewars/solutions/python/6%20kyu/Stop%20gninnipS%20My%20sdroW) - [CodeWard](https://www.codewars.com/kata/5264d2b162488dc400000001)
+* [String Letter Counting](/codewars/solutions/python/6%20kyu/String%20Letter%20Counting) - [CodeWard](https://www.codewars.com/kata/59e19a747905df23cb000024)
 * [String subpattern recognition I](/codewars/solutions/python/6%20kyu/String%20subpattern%20recognition%20I) - [CodeWard](https://www.codewars.com/kata/5a49f074b3bfa89b4c00002b)
 * [String subpattern recognition II](/codewars/solutions/python/6%20kyu/String%20subpattern%20recognition%20II) - [CodeWard](https://www.codewars.com/kata/5a4a391ad8e145cdee0000c4)
 * [String subpattern recognition III](/codewars/solutions/python/6%20kyu/String%20subpattern%20recognition%20III) - [CodeWard](https://www.codewars.com/kata/5a4a2973d8e14586c700000a)
