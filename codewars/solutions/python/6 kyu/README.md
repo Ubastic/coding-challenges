@@ -82,6 +82,7 @@
 * [Multiples of 3 or 5](/codewars/solutions/python/6%20kyu/Multiples%20of%203%20or%205) - [CodeWard](https://www.codewars.com/kata/514b92a657cdc65150000006)
 * [Multiplication Tables](/codewars/solutions/python/6%20kyu/Multiplication%20Tables) - [CodeWard](https://www.codewars.com/kata/5432fd1c913a65b28f000342)
 * [Multiplication table](/codewars/solutions/python/6%20kyu/Multiplication%20table) - [CodeWard](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
+* [Multirange iterator](/codewars/solutions/python/6%20kyu/Multirange%20iterator) - [CodeWard](https://www.codewars.com/kata/56bc72f866a2ab1890000be0)
 * [N smallest elements in original order](/codewars/solutions/python/6%20kyu/N%20smallest%20elements%20in%20original%20order) - [CodeWard](https://www.codewars.com/kata/5aec1ed7de4c7f3517000079)
 * [Next Version](/codewars/solutions/python/6%20kyu/Next%20Version) - [CodeWard](https://www.codewars.com/kata/56c0ca8c6d88fdb61b000f06)
 * [Not prime numbers](/codewars/solutions/python/6%20kyu/Not%20prime%20numbers) - [CodeWard](https://www.codewars.com/kata/5a9a70cf5084d74ff90000f7)
