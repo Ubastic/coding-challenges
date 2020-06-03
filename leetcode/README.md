@@ -34,6 +34,7 @@ This repo contains all my solutions from LeetCode.
 | Reverse String | Easy | [solution](/leetcode/solutions/easy/reverse-string/) |
 | Move Zeroes | Easy | [solution](/leetcode/solutions/easy/move-zeroes/) |
 | Valid Anagram | Easy | [solution](/leetcode/solutions/easy/valid-anagram/) |
+| Delete Node in a Linked List | Easy | [solution](/leetcode/solutions/easy/delete-node-in-a-linked-list/) |
 | Invert Binary Tree | Easy | [solution](/leetcode/solutions/easy/invert-binary-tree/) |
 | Contains Duplicate | Easy | [solution](/leetcode/solutions/easy/contains-duplicate/) |
 | Reverse Bits | Easy | [solution](/leetcode/solutions/easy/reverse-bits/) |
