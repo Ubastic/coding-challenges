@@ -28,6 +28,7 @@ This repo contains all my solutions from LeetCode.
 | Longest Substring Without Repeating Characters | Medium | [solution](/leetcode/solutions/medium/longest-substring-without-repeating-characters/) |
 | Add Two Numbers | Medium | [solution](/leetcode/solutions/medium/add-two-numbers/) |
 | Print in Order | Easy | [solution](/leetcode/solutions/easy/print-in-order/) |
+| Two City Scheduling | Easy | [solution](/leetcode/solutions/easy/two-city-scheduling/) |
 | First Unique Character in a String | Easy | [solution](/leetcode/solutions/easy/first-unique-character-in-a-string/) |
 | Intersection of Two Arrays II | Easy | [solution](/leetcode/solutions/easy/intersection-of-two-arrays-ii/) |
 | Reverse String | Easy | [solution](/leetcode/solutions/easy/reverse-string/) |
