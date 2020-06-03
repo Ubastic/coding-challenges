@@ -39,6 +39,7 @@ This repo contains all my solutions from LeetCode.
 | Rotate Array | Easy | [solution](/leetcode/solutions/easy/rotate-array/) |
 | Single Number | Easy | [solution](/leetcode/solutions/easy/single-number/) |
 | Valid Palindrome | Easy | [solution](/leetcode/solutions/easy/valid-palindrome/) |
+| Best Time to Buy and Sell Stock | Easy | [solution](/leetcode/solutions/easy/best-time-to-buy-and-sell-stock/) |
 | Path Sum | Easy | [solution](/leetcode/solutions/easy/path-sum/) |
 | Maximum Depth of Binary Tree | Easy | [solution](/leetcode/solutions/easy/maximum-depth-of-binary-tree/) |
 | Symmetric Tree | Easy | [solution](/leetcode/solutions/easy/symmetric-tree/) |
