@@ -1,6 +1,7 @@
 import re
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
+from dataclasses import dataclass, asdict
 from itertools import count
 from pathlib import Path
 from string import punctuation
@@ -9,7 +10,6 @@ from typing import (
     Dict,
     Iterable,
     List,
-    NamedTuple,
 )
 from urllib.parse import quote
 
@@ -23,6 +23,7 @@ from requests import (
     Response,
     Session,
 )
+from json import dumps
 
 BASE_URL = 'https://www.codewars.com'
 
@@ -45,7 +46,8 @@ LONGEST_LANGUAGE = max(map(len, LANGUAGE_FILE_EXTENSION)) + 1
 NUMBERS = count(1)
 
 
-class Kata(NamedTuple):
+@dataclass
+class Kata:
     name: str
     link: str
     kuy: str
@@ -153,6 +155,11 @@ def write_global_readme(information: Dict[str, Any]) -> None:
 
     readme = Path.cwd() / 'README.md'
     readme.write_text(template.format(**information), encoding="utf-8")
+
+
+def write_global_info_json(katas: Dict[str, Dict[str, List[Kata]]]) -> None:
+    json_info = Path.cwd() / 'info.json'
+    json_info.write_text(dumps(katas, default=asdict), encoding="utf-8")
 
 
 def kata_pages(s: Session, auth_token: str, username: str, chunks: int = 10) -> Iterable[Tag]:
@@ -315,6 +322,7 @@ def main(username: str, password: str, email: str) -> None:
         })
 
         write_global_readme(data)
+        write_global_info_json(katas)
 
 
 if __name__ == '__main__':
