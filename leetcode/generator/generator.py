@@ -1,8 +1,10 @@
 import re
+from collections import defaultdict
+from dataclasses import dataclass, asdict, fields
+from json import dumps
 from pathlib import Path
 from typing import (
     List,
-    NamedTuple,
     Sequence,
 )
 from urllib.parse import quote
@@ -44,14 +46,16 @@ LANGUAGE_FILE_EXTENSION = {
 LONGEST_LANGUAGE = max(map(len, LANGUAGE_FILE_EXTENSION)) + 1
 
 
-class Submission(NamedTuple):
+@dataclass
+class Submission:
     id: str
     statusDisplay: str
     lang: str
     url: str
 
 
-class Question(NamedTuple):
+@dataclass
+class Question:
     id: int
     slug: str
     title: str
@@ -99,7 +103,7 @@ def get_submissions(s: Session, question: str) -> Sequence[Submission]:
     submissions = data['data']['submissionList']['submissions']
 
     return [
-        Submission(**{k: s[k] for k in Submission._fields})
+        Submission(**{k.name: s[k.name] for k in fields(Submission)})
         for s in submissions
     ]
 
@@ -147,6 +151,15 @@ def write_question_submission(s: Session, question: Question) -> None:
     submission_file.write_text(code, 'utf-8')
 
 
+def write_global_info_json(questions: Sequence[Question]) -> None:
+    by_difficult = defaultdict(list)
+    for question in questions:
+        by_difficult[question.difficulty].append(question)
+
+    json_info = Path.cwd() / 'info.json'
+    json_info.write_text(dumps(by_difficult, default=asdict), encoding="utf-8")
+
+
 @click.command()
 @click.option(
     '-s',
@@ -188,6 +201,8 @@ def main(session_id) -> None:
         (BASE_DIR / 'README.md').write_text(
             template.format(solutions='\n'.join(questions_info))
         )
+
+        write_global_info_json(questions)
 
 
 if __name__ == '__main__':
