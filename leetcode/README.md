@@ -9,6 +9,7 @@ This repo contains all my solutions from LeetCode.
 | Merge k Sorted Lists | Hard | [solution](/leetcode/solutions/hard/merge-k-sorted-lists/) |
 | Median of Two Sorted Arrays | Hard | [solution](/leetcode/solutions/hard/median-of-two-sorted-arrays/) |
 | Print Zero Even Odd | Medium | [solution](/leetcode/solutions/medium/print-zero-even-odd/) |
+| Coin Change 2 | Medium | [solution](/leetcode/solutions/medium/coin-change-2/) |
 | Product of Array Except Self | Medium | [solution](/leetcode/solutions/medium/product-of-array-except-self/) |
 | Lowest Common Ancestor of a Binary Tree | Medium | [solution](/leetcode/solutions/medium/lowest-common-ancestor-of-a-binary-tree/) |
 | Compare Version Numbers | Medium | [solution](/leetcode/solutions/medium/compare-version-numbers/) |
