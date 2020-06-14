@@ -9,6 +9,7 @@ This repo contains all my solutions from LeetCode.
 | Merge k Sorted Lists | Hard | [solution](/leetcode/solutions/hard/merge-k-sorted-lists/) |
 | Median of Two Sorted Arrays | Hard | [solution](/leetcode/solutions/hard/median-of-two-sorted-arrays/) |
 | Print Zero Even Odd | Medium | [solution](/leetcode/solutions/medium/print-zero-even-odd/) |
+| Cheapest Flights Within K Stops | Medium | [solution](/leetcode/solutions/medium/cheapest-flights-within-k-stops/) |
 | Coin Change 2 | Medium | [solution](/leetcode/solutions/medium/coin-change-2/) |
 | Queue Reconstruction by Height | Medium | [solution](/leetcode/solutions/medium/queue-reconstruction-by-height/) |
 | Insert Delete GetRandom O(1) | Medium | [solution](/leetcode/solutions/medium/insert-delete-getrandom-o1/) |
