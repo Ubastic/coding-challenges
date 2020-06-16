@@ -11,6 +11,7 @@ This repo contains all my solutions from LeetCode.
 | Print Zero Even Odd | Medium | [solution](/leetcode/solutions/medium/print-zero-even-odd/) |
 | Cheapest Flights Within K Stops | Medium | [solution](/leetcode/solutions/medium/cheapest-flights-within-k-stops/) |
 | Coin Change 2 | Medium | [solution](/leetcode/solutions/medium/coin-change-2/) |
+| Validate IP Address | Medium | [solution](/leetcode/solutions/medium/validate-ip-address/) |
 | Queue Reconstruction by Height | Medium | [solution](/leetcode/solutions/medium/queue-reconstruction-by-height/) |
 | Insert Delete GetRandom O(1) | Medium | [solution](/leetcode/solutions/medium/insert-delete-getrandom-o1/) |
 | Product of Array Except Self | Medium | [solution](/leetcode/solutions/medium/product-of-array-except-self/) |
