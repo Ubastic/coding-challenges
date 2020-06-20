@@ -1,17 +1,23 @@
 import re
 from collections import defaultdict
-from dataclasses import dataclass, asdict, fields
-from json import dumps
-from pathlib import Path
-from typing import (
-    List,
-    Sequence,
-)
-from urllib.parse import quote
 from concurrent.futures import (
     ThreadPoolExecutor,
     as_completed,
 )
+from dataclasses import dataclass, asdict, fields
+from functools import wraps
+from itertools import count
+from json import dumps
+from pathlib import Path
+from random import randint
+from time import sleep
+from typing import (
+    List,
+    Sequence,
+    Tuple,
+)
+from urllib.parse import quote
+
 import click
 from bs4 import BeautifulSoup
 from requests import (
@@ -60,6 +66,24 @@ class Question:
     slug: str
     title: str
     difficulty: str
+
+
+def retry(attempts: int = 10, delay_range: Tuple[int, int] = (1, 10)):
+    def decorator(func):
+        @wraps(func)
+        def wrapper(*args, **kwargs):
+            for i in count(1):
+                try:
+                    return func(*args, **kwargs)
+                except Exception:
+                    if i == attempts:
+                        raise
+
+                    sleep(randint(*delay_range))
+
+        return wrapper
+
+    return decorator
 
 
 def create_link(name: str, url: str, wrap: bool = True) -> str:
@@ -138,6 +162,7 @@ def get_questions(s: Session) -> Sequence[Question]:
     ]
 
 
+@retry()
 def write_question_submission(s: Session, question: Question) -> None:
     submission_dir = SOLUTIONS_DIR / question.difficulty / question.slug
     submission_dir.mkdir(exist_ok=True)
@@ -179,8 +204,7 @@ def main(session_id) -> None:
 
         questions_sorted = sorted(
             questions,
-            key=lambda q: DIFFICULTY_LEVEL.index(q.difficulty),
-            reverse=True,
+            key=lambda q: (DIFFICULTY_LEVEL.index(q.difficulty), q.slug),
         )
 
         questions_info: List[str] = [
