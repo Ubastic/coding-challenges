@@ -15,6 +15,7 @@ from typing import (
     List,
     Sequence,
     Tuple,
+    Optional,
 )
 from urllib.parse import quote
 
@@ -66,6 +67,7 @@ class Question:
     slug: str
     title: str
     difficulty: str
+    submissions: Optional[Sequence[Submission]] = None
 
 
 def retry(attempts: int = 10, delay_range: Tuple[int, int] = (1, 10)):
@@ -167,7 +169,8 @@ def write_question_submission(s: Session, question: Question) -> None:
     submission_dir = SOLUTIONS_DIR / question.difficulty / question.slug
     submission_dir.mkdir(exist_ok=True)
 
-    submission, *_ = get_submissions(s, question.slug)
+    question.submissions = get_submissions(s, question.slug)
+    submission, *_ = question.submissions
     code = get_submission_code(s, submission)
 
     print(f'Write solution for "{question.title}"')
@@ -215,7 +218,7 @@ def main(session_id) -> None:
             for question in questions_sorted
         ]
 
-        with ThreadPoolExecutor(20) as pool:
+        with ThreadPoolExecutor(5) as pool:
             for f in as_completed([
                 pool.submit(write_question_submission, s, q) for q in questions_sorted
             ]):
@@ -226,7 +229,7 @@ def main(session_id) -> None:
             template.format(solutions='\n'.join(questions_info))
         )
 
-        write_global_info_json(questions)
+        write_global_info_json(questions_sorted)
 
 
 if __name__ == '__main__':
