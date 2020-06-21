@@ -63,6 +63,7 @@ This repo contains all my solutions from LeetCode.
 | Validate Binary Search Tree | Medium | [solution](/leetcode/solutions/medium/validate-binary-search-tree/) |
 | Validate IP Address | Medium | [solution](/leetcode/solutions/medium/validate-ip-address/) |
 | Binary Tree Postorder Traversal | Hard | [solution](/leetcode/solutions/hard/binary-tree-postorder-traversal/) |
+| Dungeon Game | Hard | [solution](/leetcode/solutions/hard/dungeon-game/) |
 | Median of Two Sorted Arrays | Hard | [solution](/leetcode/solutions/hard/median-of-two-sorted-arrays/) |
 | Merge k Sorted Lists | Hard | [solution](/leetcode/solutions/hard/merge-k-sorted-lists/) |
 | Serialize and Deserialize Binary Tree | Hard | [solution](/leetcode/solutions/hard/serialize-and-deserialize-binary-tree/) |
