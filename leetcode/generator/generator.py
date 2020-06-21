@@ -67,7 +67,7 @@ class Question:
     slug: str
     title: str
     difficulty: str
-    submissions: Optional[Sequence[Submission]] = None
+    latest_solution: Optional[str] = None
 
 
 def retry(attempts: int = 10, delay_range: Tuple[int, int] = (1, 10)):
@@ -169,14 +169,13 @@ def write_question_submission(s: Session, question: Question) -> None:
     submission_dir = SOLUTIONS_DIR / question.difficulty / question.slug
     submission_dir.mkdir(exist_ok=True)
 
-    question.submissions = get_submissions(s, question.slug)
-    submission, *_ = question.submissions
-    code = get_submission_code(s, submission)
+    submission, *_ = get_submissions(s, question.slug)
+    question.latest_solution = get_submission_code(s, submission)
 
     print(f'Write solution for "{question.title}"')
 
     submission_file = submission_dir / f'solution.{LANGUAGE_FILE_EXTENSION[submission.lang]}'
-    submission_file.write_text(code, 'utf-8')
+    submission_file.write_text(question.latest_solution, 'utf-8')
 
 
 def write_global_info_json(questions: Sequence[Question]) -> None:
