@@ -56,6 +56,7 @@ This repo contains all my solutions from LeetCode.
 | Product of Array Except Self | Medium | [solution](/leetcode/solutions/medium/product-of-array-except-self/) |
 | Queue Reconstruction by Height | Medium | [solution](/leetcode/solutions/medium/queue-reconstruction-by-height/) |
 | Rotate Image | Medium | [solution](/leetcode/solutions/medium/rotate-image/) |
+| Single Number II | Medium | [solution](/leetcode/solutions/medium/single-number-ii/) |
 | Sort Colors | Medium | [solution](/leetcode/solutions/medium/sort-colors/) |
 | String to Integer (atoi) | Medium | [solution](/leetcode/solutions/medium/string-to-integer-atoi/) |
 | Surrounded Regions | Medium | [solution](/leetcode/solutions/medium/surrounded-regions/) |
