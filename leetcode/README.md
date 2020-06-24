@@ -62,6 +62,7 @@ This repo contains all my solutions from LeetCode.
 | Sort Colors | Medium | [solution](/leetcode/solutions/medium/sort-colors/) |
 | String to Integer (atoi) | Medium | [solution](/leetcode/solutions/medium/string-to-integer-atoi/) |
 | Surrounded Regions | Medium | [solution](/leetcode/solutions/medium/surrounded-regions/) |
+| Unique Binary Search Trees | Medium | [solution](/leetcode/solutions/medium/unique-binary-search-trees/) |
 | Valid Sudoku | Medium | [solution](/leetcode/solutions/medium/valid-sudoku/) |
 | Validate Binary Search Tree | Medium | [solution](/leetcode/solutions/medium/validate-binary-search-tree/) |
 | Validate IP Address | Medium | [solution](/leetcode/solutions/medium/validate-ip-address/) |
