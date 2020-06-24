@@ -45,6 +45,7 @@ This repo contains all my solutions from LeetCode.
 | Construct Binary Tree from Inorder and Postorder Traversal | Medium | [solution](/leetcode/solutions/medium/construct-binary-tree-from-inorder-and-postorder-traversal/) |
 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | [solution](/leetcode/solutions/medium/construct-binary-tree-from-preorder-and-inorder-traversal/) |
 | Count Complete Tree Nodes | Medium | [solution](/leetcode/solutions/medium/count-complete-tree-nodes/) |
+| Decode String | Medium | [solution](/leetcode/solutions/medium/decode-string/) |
 | Insert Delete GetRandom O(1) | Medium | [solution](/leetcode/solutions/medium/insert-delete-getrandom-o1/) |
 | Longest Substring Without Repeating Characters | Medium | [solution](/leetcode/solutions/medium/longest-substring-without-repeating-characters/) |
 | Lowest Common Ancestor of a Binary Tree | Medium | [solution](/leetcode/solutions/medium/lowest-common-ancestor-of-a-binary-tree/) |
