@@ -49,6 +49,7 @@ This repo contains all my solutions from LeetCode.
 | Count Complete Tree Nodes | Medium | [solution](/leetcode/solutions/medium/count-complete-tree-nodes/) |
 | Decode String | Medium | [solution](/leetcode/solutions/medium/decode-string/) |
 | Find the Duplicate Number | Medium | [solution](/leetcode/solutions/medium/find-the-duplicate-number/) |
+| Implement Trie (Prefix Tree) | Medium | [solution](/leetcode/solutions/medium/implement-trie-prefix-tree/) |
 | Insert Delete GetRandom O(1) | Medium | [solution](/leetcode/solutions/medium/insert-delete-getrandom-o1/) |
 | Longest Substring Without Repeating Characters | Medium | [solution](/leetcode/solutions/medium/longest-substring-without-repeating-characters/) |
 | Lowest Common Ancestor of a Binary Tree | Medium | [solution](/leetcode/solutions/medium/lowest-common-ancestor-of-a-binary-tree/) |
