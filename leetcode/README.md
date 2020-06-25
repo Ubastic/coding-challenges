@@ -8,6 +8,7 @@ This repo contains all my solutions from LeetCode.
 | Contains Duplicate | Easy | [solution](/leetcode/solutions/easy/contains-duplicate/) |
 | Delete Node in a Linked List | Easy | [solution](/leetcode/solutions/easy/delete-node-in-a-linked-list/) |
 | First Unique Character in a String | Easy | [solution](/leetcode/solutions/easy/first-unique-character-in-a-string/) |
+| Hamming Distance | Easy | [solution](/leetcode/solutions/easy/hamming-distance/) |
 | Implement strStr() | Easy | [solution](/leetcode/solutions/easy/implement-strstr/) |
 | Intersection of Two Arrays II | Easy | [solution](/leetcode/solutions/easy/intersection-of-two-arrays-ii/) |
 | Invert Binary Tree | Easy | [solution](/leetcode/solutions/easy/invert-binary-tree/) |
@@ -16,6 +17,7 @@ This repo contains all my solutions from LeetCode.
 | Maximum Depth of Binary Tree | Easy | [solution](/leetcode/solutions/easy/maximum-depth-of-binary-tree/) |
 | Merge Two Sorted Lists | Easy | [solution](/leetcode/solutions/easy/merge-two-sorted-lists/) |
 | Move Zeroes | Easy | [solution](/leetcode/solutions/easy/move-zeroes/) |
+| Nim Game | Easy | [solution](/leetcode/solutions/easy/nim-game/) |
 | Palindrome Number | Easy | [solution](/leetcode/solutions/easy/palindrome-number/) |
 | Path Sum | Easy | [solution](/leetcode/solutions/easy/path-sum/) |
 | Plus One | Easy | [solution](/leetcode/solutions/easy/plus-one/) |
